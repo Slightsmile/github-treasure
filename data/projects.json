@@ -1506,5 +1506,3789 @@
     "language": "C#",
     "stars": null,
     "dateAdded": "2025-05-05"
+  },
+  {
+    "slug": "cloudstream",
+    "name": "recloudstream/cloudstream",
+    "description": "A Netflix-like streaming app for Android that supports adding extension sources.",
+    "url": "https://github.com/recloudstream/cloudstream",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "streaming",
+      "open-source"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "cloudstream-extensions-hexated",
+    "name": "hexated/cloudstream-extensions-hexated",
+    "description": "Hexated source extensions for the Cloudstream Android streaming app.",
+    "url": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "streaming",
+      "extension"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "spotx",
+    "name": "amd64fox/SpotX",
+    "description": "A modified Spotify client that blocks ads and updates.",
+    "url": "https://github.com/amd64fox/SpotX",
+    "category": "Open Source",
+    "tags": [
+      "spotify",
+      "mod",
+      "desktop"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "udemy-downloader-gui",
+    "name": "FaisalUmair/udemy-downloader-gui",
+    "description": "A GUI tool to download courses from Udemy for personal offline use.",
+    "url": "https://github.com/FaisalUmair/udemy-downloader-gui",
+    "category": "Automation",
+    "tags": [
+      "udemy",
+      "downloader",
+      "gui"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "udemy-downloader-gui-fork",
+    "name": "heliomarpm/udemy-downloader-gui",
+    "description": "An actively maintained fork of the Udemy course downloader GUI tool.",
+    "url": "https://github.com/heliomarpm/udemy-downloader-gui",
+    "category": "Automation",
+    "tags": [
+      "udemy",
+      "downloader",
+      "gui"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "debloat-windows-10",
+    "name": "W4RH4WK/Debloat-Windows-10",
+    "description": "A PowerShell script to remove bloatware and other unnecessary services from Windows 10.",
+    "url": "https://github.com/W4RH4WK/Debloat-Windows-10",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "powershell",
+      "debloat"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "windows-10-sophia-script",
+    "name": "farag2/Windows-10-Sophia-Script",
+    "description": "A PowerShell script to automate the process of debloating and tweaking Windows 10.",
+    "url": "https://github.com/farag2/Windows-10-Sophia-Script",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "powershell",
+      "debloat"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "stream-detector",
+    "name": "rowrawer/stream-detector",
+    "description": "A Firefox addon for keeping track of manifests used by various streaming protocols and downloading media files.",
+    "url": "https://github.com/rowrawer/stream-detector",
+    "category": "Frontend",
+    "tags": [
+      "browser-extension",
+      "streaming",
+      "firefox"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "noto-fonts",
+    "name": "googlefonts/noto-fonts",
+    "description": "A collection of open-source fonts developed by Google.",
+    "url": "https://github.com/googlefonts/noto-fonts",
+    "category": "Design",
+    "tags": [
+      "fonts",
+      "open-source",
+      "typography"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "n-m3u8dl-cli",
+    "name": "nilaoda/N_m3u8DL-CLI",
+    "description": "A command-line tool to download m3u8 videos and convert to other formats.",
+    "url": "https://github.com/nilaoda/N_m3u8DL-CLI",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "downloader",
+      "video"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "awesome-youtubers",
+    "name": "JoseDeFreitas/awesome-youtubers",
+    "description": "A curated list of awesome YouTubers and YouTube channels.",
+    "url": "https://github.com/JoseDeFreitas/awesome-youtubers",
+    "category": "Learning",
+    "tags": [
+      "curated-list",
+      "youtube"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "warp-plus-cloudflare",
+    "name": "ALIILAPRO/warp-plus-cloudflare",
+    "description": "A script to add unlimited data to Cloudflare's Warp VPN service.",
+    "url": "https://github.com/ALIILAPRO/warp-plus-cloudflare",
+    "category": "Automation",
+    "tags": [
+      "vpn",
+      "cloudflare",
+      "script"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "goodbyedpi",
+    "name": "ValdikSS/GoodbyeDPI",
+    "description": "A tool for bypassing censorship and DPI (Deep Packet Inspection) by ISPs and governments.",
+    "url": "https://github.com/ValdikSS/GoodbyeDPI",
+    "category": "Security",
+    "tags": [
+      "dpi",
+      "censorship",
+      "privacy"
+    ],
+    "language": "C",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "xdm",
+    "name": "subhra74/xdm",
+    "description": "A download manager that supports HTTP, HTTPS, and FTP downloads.",
+    "url": "https://github.com/subhra74/xdm",
+    "category": "Productivity",
+    "tags": [
+      "download-manager",
+      "desktop"
+    ],
+    "language": "Java",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "pimpmystremio",
+    "name": "sungshon/PimpMyStremio",
+    "description": "A tool for customizing the Stremio streaming app.",
+    "url": "https://github.com/sungshon/PimpMyStremio",
+    "category": "Open Source",
+    "tags": [
+      "stremio",
+      "streaming",
+      "customization"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "mpv-net",
+    "name": "stax76/mpv.net",
+    "description": "A modern media player based on mpv.",
+    "url": "https://github.com/stax76/mpv.net",
+    "category": "Open Source",
+    "tags": [
+      "media-player",
+      "desktop"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "imdb-scout-mod",
+    "name": "Purfview/IMDb-Scout-Mod",
+    "description": "A browser extension that enhances IMDb by adding ratings from other websites and streaming service availability to movie and TV show pages.",
+    "url": "https://github.com/Purfview/IMDb-Scout-Mod",
+    "category": "Frontend",
+    "tags": [
+      "browser-extension",
+      "imdb"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "bangla-fonts",
+    "name": "zihaaad/bangla-fonts",
+    "description": "A collection of Bangla fonts.",
+    "url": "https://github.com/zihaaad/bangla-fonts",
+    "category": "Design",
+    "tags": [
+      "fonts",
+      "bangla",
+      "typography"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "trafficmonitor",
+    "name": "zhongyang219/TrafficMonitor",
+    "description": "A lightweight system monitoring tool that displays network traffic, CPU usage, memory usage, and other system information in real-time.",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "monitoring",
+      "system"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "emusak-ui",
+    "name": "CapitaineJSparrow/emusak-ui",
+    "description": "A tool which allows you to download saves or mods for Nintendo Switch emulators using a compatible Emusak backend.",
+    "url": "https://github.com/CapitaineJSparrow/emusak-ui",
+    "category": "Open Source",
+    "tags": [
+      "emulator",
+      "nintendo-switch"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "easy-gpu-p",
+    "name": "jamesstringerparsec/Easy-GPU-P",
+    "description": "A project dedicated to making GPU Partitioning on Windows easier.",
+    "url": "https://github.com/jamesstringerparsec/Easy-GPU-P",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "gpu",
+      "virtualization"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "fileconverter",
+    "name": "Tichau/FileConverter",
+    "description": "A tool for converting between various file formats, including audio, video, and image formats.",
+    "url": "https://github.com/Tichau/FileConverter",
+    "category": "Open Source",
+    "tags": [
+      "file-conversion",
+      "windows"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "blockthespot",
+    "name": "mrpond/BlockTheSpot",
+    "description": "A tool that blocks ads on Spotify and improves the overall user experience.",
+    "url": "https://github.com/mrpond/BlockTheSpot",
+    "category": "Open Source",
+    "tags": [
+      "spotify",
+      "ad-blocking"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "megabasterd",
+    "name": "tonikelope/megabasterd",
+    "description": "A command-line tool that allows users to download files from Mega.nz and other similar file-sharing services.",
+    "url": "https://github.com/tonikelope/megabasterd",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "downloader",
+      "mega"
+    ],
+    "language": "Java",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "mpv-android",
+    "name": "mpv-android/mpv-android",
+    "description": "A media player for Android that supports a wide range of audio and video formats and provides advanced playback options.",
+    "url": "https://github.com/mpv-android/mpv-android",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "media-player"
+    ],
+    "language": "C",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "goindex-extended",
+    "name": "cheems/goindex-extended",
+    "description": "An alternative front-end for Google Drive that provides a file manager, media player, and other features.",
+    "url": "https://github.com/cheems/goindex-extended",
+    "category": "Self Hosted",
+    "tags": [
+      "google-drive",
+      "self-hosted"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "lively",
+    "name": "rocksdanister/lively",
+    "description": "A tool for generating live wallpapers and animated backgrounds for Windows 10.",
+    "url": "https://github.com/rocksdanister/lively",
+    "category": "Open Source",
+    "tags": [
+      "windows",
+      "wallpaper",
+      "desktop"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "blackhole",
+    "name": "Sangwan5688/BlackHole",
+    "description": "A music app for high resolution music streaming experience on your phone with no advertising or paid subscriptions.",
+    "url": "https://github.com/Sangwan5688/BlackHole",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "music",
+      "open-source"
+    ],
+    "language": "Dart",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "twitchleecher",
+    "name": "Franiac/TwitchLeecher",
+    "description": "A Windows application for downloading Twitch.tv VODs.",
+    "url": "https://github.com/Franiac/TwitchLeecher",
+    "category": "Open Source",
+    "tags": [
+      "twitch",
+      "downloader",
+      "windows"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "awesome",
+    "name": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "category": "Learning",
+    "tags": [
+      "curated-list",
+      "awesome"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "nerd-fonts",
+    "name": "ryanoasis/nerd-fonts",
+    "description": "A collection of over 30 patched fonts designed to be used with coding applications.",
+    "url": "https://github.com/ryanoasis/nerd-fonts",
+    "category": "Design",
+    "tags": [
+      "fonts",
+      "developer-tools"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "legacygwent",
+    "name": "LegacyGwent/LegacyGwent",
+    "description": "A fan-made recreation of the Witcher 3's Gwent card game.",
+    "url": "https://github.com/LegacyGwent/LegacyGwent",
+    "category": "Open Source",
+    "tags": [
+      "game",
+      "gwent"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "pairdrop",
+    "name": "schlagmichdoch/PairDrop",
+    "description": "A cross-platform app for transferring files between devices over a local network.",
+    "url": "https://github.com/schlagmichdoch/PairDrop",
+    "category": "Self Hosted",
+    "tags": [
+      "file-sharing",
+      "networking"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "snapdrop",
+    "name": "RobinLinus/snapdrop",
+    "description": "A web-based alternative to Apple's AirDrop for sharing files between devices.",
+    "url": "https://github.com/RobinLinus/snapdrop",
+    "category": "Self Hosted",
+    "tags": [
+      "file-sharing",
+      "web"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "private-trackers-spreadsheet",
+    "name": "HDVinnie/Private-Trackers-Spreadsheet",
+    "description": "A spreadsheet providing detailed information about private trackers.",
+    "url": "https://github.com/HDVinnie/Private-Trackers-Spreadsheet",
+    "category": "Open Source",
+    "tags": [
+      "torrent",
+      "spreadsheet"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "anyme",
+    "name": "zunjae/anYme",
+    "description": "Unofficial Android Anime App for MyAnimeList.",
+    "url": "https://github.com/zunjae/anYme",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "anime"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "mimikatz",
+    "name": "gentilkiwi/mimikatz",
+    "description": "A little tool to play with Windows security.",
+    "url": "https://github.com/gentilkiwi/mimikatz",
+    "category": "Security",
+    "tags": [
+      "windows",
+      "security",
+      "pentest"
+    ],
+    "language": "C",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "adnauseam",
+    "name": "dhowe/AdNauseam",
+    "description": "A browser extension that fights back against advertising surveillance by hiding ads and clicking them all in the background.",
+    "url": "https://github.com/dhowe/AdNauseam",
+    "category": "Security",
+    "tags": [
+      "privacy",
+      "browser-extension",
+      "ad-blocking"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "illustrator-scripts-alex",
+    "name": "alexander-ladygin/illustrator-scripts",
+    "description": "A collection of Adobe Illustrator scripts.",
+    "url": "https://github.com/alexander-ladygin/illustrator-scripts",
+    "category": "Design",
+    "tags": [
+      "illustrator",
+      "scripts",
+      "design"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "illustrator-scripts-creold",
+    "name": "creold/illustrator-scripts",
+    "description": "A collection of Adobe Illustrator scripts.",
+    "url": "https://github.com/creold/illustrator-scripts",
+    "category": "Design",
+    "tags": [
+      "illustrator",
+      "scripts",
+      "design"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "js4ai",
+    "name": "johnwun/js4ai",
+    "description": "Collection of Javascripts for Adobe Illustrator.",
+    "url": "https://github.com/johnwun/js4ai",
+    "category": "Design",
+    "tags": [
+      "illustrator",
+      "javascript",
+      "design"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "photoshop-scripts-creold",
+    "name": "creold/photoshop-scripts",
+    "description": "Powerful JSX scripts for extending Adobe Photoshop.",
+    "url": "https://github.com/creold/photoshop-scripts",
+    "category": "Design",
+    "tags": [
+      "photoshop",
+      "scripts",
+      "design"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "steamautocracker",
+    "name": "BigBoiCJ/SteamAutoCracker",
+    "description": "An open-source script that automatically cracks (removes DRM from) Steam games.",
+    "url": "https://github.com/BigBoiCJ/SteamAutoCracker",
+    "category": "Open Source",
+    "tags": [
+      "steam",
+      "drm",
+      "gaming"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "vcredist",
+    "name": "abbodi1406/vcredist",
+    "description": "AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes.",
+    "url": "https://github.com/abbodi1406/vcredist",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "runtime"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "generateme",
+    "name": "tsulej/GenerateMe",
+    "description": "Processing scripts used to generative glitch, art, and design.",
+    "url": "https://github.com/tsulej/GenerateMe",
+    "category": "Design",
+    "tags": [
+      "generative-art",
+      "processing"
+    ],
+    "language": "Java",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "node-chatgpt-api",
+    "name": "waylaidwanderer/node-chatgpt-api",
+    "description": "A Node.js library for interacting with the ChatGPT language model.",
+    "url": "https://github.com/waylaidwanderer/node-chatgpt-api",
+    "category": "AI",
+    "tags": [
+      "chatgpt",
+      "nodejs",
+      "api"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "deep-blueberry",
+    "name": "mithi/deep-blueberry",
+    "description": "A resource for getting started learning about deep-learning.",
+    "url": "https://github.com/mithi/deep-blueberry",
+    "category": "Learning",
+    "tags": [
+      "deep-learning",
+      "education"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "styleclip",
+    "name": "orpatashnik/StyleCLIP",
+    "description": "A novel zero-shot text-to-image synthesis approach that generates images based on textual descriptions.",
+    "url": "https://github.com/orpatashnik/StyleCLIP",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "text-to-image"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "controlnet",
+    "name": "lllyasviel/ControlNet",
+    "description": "A neural network structure to control diffusion models by adding extra conditions.",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "stable-diffusion"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "sd-civitai-extension",
+    "name": "civitai/sd_civitai_extension",
+    "description": "All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI.",
+    "url": "https://github.com/civitai/sd_civitai_extension",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "stable-diffusion",
+      "civitai"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "sd-webui-controlnet",
+    "name": "Mikubill/sd-webui-controlnet",
+    "description": "WebUI extension for ControlNet.",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "stable-diffusion",
+      "webui"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "llama-dl",
+    "name": "shawwn/llama-dl",
+    "description": "High-speed download of LLaMA, Facebook's 65B parameter GPT model.",
+    "url": "https://github.com/shawwn/llama-dl",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "llama",
+      "downloader"
+    ],
+    "language": "Shell",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "coding-interview-university",
+    "name": "jwasham/coding-interview-university",
+    "description": "A comprehensive computer science curriculum for preparing for coding interviews.",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "category": "Learning",
+    "tags": [
+      "interview",
+      "computer-science",
+      "curated-list"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "dreambooth-stable-diffusion-tweaked",
+    "name": "cantrell/Dreambooth-Stable-Diffusion-Tweaked",
+    "description": "A fork of the Dreambooth stable diffusion algorithm with various improvements and optimizations.",
+    "url": "https://github.com/cantrell/Dreambooth-Stable-Diffusion-Tweaked",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "stable-diffusion",
+      "dreambooth"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "lora",
+    "name": "cloneofsimo/lora",
+    "description": "A framework for developing and deploying machine learning models with a simple interface for training and deployment.",
+    "url": "https://github.com/cloneofsimo/lora",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "machine-learning",
+      "lora"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "auto-photoshop-stablediffusion-plugin",
+    "name": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "description": "A Photoshop plugin for applying StableDiffusion filtering to images.",
+    "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "photoshop",
+      "stable-diffusion"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "deepfacelab",
+    "name": "iperov/DeepFaceLab",
+    "description": "A tool for creating deepfake videos by swapping faces in videos.",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "deepfake",
+      "video"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "stable-diffusion-ui",
+    "name": "cmdr2/stable-diffusion-ui",
+    "description": "Easiest 1-click way to install and use Stable Diffusion on your own computer, with a browser UI.",
+    "url": "https://github.com/cmdr2/stable-diffusion-ui",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "stable-diffusion",
+      "webui"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "stable-diffusion-klms-gui",
+    "name": "mallorbc/stable-diffusion-klms-gui",
+    "description": "Dockerizes Stable Diffusion to ease the usage of the model with a gradio UI.",
+    "url": "https://github.com/mallorbc/stable-diffusion-klms-gui",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "stable-diffusion",
+      "docker"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "big-sleep",
+    "name": "lucidrains/big-sleep",
+    "description": "A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN.",
+    "url": "https://github.com/lucidrains/big-sleep",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "text-to-image",
+      "cli"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "dreambooth-stable-diffusion",
+    "name": "JoePenna/Dreambooth-Stable-Diffusion",
+    "description": "Fine tuning text-to-image diffusion models for subject-driven generation.",
+    "url": "https://github.com/JoePenna/Dreambooth-Stable-Diffusion",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "stable-diffusion",
+      "fine-tuning"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "tortoise-tts",
+    "name": "neonbjb/tortoise-tts",
+    "description": "A multi-voice text-to-speech system trained with an emphasis on quality.",
+    "url": "https://github.com/neonbjb/tortoise-tts",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "text-to-speech"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "real-time-voice-cloning",
+    "name": "CorentinJ/Real-Time-Voice-Cloning",
+    "description": "A deep learning project for cloning a voice in real time.",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "voice-cloning"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "faceswap",
+    "name": "deepfakes/faceswap",
+    "description": "A tool for creating deepfake videos by swapping faces in videos.",
+    "url": "https://github.com/deepfakes/faceswap",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "deepfake",
+      "video"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "deepvoice3-pytorch",
+    "name": "r9y9/deepvoice3_pytorch",
+    "description": "PyTorch implementation of convolutional neural network-based text-to-speech synthesis models.",
+    "url": "https://github.com/r9y9/deepvoice3_pytorch",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "text-to-speech",
+      "pytorch"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "midjourney-styles-and-keywords-reference",
+    "name": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "description": "A reference containing styles and keywords you can use with MidJourney AI.",
+    "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "midjourney",
+      "reference"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "fastchat",
+    "name": "lm-sys/FastChat",
+    "description": "An open platform for training, serving, and evaluating large language model based chat systems (Vicuna).",
+    "url": "https://github.com/lm-sys/FastChat",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "llm",
+      "chatbot"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "gpt4free",
+    "name": "xtekky/gpt4free",
+    "description": "A collection of powerful language models accessible for free.",
+    "url": "https://github.com/xtekky/gpt4free",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "gpt",
+      "llm"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "gpt-author",
+    "name": "mshumer/gpt-author",
+    "description": "Uses a chain of GPT-4, Stable Diffusion, and Anthropic API calls to generate an original fantasy novel.",
+    "url": "https://github.com/mshumer/gpt-author",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "gpt-4",
+      "writing"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "animateanyone",
+    "name": "HumanAIGC/AnimateAnyone",
+    "description": "Consistent and controllable image-to-video synthesis for character animation.",
+    "url": "https://github.com/HumanAIGC/AnimateAnyone",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "video",
+      "animation"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "localgpt",
+    "name": "PromtEngineer/localGPT",
+    "description": "Chat with your documents on your local device using GPT models, 100% private.",
+    "url": "https://github.com/PromtEngineer/localGPT",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "llm",
+      "privacy"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "auto-code-rover",
+    "name": "nus-apr/auto-code-rover",
+    "description": "A project structure aware autonomous software engineer aiming for autonomous program improvement.",
+    "url": "https://github.com/nus-apr/auto-code-rover",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "agents",
+      "software-engineering"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "alphacodium",
+    "name": "Codium-ai/AlphaCodium",
+    "description": "Official implementation for Code Generation with AlphaCodium, from prompt engineering to flow engineering.",
+    "url": "https://github.com/Codium-ai/AlphaCodium",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "code-generation"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "iopaint",
+    "name": "Sanster/IOPaint",
+    "description": "Image inpainting tool powered by SOTA AI models to remove unwanted objects or replace them with stable diffusion.",
+    "url": "https://github.com/Sanster/IOPaint",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "image-processing",
+      "inpainting"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "open-animateanyone",
+    "name": "guoqincode/Open-AnimateAnyone",
+    "description": "Unofficial implementation of Animate Anyone.",
+    "url": "https://github.com/guoqincode/Open-AnimateAnyone",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "video",
+      "animation"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "promptoftheyear",
+    "name": "successfulstudy/promptoftheyear",
+    "description": "A collection showcasing the most impactful LLM prompts of the year across various domains.",
+    "url": "https://github.com/successfulstudy/promptoftheyear",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "prompts",
+      "curated-list"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "map-of-github",
+    "name": "anvaka/map-of-github",
+    "description": "A map of 400,000+ GitHub projects, where dots are close if they have common stargazers.",
+    "url": "https://github.com/anvaka/map-of-github",
+    "category": "Developer Tools",
+    "tags": [
+      "github",
+      "visualization"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-10-01"
+  },
+  {
+    "slug": "captura",
+    "name": "MathewSachin/Captura",
+    "description": "A light weight screen capture tool.",
+    "url": "https://github.com/MathewSachin/Captura",
+    "category": "Open Source",
+    "tags": [
+      "screen-capture",
+      "windows"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2023-10-01"
+  },
+  {
+    "slug": "sdmaid-se",
+    "name": "d4rken-org/sdmaid-se",
+    "description": "An app that automatically cleans cache on every app on Android.",
+    "url": "https://github.com/d4rken-org/sdmaid-se",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "cache-cleaner"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2023-10-01"
+  },
+  {
+    "slug": "xmanager",
+    "name": "Team-xManager/xManager",
+    "description": "A Spotify mod manager for Android.",
+    "url": "https://github.com/Team-xManager/xManager",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "spotify",
+      "mod"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-10-01"
+  },
+  {
+    "slug": "engine",
+    "name": "whitescent/Engine",
+    "description": "A tool that lets you use a secondary controller for retro games with siblings.",
+    "url": "https://github.com/whitescent/Engine",
+    "category": "Open Source",
+    "tags": [
+      "gaming",
+      "controller"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-10-01"
+  },
+  {
+    "slug": "nanazip",
+    "name": "M2Team/NanaZip",
+    "description": "An open-source file archiver intended for the modern Windows experience, forked from 7-Zip.",
+    "url": "https://github.com/M2Team/NanaZip",
+    "category": "Open Source",
+    "tags": [
+      "windows",
+      "archiver"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2023-09-01"
+  },
+  {
+    "slug": "win10script",
+    "name": "ChrisTitusTech/win10script",
+    "description": "A script for debloating bloated Windows 10/11.",
+    "url": "https://github.com/ChrisTitusTech/win10script",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "debloat"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2023-07-20"
+  },
+  {
+    "slug": "digitalwellbeingforwindows",
+    "name": "christiankyle-ching/DigitalWellbeingForWindows",
+    "description": "Digital wellbeing tracking for Windows.",
+    "url": "https://github.com/christiankyle-ching/DigitalWellbeingForWindows",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "digital-wellbeing"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-07-20"
+  },
+  {
+    "slug": "youtube-music",
+    "name": "th-ch/youtube-music",
+    "description": "A YouTube Music desktop app with ad blocker built in.",
+    "url": "https://github.com/th-ch/youtube-music",
+    "category": "Open Source",
+    "tags": [
+      "youtube-music",
+      "ad-blocking",
+      "desktop"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-08-04"
+  },
+  {
+    "slug": "kms-vl-all-aio",
+    "name": "abbodi1406/KMS_VL_ALL_AIO",
+    "description": "A tool to activate both Windows and MS Office.",
+    "url": "https://github.com/abbodi1406/KMS_VL_ALL_AIO",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "activation"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-08-04"
+  },
+  {
+    "slug": "rare",
+    "name": "Dummerle/Rare",
+    "description": "A lightweight Epic Games Launcher FOSS alternative.",
+    "url": "https://github.com/Dummerle/Rare",
+    "category": "Open Source",
+    "tags": [
+      "gaming",
+      "epic-games",
+      "launcher"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-09-22"
+  },
+  {
+    "slug": "idm-activation-script",
+    "name": "WindowsAddict/IDM-Activation-Script",
+    "description": "IDM activation script by Massgrave, creator of MAS.",
+    "url": "https://github.com/WindowsAddict/IDM-Activation-Script",
+    "category": "DevOps",
+    "tags": [
+      "idm",
+      "activation",
+      "windows"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2023-09-22"
+  },
+  {
+    "slug": "droid-ify",
+    "name": "Droid-ify/client",
+    "description": "An alternative F-Droid client with more reliability, repos, and a modern UI.",
+    "url": "https://github.com/Droid-ify/client",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "f-droid",
+      "app-store"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2023-09-22"
+  },
+  {
+    "slug": "shizuku",
+    "name": "RikkaApps/Shizuku",
+    "description": "Allows silent app installs and other privileged operations on Android without root.",
+    "url": "https://github.com/RikkaApps/Shizuku",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "system-tools"
+    ],
+    "language": "Java",
+    "stars": null,
+    "dateAdded": "2023-09-22"
+  },
+  {
+    "slug": "libretube",
+    "name": "libre-tube/LibreTube",
+    "description": "A YouTube alternative which uses a NewPipe instance.",
+    "url": "https://github.com/libre-tube/LibreTube",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "youtube",
+      "privacy"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2023-09-30"
+  },
+  {
+    "slug": "betterdiscord",
+    "name": "BetterDiscord/BetterDiscord",
+    "description": "A Discord client mod with community support and better native plugin support.",
+    "url": "https://github.com/BetterDiscord/BetterDiscord",
+    "category": "Open Source",
+    "tags": [
+      "discord",
+      "mod",
+      "desktop"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-09-30"
+  },
+  {
+    "slug": "mediacreationtool-bat",
+    "name": "AveYo/MediaCreationTool.bat",
+    "description": "A universal media creation tool for Windows 10 (1507 to 21H2) and Windows 11.",
+    "url": "https://github.com/AveYo/MediaCreationTool.bat",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "installer"
+    ],
+    "language": "Batchfile",
+    "stars": null,
+    "dateAdded": "2023-09-30"
+  },
+  {
+    "slug": "elevenclock",
+    "name": "marticliment/ElevenClock",
+    "description": "Customize the taskbar clock for Windows 11.",
+    "url": "https://github.com/marticliment/ElevenClock",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "taskbar"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2023-09-30"
+  },
+  {
+    "slug": "taskbarxi",
+    "name": "ChrisAnd1998/TaskbarXI",
+    "description": "Turns the Windows taskbar into a dock.",
+    "url": "https://github.com/ChrisAnd1998/TaskbarXI",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "taskbar",
+      "dock"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2023-09-30"
+  },
+  {
+    "slug": "protecc",
+    "name": "FireCubeStudios/Protecc",
+    "description": "An open source Windows 2FA authenticator.",
+    "url": "https://github.com/FireCubeStudios/Protecc",
+    "category": "Security",
+    "tags": [
+      "windows",
+      "2fa",
+      "authenticator"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2023-09-30"
+  },
+  {
+    "slug": "translucenttb",
+    "name": "TranslucentTB/TranslucentTB",
+    "description": "A lightweight utility that makes the Windows taskbar translucent and transparent.",
+    "url": "https://github.com/TranslucentTB/TranslucentTB",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "taskbar",
+      "customization"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2023-09-30"
+  },
+  {
+    "slug": "caprine",
+    "name": "sindresorhus/caprine",
+    "description": "A more snappy and smooth Facebook Messenger desktop client.",
+    "url": "https://github.com/sindresorhus/caprine",
+    "category": "Open Source",
+    "tags": [
+      "messenger",
+      "desktop"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-09-30"
+  },
+  {
+    "slug": "dopamine",
+    "name": "digimezzo/dopamine",
+    "description": "Dopamine is an elegant audio player that tries to make organizing and listening to music as simple and pretty as possible.",
+    "url": "https://github.com/digimezzo/dopamine",
+    "category": "Open Source",
+    "tags": [
+      "music-player",
+      "desktop"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2023-10-26"
+  },
+  {
+    "slug": "thorium",
+    "name": "Alex313031/thorium",
+    "description": "A Chromium browser with Google Sync support that's lightweight and fast, without crypto features.",
+    "url": "https://github.com/Alex313031/thorium",
+    "category": "Frontend",
+    "tags": [
+      "browser",
+      "chromium"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2024-05-30"
+  },
+  {
+    "slug": "mercury-browser",
+    "name": "Alex313031/Mercury",
+    "description": "A Firefox-based browser fork for Chrome/Brave alternative users.",
+    "url": "https://github.com/Alex313031/Mercury",
+    "category": "Frontend",
+    "tags": [
+      "browser",
+      "firefox"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-11-11"
+  },
+  {
+    "slug": "ic-template",
+    "name": "shawonsaha15/IC-Template",
+    "description": "Templates usable for courses that involve Logisim and logic gate projects.",
+    "url": "https://github.com/shawonsaha15/IC-Template",
+    "category": "Learning",
+    "tags": [
+      "education",
+      "logic-gates"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-09-05"
+  },
+  {
+    "slug": "wsabuilds",
+    "name": "MustardChef/WSABuilds",
+    "description": "Modified Windows Subsystem for Android (WSA) with Amazon app store removed, Gapps options, and pre-rooted with kernelsu/magisk.",
+    "url": "https://github.com/MustardChef/WSABuilds",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "windows",
+      "wsa"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-09-05"
+  },
+  {
+    "slug": "colemakcamp-github-io",
+    "name": "ColemakCamp/colemakcamp.github.io",
+    "description": "Colemak Camp, a keyboard layout learning tool, fork of Colemak Club.",
+    "url": "https://github.com/ColemakCamp/colemakcamp.github.io",
+    "category": "Learning",
+    "tags": [
+      "keyboard-layout",
+      "education"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-09-05"
+  },
+  {
+    "slug": "colemakclub",
+    "name": "gnusenpai/colemakclub",
+    "description": "A tool to learn the Colemak keyboard layout.",
+    "url": "https://github.com/gnusenpai/colemakclub",
+    "category": "Learning",
+    "tags": [
+      "keyboard-layout",
+      "education"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-09-05"
+  },
+  {
+    "slug": "kotatsu",
+    "name": "KotatsuApp/Kotatsu",
+    "description": "A free and open source manga reader for Android that works great even on low-RAM devices.",
+    "url": "https://github.com/KotatsuApp/Kotatsu",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "manga",
+      "reader"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-02-05"
+  },
+  {
+    "slug": "winmemorycleaner",
+    "name": "IgorMundstein/WinMemoryCleaner",
+    "description": "A Windows memory cleaning utility.",
+    "url": "https://github.com/IgorMundstein/WinMemoryCleaner",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "memory",
+      "utility"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2024-02-05"
+  },
+  {
+    "slug": "ani-cli",
+    "name": "pystardust/ani-cli",
+    "description": "A simple command line tool to watch anime.",
+    "url": "https://github.com/pystardust/ani-cli",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "anime",
+      "streaming"
+    ],
+    "language": "Shell",
+    "stars": null,
+    "dateAdded": "2024-03-21"
+  },
+  {
+    "slug": "mov-cli",
+    "name": "mov-cli/mov-cli",
+    "description": "A CLI tool similar to ani-cli that searches for movies, shows, and others.",
+    "url": "https://github.com/mov-cli/mov-cli",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "movies",
+      "streaming"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2024-03-21"
+  },
+  {
+    "slug": "android-appcachecleaner",
+    "name": "bmx666/android-appcachecleaner",
+    "description": "An app to clean cache on non-rooted Android devices.",
+    "url": "https://github.com/bmx666/android-appcachecleaner",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "cache-cleaner"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-04-05"
+  },
+  {
+    "slug": "copyfoldertool",
+    "name": "biteworks/CopyFolderTool",
+    "description": "A GUI of Robocopy that can copy tons of files much faster than the built-in Windows copier.",
+    "url": "https://github.com/biteworks/CopyFolderTool",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "file-copy"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2024-04-06"
+  },
+  {
+    "slug": "keepassdx",
+    "name": "Kunzisoft/KeePassDX",
+    "description": "An offline password manager for Android with 2FA TOTP support, compatible with KeePassXC databases.",
+    "url": "https://github.com/Kunzisoft/KeePassDX",
+    "category": "Security",
+    "tags": [
+      "android",
+      "password-manager"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-04-06"
+  },
+  {
+    "slug": "audiogpt",
+    "name": "AIGC-Audio/AudioGPT",
+    "description": "Understanding and generating speech, music, sound, and talking head using AI.",
+    "url": "https://github.com/AIGC-Audio/AudioGPT",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "audio",
+      "speech"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2024-04-06"
+  },
+  {
+    "slug": "tron",
+    "name": "bmrf/tron",
+    "description": "A script that automates the tedious work of getting a badly-running Windows system back on its feet.",
+    "url": "https://github.com/bmrf/tron",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "cleanup",
+      "repair"
+    ],
+    "language": "Batchfile",
+    "stars": null,
+    "dateAdded": "2024-04-28"
+  },
+  {
+    "slug": "slsk-batchdl",
+    "name": "fiso64/slsk-batchdl",
+    "description": "A tool to batch download your music library in high quality using Soulseek, with YouTube/Spotify playlist support.",
+    "url": "https://github.com/fiso64/slsk-batchdl",
+    "category": "CLI",
+    "tags": [
+      "music",
+      "downloader",
+      "soulseek"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2024-05-16"
+  },
+  {
+    "slug": "appmanager",
+    "name": "MuntashirAkon/AppManager",
+    "description": "An advanced Android package manager to scan trackers, backup/restore APKs, and sign apps.",
+    "url": "https://github.com/MuntashirAkon/AppManager",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "package-manager",
+      "security"
+    ],
+    "language": "Java",
+    "stars": null,
+    "dateAdded": "2024-05-16"
+  },
+  {
+    "slug": "lsposed-mod",
+    "name": "mywalkb/LSPosed_mod",
+    "description": "A maintained fork of LSPosed, the Xposed framework implementation, since the original was abandoned.",
+    "url": "https://github.com/mywalkb/LSPosed_mod",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "xposed",
+      "root"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2024-05-13"
+  },
+  {
+    "slug": "telegram-animated-emojis",
+    "name": "Tarikul-Islam-Anik/Telegram-Animated-Emojis",
+    "description": "All the Telegram animated emojis available in one place for use in projects or README files.",
+    "url": "https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis",
+    "category": "Design",
+    "tags": [
+      "emoji",
+      "telegram"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-05-24"
+  },
+  {
+    "slug": "pyrobox",
+    "name": "RaSan147/pyrobox",
+    "description": "Turn any folder of your computer or Raspberry Pi into a local drive server with account/permission system.",
+    "url": "https://github.com/RaSan147/pyrobox",
+    "category": "Self Hosted",
+    "tags": [
+      "python",
+      "file-server",
+      "self-hosted"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2024-06-05"
+  },
+  {
+    "slug": "universal-android-debloater-next-generation",
+    "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "description": "A detached fork of the abandoned UAD project for debloating Android devices.",
+    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "debloat"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2024-06-05"
+  },
+  {
+    "slug": "rimusic",
+    "name": "fast4x/RiMusic",
+    "description": "A fork of the popular music player ViMusic that is being updated regularly.",
+    "url": "https://github.com/fast4x/RiMusic",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "music-player"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-06-06"
+  },
+  {
+    "slug": "wsa-windows-10",
+    "name": "JimDude7404/WSA-Windows-10",
+    "description": "Windows Subsystem for Android (WSA) backported to Windows 10.",
+    "url": "https://github.com/JimDude7404/WSA-Windows-10",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "windows",
+      "wsa"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-06-06"
+  },
+  {
+    "slug": "design-resources-for-developers",
+    "name": "bradtraversy/design-resources-for-developers",
+    "description": "A curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, and tools.",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "category": "Design",
+    "tags": [
+      "design",
+      "curated-list",
+      "resources"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-06-09"
+  },
+  {
+    "slug": "rectify11-installer",
+    "name": "Rectify11/Installer",
+    "description": "Visually overhauls Windows 11 and 10 unofficially.",
+    "url": "https://github.com/Rectify11/Installer",
+    "category": "Open Source",
+    "tags": [
+      "windows",
+      "customization"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2024-06-12"
+  },
+  {
+    "slug": "animdl",
+    "name": "justfoolingaround/animdl",
+    "description": "A highly efficient, fast, powerful and light-weight anime downloader and streamer.",
+    "url": "https://github.com/justfoolingaround/animdl",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "anime",
+      "downloader"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2024-06-12"
+  },
+  {
+    "slug": "dra-cla",
+    "name": "CoolnsX/dra-cla",
+    "description": "A CLI tool similar to ani-cli but for Korean/Chinese Drama.",
+    "url": "https://github.com/CoolnsX/dra-cla",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "drama",
+      "streaming"
+    ],
+    "language": "Shell",
+    "stars": null,
+    "dateAdded": "2024-06-12"
+  },
+  {
+    "slug": "openrgb",
+    "name": "CalcProgrammer1/OpenRGB",
+    "description": "An open source RGB lighting control tool supporting over 2k+ devices.",
+    "url": "https://github.com/CalcProgrammer1/OpenRGB",
+    "category": "Open Source",
+    "tags": [
+      "rgb",
+      "hardware",
+      "open-source"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2024-06-21"
+  },
+  {
+    "slug": "nextdnsmanager",
+    "name": "doubleangels/NextDNSManager",
+    "description": "An Android application that simplifies the management of your NextDNS configuration.",
+    "url": "https://github.com/doubleangels/NextDNSManager",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "dns",
+      "privacy"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-06-30"
+  },
+  {
+    "slug": "wifilist",
+    "name": "jaredcat/WiFiList",
+    "description": "View your saved WiFi passwords on Android 11 and later without root.",
+    "url": "https://github.com/jaredcat/WiFiList",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "wifi"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-06-30"
+  },
+  {
+    "slug": "dnschanger-desktop",
+    "name": "DnsChanger/dnsChanger-desktop",
+    "description": "An open-source DNS changer for Windows, Mac, and Linux that gathers the best DNS servers securely.",
+    "url": "https://github.com/DnsChanger/dnsChanger-desktop",
+    "category": "Security",
+    "tags": [
+      "dns",
+      "privacy",
+      "desktop"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-06-30"
+  },
+  {
+    "slug": "dantotsu",
+    "name": "rebelonion/Dantotsu",
+    "description": "The best Anime watching and Manga reading app for Android.",
+    "url": "https://github.com/rebelonion/Dantotsu",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "anime",
+      "manga"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-06-30"
+  },
+  {
+    "slug": "kv4jetbrains",
+    "name": "noembryo/KV4Jetbrains",
+    "description": "Syntax highlighting and auto-completion for .kv files in PyCharm/IntelliJ IDEA (Kivy design language files).",
+    "url": "https://github.com/noembryo/KV4Jetbrains",
+    "category": "Developer Tools",
+    "tags": [
+      "jetbrains",
+      "kivy",
+      "python"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-06-30"
+  },
+  {
+    "slug": "winfetch-lptstr",
+    "name": "lptstr/winfetch",
+    "description": "A Windows alternative to Neofetch for displaying system info.",
+    "url": "https://github.com/lptstr/winfetch",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "windows",
+      "system-info"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2024-06-30"
+  },
+  {
+    "slug": "winfetch-m4cs",
+    "name": "M4cs/winfetch",
+    "description": "A .exe Windows alternative to Neofetch for displaying system info.",
+    "url": "https://github.com/M4cs/winfetch",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "windows",
+      "system-info"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2024-06-30"
+  },
+  {
+    "slug": "canta",
+    "name": "samolego/Canta",
+    "description": "Uninstall any Android app, including system apps, without root.",
+    "url": "https://github.com/samolego/Canta",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "uninstaller"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-08-25"
+  },
+  {
+    "slug": "namida",
+    "name": "namidaco/namida",
+    "description": "A beautiful and feature-rich music and video player with YouTube support, built in Flutter.",
+    "url": "https://github.com/namidaco/namida",
+    "category": "Mobile",
+    "tags": [
+      "flutter",
+      "music-player",
+      "android"
+    ],
+    "language": "Dart",
+    "stars": null,
+    "dateAdded": "2024-09-01"
+  },
+  {
+    "slug": "malwarebytes-premium-bypass",
+    "name": "Scrut1ny/Malwarebytes-Premium-Bypass",
+    "description": "A script that resets the 14-day trial period of Malwarebytes Premium.",
+    "url": "https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass",
+    "category": "Security",
+    "tags": [
+      "malwarebytes",
+      "trial-reset"
+    ],
+    "language": "Batchfile",
+    "stars": null,
+    "dateAdded": "2024-07-30"
+  },
+  {
+    "slug": "wgtunnel",
+    "name": "zaneschepke/wgtunnel",
+    "description": "An alternative Android client app for WireGuard VPN.",
+    "url": "https://github.com/zaneschepke/wgtunnel",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "vpn",
+      "wireguard"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-07-30"
+  },
+  {
+    "slug": "notification-listener-android",
+    "name": "Alfio010/notification-listener-android",
+    "description": "Saves your Android device's notifications and allows retrieval of accidentally deleted ones.",
+    "url": "https://github.com/Alfio010/notification-listener-android",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "notifications"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-08-01"
+  },
+  {
+    "slug": "ab-download-manager",
+    "name": "amir1376/ab-download-manager",
+    "description": "A download manager similar to IDM with browser extension support, also available for Linux.",
+    "url": "https://github.com/amir1376/ab-download-manager",
+    "category": "Productivity",
+    "tags": [
+      "download-manager",
+      "cross-platform"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-08-01"
+  },
+  {
+    "slug": "shinkro",
+    "name": "varoOP/shinkro",
+    "description": "An application to sync Plex watch status to MyAnimeList.",
+    "url": "https://github.com/varoOP/shinkro",
+    "category": "Self Hosted",
+    "tags": [
+      "plex",
+      "anime",
+      "sync"
+    ],
+    "language": "Go",
+    "stars": null,
+    "dateAdded": "2024-08-25"
+  },
+  {
+    "slug": "manga-tui",
+    "name": "josueBarretogit/manga-tui",
+    "description": "Terminal-based manga reader and downloader with image support, downloads from MangaDex.",
+    "url": "https://github.com/josueBarretogit/manga-tui",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "manga",
+      "tui"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2024-08-25"
+  },
+  {
+    "slug": "vscode-on-steroid",
+    "name": "Evren-os/vscode-on-steroid",
+    "description": "A personal Visual Studio Code setup for a clean and streamlined coding environment.",
+    "url": "https://github.com/Evren-os/vscode-on-steroid",
+    "category": "Developer Tools",
+    "tags": [
+      "vscode",
+      "dotfiles"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-08-25"
+  },
+  {
+    "slug": "awesome-emulators",
+    "name": "DerekTurtleRoe/awesome-emulators",
+    "description": "A list of all the emulators for particular systems, including honorable and historical mentions.",
+    "url": "https://github.com/DerekTurtleRoe/awesome-emulators",
+    "category": "Learning",
+    "tags": [
+      "emulators",
+      "curated-list"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-08-25"
+  },
+  {
+    "slug": "island",
+    "name": "oasisfeng/island",
+    "description": "A sandbox environment allowing you to clone selected apps and run them isolated to prevent access to personal data.",
+    "url": "https://github.com/oasisfeng/island",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "privacy",
+      "sandbox"
+    ],
+    "language": "Java",
+    "stars": null,
+    "dateAdded": "2024-09-02"
+  },
+  {
+    "slug": "dopamine-windows",
+    "name": "digimezzo/dopamine-windows",
+    "description": "A Windows-specific version of the Dopamine audio player written in C# and CSCore.",
+    "url": "https://github.com/digimezzo/dopamine-windows",
+    "category": "Open Source",
+    "tags": [
+      "music-player",
+      "windows"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2024-09-02"
+  },
+  {
+    "slug": "stargate",
+    "name": "stargatedaw/stargate",
+    "description": "An all-in-one DAW and plugin suite for music production, focused on EDM production.",
+    "url": "https://github.com/stargatedaw/stargate",
+    "category": "Open Source",
+    "tags": [
+      "music-production",
+      "daw"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2024-09-05"
+  },
+  {
+    "slug": "ytmdl",
+    "name": "deepjyoti30/ytmdl",
+    "description": "A simple app to get songs from YouTube in mp3/m4a format with metadata from iTunes, Spotify, LastFM, Deezer.",
+    "url": "https://github.com/deepjyoti30/ytmdl",
+    "category": "CLI",
+    "tags": [
+      "youtube",
+      "music-downloader"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2024-09-05"
+  },
+  {
+    "slug": "google-sans-font",
+    "name": "hprobotic/Google-Sans-Font",
+    "description": "Google's elegant Product Sans font collection.",
+    "url": "https://github.com/hprobotic/Google-Sans-Font",
+    "category": "Design",
+    "tags": [
+      "fonts",
+      "typography"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-09-05"
+  },
+  {
+    "slug": "jitsi-meet",
+    "name": "jitsi/jitsi-meet",
+    "description": "A Google Meet alternative for secure video conferencing.",
+    "url": "https://github.com/jitsi/jitsi-meet",
+    "category": "Self Hosted",
+    "tags": [
+      "video-conferencing",
+      "self-hosted"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2024-09-05"
+  },
+  {
+    "slug": "winutil",
+    "name": "ChrisTitusTech/winutil",
+    "description": "Chris Titus Tech's Windows Utility to install programs, apply tweaks, fixes, and updates.",
+    "url": "https://github.com/ChrisTitusTech/winutil",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "utility"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2024-09-05"
+  },
+  {
+    "slug": "iptvnator",
+    "name": "4gray/iptvnator",
+    "description": "A video player application supporting playback of IPTV playlists (m3u, m3u8) with EPG support.",
+    "url": "https://github.com/4gray/iptvnator",
+    "category": "Open Source",
+    "tags": [
+      "iptv",
+      "electron"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2024-09-05"
+  },
+  {
+    "slug": "bibata-cursor",
+    "name": "ful1e5/Bibata_Cursor",
+    "description": "An alternative cursor theme collection for those bored with the default Windows cursor.",
+    "url": "https://github.com/ful1e5/Bibata_Cursor",
+    "category": "Design",
+    "tags": [
+      "cursor",
+      "theme"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2024-09-10"
+  },
+  {
+    "slug": "openbangla-keyboard",
+    "name": "OpenBangla/OpenBangla-Keyboard",
+    "description": "An open source, Unicode compliant Bangla input method for GNU/Linux systems.",
+    "url": "https://github.com/OpenBangla/OpenBangla-Keyboard",
+    "category": "Open Source",
+    "tags": [
+      "linux",
+      "bangla",
+      "keyboard"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2024-09-13"
+  },
+  {
+    "slug": "manga-downloader",
+    "name": "RedSquirrel87/manga-downloader",
+    "description": "A simple application written in Java to download manga chapters from supported websites.",
+    "url": "https://github.com/RedSquirrel87/manga-downloader",
+    "category": "Open Source",
+    "tags": [
+      "manga",
+      "downloader",
+      "java"
+    ],
+    "language": "Java",
+    "stars": null,
+    "dateAdded": "2024-09-13"
+  },
+  {
+    "slug": "free-games-claimer",
+    "name": "vogler/free-games-claimer",
+    "description": "Automatically claims free games on Epic Games Store, Amazon Prime Gaming, GOG, and more.",
+    "url": "https://github.com/vogler/free-games-claimer",
+    "category": "Automation",
+    "tags": [
+      "automation",
+      "gaming"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2024-09-13"
+  },
+  {
+    "slug": "hdo-box",
+    "name": "fsmdeveloper/hdo-box",
+    "description": "Watch and download free movies and TV series with an app for Android, iOS and TV.",
+    "url": "https://github.com/fsmdeveloper/hdo-box",
+    "category": "Mobile",
+    "tags": [
+      "streaming",
+      "movies"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-09-14"
+  },
+  {
+    "slug": "gesturefy",
+    "name": "Robbendebiene/Gesturefy",
+    "description": "A customizable Firefox mouse gesture add-on with over 80 predefined commands.",
+    "url": "https://github.com/Robbendebiene/Gesturefy",
+    "category": "Frontend",
+    "tags": [
+      "firefox",
+      "browser-extension"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2024-09-14"
+  },
+  {
+    "slug": "readyou",
+    "name": "Ashinch/ReadYou",
+    "description": "An Android RSS reader presented in Material You style.",
+    "url": "https://github.com/Ashinch/ReadYou",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "rss-reader"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-09-14"
+  },
+  {
+    "slug": "flashpoint-launcher",
+    "name": "FlashpointProject/launcher",
+    "description": "Like steam for flash games, search, download and play nostalgic flash games.",
+    "url": "https://github.com/FlashpointProject/launcher",
+    "category": "Open Source",
+    "tags": [
+      "flash",
+      "gaming",
+      "archive"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2024-09-14"
+  },
+  {
+    "slug": "sniffnet",
+    "name": "GyulyVGC/sniffnet",
+    "description": "An opensource alternative of Glasswire to monitor your internet traffic.",
+    "url": "https://github.com/GyulyVGC/sniffnet",
+    "category": "Open Source",
+    "tags": [
+      "network-monitoring",
+      "privacy"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2024-09-14"
+  },
+  {
+    "slug": "unattendedwinstall",
+    "name": "memstechtips/UnattendedWinstall",
+    "description": "Install a clean Windows 11 with automated debloat via AnswerScript or UnattendedScript.",
+    "url": "https://github.com/memstechtips/UnattendedWinstall",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "debloat",
+      "installer"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-09-14"
+  },
+  {
+    "slug": "rootlessjamesdsp",
+    "name": "timschneeb/RootlessJamesDSP",
+    "description": "An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices.",
+    "url": "https://github.com/timschneeb/RootlessJamesDSP",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "audio",
+      "dsp"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-09-14"
+  },
+  {
+    "slug": "autoeq",
+    "name": "jaakkopasanen/AutoEq",
+    "description": "EQ profiles for headphones and IEMs, usable with JamesDSP for accurate sound tuning.",
+    "url": "https://github.com/jaakkopasanen/AutoEq",
+    "category": "Open Source",
+    "tags": [
+      "audio",
+      "equalizer"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2024-09-14"
+  },
+  {
+    "slug": "heicconverter",
+    "name": "saschiwy/HeicConverter",
+    "description": "An easy hassle-free HEIC to JPG converter GUI that retains all metadata.",
+    "url": "https://github.com/saschiwy/HeicConverter",
+    "category": "Open Source",
+    "tags": [
+      "image-conversion",
+      "gui"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2024-09-14"
+  },
+  {
+    "slug": "web-syncplay",
+    "name": "Web-SyncPlay/Web-SyncPlay",
+    "description": "Create and join rooms where everyone can watch stuff together in sync, great for watch parties.",
+    "url": "https://github.com/Web-SyncPlay/Web-SyncPlay",
+    "category": "Self Hosted",
+    "tags": [
+      "watch-party",
+      "sync"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2024-10-23"
+  },
+  {
+    "slug": "unigetui",
+    "name": "marticliment/UniGetUI",
+    "description": "The graphical interface for your package managers, a package manager to manage your package managers.",
+    "url": "https://github.com/marticliment/UniGetUI",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "package-manager"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2024-10-23"
+  },
+  {
+    "slug": "revenge-bundle",
+    "name": "revenge-mod/revenge-bundle",
+    "description": "A client modification for Discord mobile that adds plugins, themes, and experiments.",
+    "url": "https://github.com/revenge-mod/revenge-bundle",
+    "category": "Mobile",
+    "tags": [
+      "discord",
+      "mod",
+      "android"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2024-10-23"
+  },
+  {
+    "slug": "aunlocker",
+    "name": "astra1dev/AUnlocker",
+    "description": "An Among Us mod that unlocks cosmetics, account patches, chat patches, and more.",
+    "url": "https://github.com/astra1dev/AUnlocker",
+    "category": "Open Source",
+    "tags": [
+      "among-us",
+      "mod",
+      "gaming"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-10-30"
+  },
+  {
+    "slug": "mrt-buddy",
+    "name": "aniruddha-adhikary/mrt-buddy",
+    "description": "Reads MRT pass balance and Rapid Pass balance via NFC.",
+    "url": "https://github.com/aniruddha-adhikary/mrt-buddy",
+    "category": "Mobile",
+    "tags": [
+      "nfc",
+      "transit"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-11-04"
+  },
+  {
+    "slug": "pandora-qshield",
+    "name": "ryancantrell321/Pandora_QShield",
+    "description": "A backup and restore solution designed to keep your qBittorrent settings secure.",
+    "url": "https://github.com/ryancantrell321/Pandora_QShield",
+    "category": "Productivity",
+    "tags": [
+      "qbittorrent",
+      "backup"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2024-11-04"
+  },
+  {
+    "slug": "seedbox-tutorial",
+    "name": "felikcat/seedbox-tutorial",
+    "description": "A minimalist Debian/Ubuntu Server seedbox setup guide oriented around fast and stable seeding.",
+    "url": "https://github.com/felikcat/seedbox-tutorial",
+    "category": "DevOps",
+    "tags": [
+      "seedbox",
+      "tutorial",
+      "torrent"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-11-05"
+  },
+  {
+    "slug": "torrent-control",
+    "name": "Mika-/torrent-control",
+    "description": "A Firefox extension for adding torrents to remote clients, supporting all major torrent clients.",
+    "url": "https://github.com/Mika-/torrent-control",
+    "category": "Frontend",
+    "tags": [
+      "firefox",
+      "torrent",
+      "browser-extension"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2024-12-24"
+  },
+  {
+    "slug": "remote-torrent-adder",
+    "name": "bogenpirat/remote-torrent-adder",
+    "description": "A Chrome extension to add torrent files to remote torrent clients.",
+    "url": "https://github.com/bogenpirat/remote-torrent-adder",
+    "category": "Frontend",
+    "tags": [
+      "chrome",
+      "torrent",
+      "browser-extension"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2024-12-24"
+  },
+  {
+    "slug": "awesome-awesomeness",
+    "name": "bayandin/awesome-awesomeness",
+    "description": "A curated list about curated lists of many topics.",
+    "url": "https://github.com/bayandin/awesome-awesomeness",
+    "category": "Learning",
+    "tags": [
+      "curated-list",
+      "awesome"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-12-27"
+  },
+  {
+    "slug": "micts",
+    "name": "parallelcc/MiCTS",
+    "description": "Trigger Circle to Search on any Android 9-15 device.",
+    "url": "https://github.com/parallelcc/MiCTS",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "circle-to-search"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2024-12-30"
+  },
+  {
+    "slug": "brisk",
+    "name": "AminBhst/brisk",
+    "description": "An ultra-fast, modern download manager for desktop with browser integration like IDM.",
+    "url": "https://github.com/AminBhst/brisk",
+    "category": "Productivity",
+    "tags": [
+      "download-manager",
+      "desktop"
+    ],
+    "language": "Dart",
+    "stars": null,
+    "dateAdded": "2024-12-30"
+  },
+  {
+    "slug": "acover",
+    "name": "NaeemBolchhi/acover",
+    "description": "Print or save to PDF cover pages for school, college, or university assignments.",
+    "url": "https://github.com/NaeemBolchhi/acover",
+    "category": "Productivity",
+    "tags": [
+      "pdf",
+      "education"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2024-12-27"
+  },
+  {
+    "slug": "rclone-wizard",
+    "name": "NaeemBolchhi/rclone-wizard",
+    "description": "Simplifies mounting cloud storage as drives with rclone via a CMD-based wizard.",
+    "url": "https://github.com/NaeemBolchhi/rclone-wizard",
+    "category": "CLI",
+    "tags": [
+      "rclone",
+      "cloud-storage",
+      "cli"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2025-01-26"
+  },
+  {
+    "slug": "qshield-cli",
+    "name": "ryancantrell321/QShield_v1.2_CLI",
+    "description": "A CLI tool to easily backup qBittorrent progress.",
+    "url": "https://github.com/ryancantrell321/QShield_v1.2_CLI",
+    "category": "CLI",
+    "tags": [
+      "qbittorrent",
+      "backup",
+      "cli"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-01-26"
+  },
+  {
+    "slug": "dlss-swapper",
+    "name": "beeradmoore/dlss-swapper",
+    "description": "A tool to manage and swap NVIDIA DLSS versions in games for better performance or image quality.",
+    "url": "https://github.com/beeradmoore/dlss-swapper",
+    "category": "Open Source",
+    "tags": [
+      "nvidia",
+      "dlss",
+      "gaming"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2025-01-26"
+  },
+  {
+    "slug": "updateme-mobile",
+    "name": "anfreire/updateMe-Mobile",
+    "description": "An app that allows you to install and keep modified apps up to date automatically.",
+    "url": "https://github.com/anfreire/updateMe-Mobile",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "app-store"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2025-02-07"
+  },
+  {
+    "slug": "winhance",
+    "name": "memstechtips/Winhance",
+    "description": "A PowerShell GUI application designed to optimize and customize your Windows experience.",
+    "url": "https://github.com/memstechtips/Winhance",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "optimization",
+      "gui"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2025-02-07"
+  },
+  {
+    "slug": "windows95-electron",
+    "name": "felixrieseberg/windows95",
+    "description": "Entire Windows 95 running as an Electron app.",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "category": "Open Source",
+    "tags": [
+      "electron",
+      "emulation",
+      "fun"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2025-02-07"
+  },
+  {
+    "slug": "llplayer",
+    "name": "umlx5h/LLPlayer",
+    "description": "A media player for language learning with dual subtitles, AI-generated subtitles, realtime OCR, and translation.",
+    "url": "https://github.com/umlx5h/LLPlayer",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "media-player",
+      "language-learning"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2025-03-13"
+  },
+  {
+    "slug": "dhara-streaming",
+    "name": "mahdirdrmc/dhara-streaming",
+    "description": "A modern streaming app to stream live TV channels and manage favorites.",
+    "url": "https://github.com/mahdirdrmc/dhara-streaming",
+    "category": "Open Source",
+    "tags": [
+      "streaming",
+      "iptv"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-03-13"
+  },
+  {
+    "slug": "ultimateredist",
+    "name": "DarthDemono/UltimateRedist",
+    "description": "A PowerShell-based solution that streamlines the installation of redistributables and .NET runtimes for gaming.",
+    "url": "https://github.com/DarthDemono/UltimateRedist",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "runtime",
+      "powershell"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2025-03-13"
+  },
+  {
+    "slug": "intersubs",
+    "name": "oltodosel/interSubs",
+    "description": "An mpv script for interactive subtitle word lookup.",
+    "url": "https://github.com/oltodosel/interSubs",
+    "category": "Open Source",
+    "tags": [
+      "mpv",
+      "subtitles"
+    ],
+    "language": "Lua",
+    "stars": null,
+    "dateAdded": "2025-03-13"
+  },
+  {
+    "slug": "spendlow",
+    "name": "marufx86/Spendlow",
+    "description": "A private, offline spending tracker using local storage so your data stays private.",
+    "url": "https://github.com/marufx86/Spendlow",
+    "category": "Productivity",
+    "tags": [
+      "finance",
+      "budgeting",
+      "privacy"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2025-03-13"
+  },
+  {
+    "slug": "tcno-acc-switcher",
+    "name": "TCNOco/TcNo-Acc-Switcher",
+    "description": "An account switcher for Steam, Battle.net, Epic Games, Origin, Riot Games, Ubisoft, and more.",
+    "url": "https://github.com/TCNOco/TcNo-Acc-Switcher",
+    "category": "Open Source",
+    "tags": [
+      "gaming",
+      "account-switcher"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2025-03-13"
+  },
+  {
+    "slug": "ludusavi",
+    "name": "mtkennerly/ludusavi",
+    "description": "A tool for backing up PC video game save data, cross-platform and written in Rust.",
+    "url": "https://github.com/mtkennerly/ludusavi",
+    "category": "Rust",
+    "tags": [
+      "rust",
+      "backup",
+      "gaming"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2025-03-13"
+  },
+  {
+    "slug": "fluent-search",
+    "name": "adirh3/Fluent-Search",
+    "description": "A powerful search tool that brings everything searchable on your PC into one lightning-fast interface.",
+    "url": "https://github.com/adirh3/Fluent-Search",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "search"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2025-03-13"
+  },
+  {
+    "slug": "pricepoka",
+    "name": "HasanC14/PricePoka",
+    "description": "Search a product's name to compare its price across top Bangladeshi tech sites in one place.",
+    "url": "https://github.com/HasanC14/PricePoka",
+    "category": "Open Source",
+    "tags": [
+      "price-comparison",
+      "bangladesh"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2025-03-13"
+  },
+  {
+    "slug": "codeblock-colorful-themes",
+    "name": "HridoyHazard/Codeblock-Colorful-Themes",
+    "description": "Colorful themes for code blocks.",
+    "url": "https://github.com/HridoyHazard/Codeblock-Colorful-Themes",
+    "category": "Design",
+    "tags": [
+      "theme",
+      "code-editor"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-03-13"
+  },
+  {
+    "slug": "quik",
+    "name": "octoshrimpy/quik",
+    "description": "The most beautiful SMS messenger for Android, revived.",
+    "url": "https://github.com/octoshrimpy/quik",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "sms",
+      "messenger"
+    ],
+    "language": "Java",
+    "stars": null,
+    "dateAdded": "2025-03-13"
+  },
+  {
+    "slug": "hydra",
+    "name": "hydralauncher/hydra",
+    "description": "A game launcher with an embedded bittorrent client, playtime tracking, achievements, and cloud saves.",
+    "url": "https://github.com/hydralauncher/hydra",
+    "category": "Open Source",
+    "tags": [
+      "gaming",
+      "launcher",
+      "torrent"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2025-05-05"
+  },
+  {
+    "slug": "winscript",
+    "name": "flick9000/winscript",
+    "description": "An open-source tool for building custom Windows scripts including debloat, privacy, and performance tweaks.",
+    "url": "https://github.com/flick9000/winscript",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "debloat"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2025-06-17"
+  },
+  {
+    "slug": "czkawka",
+    "name": "qarmin/czkawka",
+    "description": "A multi functional app to find duplicates, empty folders, similar images and more.",
+    "url": "https://github.com/qarmin/czkawka",
+    "category": "Rust",
+    "tags": [
+      "rust",
+      "file-management",
+      "duplicates"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2025-04-26"
+  },
+  {
+    "slug": "winlator",
+    "name": "brunodev85/winlator",
+    "description": "Android application for running Windows applications with Wine and Box86/Box64.",
+    "url": "https://github.com/brunodev85/winlator",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "windows",
+      "wine"
+    ],
+    "language": "Java",
+    "stars": null,
+    "dateAdded": "2025-06-01"
+  },
+  {
+    "slug": "spotx-shortcut",
+    "name": "NaeemBolchhi/SpotX-Shortcut",
+    "description": "Adds a shortcut to run SpotX to your Start Menu for quicker Spotify ad-block reapplication.",
+    "url": "https://github.com/NaeemBolchhi/SpotX-Shortcut",
+    "category": "Productivity",
+    "tags": [
+      "spotify",
+      "shortcut",
+      "windows"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2025-06-01"
+  },
+  {
+    "slug": "free-apis-github-io",
+    "name": "Free-APIs/Free-APIs.github.io",
+    "description": "A curated collection of free APIs.",
+    "url": "https://github.com/Free-APIs/Free-APIs.github.io",
+    "category": "APIs",
+    "tags": [
+      "apis",
+      "curated-list"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-06-01"
+  },
+  {
+    "slug": "householdnomore",
+    "name": "Amachik/HouseholdNoMore",
+    "description": "A browser extension that bypasses the Netflix household window.",
+    "url": "https://github.com/Amachik/HouseholdNoMore",
+    "category": "Frontend",
+    "tags": [
+      "browser-extension",
+      "netflix"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2025-06-01"
+  },
+  {
+    "slug": "useful-lists",
+    "name": "almahmudbd/Useful-lists",
+    "description": "A collection of handy tools, scripts, and websites people have found useful.",
+    "url": "https://github.com/almahmudbd/Useful-lists",
+    "category": "Learning",
+    "tags": [
+      "curated-list",
+      "tools"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-06-07"
+  },
+  {
+    "slug": "sidebardiagnostics",
+    "name": "ArcadeRenegade/SidebarDiagnostics",
+    "description": "A simple sidebar for Windows desktop that displays hardware diagnostic information.",
+    "url": "https://github.com/ArcadeRenegade/SidebarDiagnostics",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "system-monitor"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2025-06-19"
+  },
+  {
+    "slug": "cybersources",
+    "name": "bst04/CyberSources",
+    "description": "All the cybersecurity related tools in one place.",
+    "url": "https://github.com/bst04/CyberSources",
+    "category": "Security",
+    "tags": [
+      "cybersecurity",
+      "curated-list"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-06-19"
+  },
+  {
+    "slug": "sparkle-optimizer",
+    "name": "Parcoil/Sparkle",
+    "description": "A free and open-source ultimate Windows optimizer.",
+    "url": "https://github.com/Parcoil/Sparkle",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "optimization"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2025-06-19"
+  },
+  {
+    "slug": "anitail",
+    "name": "Animetailapp/AniTail",
+    "description": "A YouTube Music-like client for Android with a lightweight UI.",
+    "url": "https://github.com/Animetailapp/AniTail",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "music"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2025-06-19"
+  },
+  {
+    "slug": "anikku",
+    "name": "komikku-app/anikku",
+    "description": "A fork of Aniyomi focused only on anime, with torrent support, great for watching anime on Android.",
+    "url": "https://github.com/komikku-app/anikku",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "anime"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2025-08-02"
+  },
+  {
+    "slug": "opencut",
+    "name": "OpenCut-app/OpenCut",
+    "description": "An open-source CapCut alternative video editor for web, desktop, and mobile.",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "category": "Open Source",
+    "tags": [
+      "video-editor",
+      "capcut-alternative"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2025-08-02"
+  },
+  {
+    "slug": "hotspot-limit",
+    "name": "NaeemBolchhi/hotspot-limit",
+    "description": "A script that increases the default 8-device hotspot connection limit on Windows to up to 128.",
+    "url": "https://github.com/NaeemBolchhi/hotspot-limit",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "hotspot"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2025-08-04"
+  },
+  {
+    "slug": "codeforces-submission-fetcher-extension",
+    "name": "Andrew-Velox/Codeforces-Submission-Fetcher-Extension",
+    "description": "Fetch your Codeforces accepted submissions and generate a README.md for your GitHub repository.",
+    "url": "https://github.com/Andrew-Velox/Codeforces-Submission-Fetcher-Extension",
+    "category": "Developer Tools",
+    "tags": [
+      "codeforces",
+      "browser-extension"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2025-08-09"
+  },
+  {
+    "slug": "edge-tts-android",
+    "name": "yynag/edge-tts-android",
+    "description": "Use Edge TTS on Android as your default text-to-speech engine.",
+    "url": "https://github.com/yynag/edge-tts-android",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "text-to-speech"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-08-26"
+  },
+  {
+    "slug": "obsidian-edge-tts",
+    "name": "travisvn/obsidian-edge-tts",
+    "description": "Use Edge TTS neural voices for text-to-speech directly inside Obsidian.",
+    "url": "https://github.com/travisvn/obsidian-edge-tts",
+    "category": "Productivity",
+    "tags": [
+      "obsidian",
+      "text-to-speech"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2025-08-26"
+  },
+  {
+    "slug": "xed-editor",
+    "name": "Xed-Editor/Xed-Editor",
+    "description": "A versatile text editor for Android with syntax highlighting, customization, and built-in terminal support.",
+    "url": "https://github.com/Xed-Editor/Xed-Editor",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "code-editor"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2025-09-10"
+  },
+  {
+    "slug": "course-piracy-index",
+    "name": "ItIsMeCall911/Course-Piracy-Index",
+    "description": "An index for finding pirated online courses.",
+    "url": "https://github.com/ItIsMeCall911/Course-Piracy-Index",
+    "category": "Learning",
+    "tags": [
+      "courses",
+      "curated-list"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-09-11"
+  },
+  {
+    "slug": "fb-mobile-clean-my-feeds-ext",
+    "name": "webdevsk/fb-mobile-clean-my-feeds-ext",
+    "description": "Hides unwanted posts from Facebook feed on mobile, giving a clean newsfeed with only friends and followed pages/groups.",
+    "url": "https://github.com/webdevsk/fb-mobile-clean-my-feeds-ext",
+    "category": "Frontend",
+    "tags": [
+      "browser-extension",
+      "facebook"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2025-09-10"
+  },
+  {
+    "slug": "awesome-nano-banana-images",
+    "name": "PicoTrex/Awesome-Nano-Banana-images",
+    "description": "A Nano-banana prompt library for AI image generation.",
+    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "prompts",
+      "curated-list"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-09-10"
+  },
+  {
+    "slug": "autocrop-vertical",
+    "name": "kamilstanuch/Autocrop-vertical",
+    "description": "A Python script that automatically converts horizontal videos into vertical format for TikTok, Reels, and Shorts using object detection.",
+    "url": "https://github.com/kamilstanuch/Autocrop-vertical",
+    "category": "Python",
+    "tags": [
+      "python",
+      "video-processing",
+      "ai"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2025-09-10"
+  },
+  {
+    "slug": "adobe-alternatives",
+    "name": "KenneyNL/Adobe-Alternatives",
+    "description": "A list of alternatives/open source software for Adobe products.",
+    "url": "https://github.com/KenneyNL/Adobe-Alternatives",
+    "category": "Learning",
+    "tags": [
+      "curated-list",
+      "adobe-alternatives"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-09-10"
+  },
+  {
+    "slug": "l1b3rt4s",
+    "name": "elder-plinius/L1B3RT4S",
+    "description": "Jailbreaks for all flagship AI models.",
+    "url": "https://github.com/elder-plinius/L1B3RT4S",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "jailbreak",
+      "prompts"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-09-10"
+  },
+  {
+    "slug": "hyde",
+    "name": "HyDE-Project/HyDE",
+    "description": "A stunning, fully customizable desktop environment built for Arch Linux, based on Hyprland.",
+    "url": "https://github.com/HyDE-Project/HyDE",
+    "category": "Open Source",
+    "tags": [
+      "linux",
+      "arch",
+      "hyprland"
+    ],
+    "language": "Shell",
+    "stars": null,
+    "dateAdded": "2025-10-01"
+  },
+  {
+    "slug": "waybar-lyric",
+    "name": "Nadim147c/waybar-lyric",
+    "description": "A CLI tool that displays lyrics on your Waybar for Linux systems.",
+    "url": "https://github.com/Nadim147c/waybar-lyric",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "linux",
+      "music"
+    ],
+    "language": "Go",
+    "stars": null,
+    "dateAdded": "2025-10-01"
+  },
+  {
+    "slug": "millennium",
+    "name": "SteamClientHomebrew/Millennium",
+    "description": "An open source gateway to a better Steam client experience.",
+    "url": "https://github.com/SteamClientHomebrew/Millennium",
+    "category": "Open Source",
+    "tags": [
+      "steam",
+      "customization"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2025-10-20"
+  },
+  {
+    "slug": "seedbox-lite",
+    "name": "hotheadhacker/seedbox-lite",
+    "description": "Torrent streaming platform with a Netflix-like UI, stream from torrents directly.",
+    "url": "https://github.com/hotheadhacker/seedbox-lite",
+    "category": "Self Hosted",
+    "tags": [
+      "torrent",
+      "streaming",
+      "self-hosted"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2025-10-20"
+  },
+  {
+    "slug": "eartrumpet",
+    "name": "File-New-Project/EarTrumpet",
+    "description": "A standalone volume mixer for Windows with multi-channel audio visualization.",
+    "url": "https://github.com/File-New-Project/EarTrumpet",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "audio"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2025-11-01"
+  },
+  {
+    "slug": "komorebi",
+    "name": "LGUG2Z/komorebi",
+    "description": "A tiling window manager for Windows.",
+    "url": "https://github.com/LGUG2Z/komorebi",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "window-manager"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2025-11-08"
+  },
+  {
+    "slug": "facebook-clean-my-feeds",
+    "name": "trinhquocviet/facebook-clean-my-feeds",
+    "description": "A forked and fixed version of the Facebook feed cleaner that handles unfollowed pages and unjoined groups.",
+    "url": "https://github.com/trinhquocviet/facebook-clean-my-feeds",
+    "category": "Frontend",
+    "tags": [
+      "browser-extension",
+      "facebook"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2025-11-28"
+  },
+  {
+    "slug": "iptv-org",
+    "name": "iptv-org/iptv",
+    "description": "A collection of IPTV channels playable with VLC and other players.",
+    "url": "https://github.com/iptv-org/iptv",
+    "category": "Open Source",
+    "tags": [
+      "iptv",
+      "streaming"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-12-25"
+  },
+  {
+    "slug": "heroicgameslauncher",
+    "name": "Heroic-Games-Launcher/HeroicGamesLauncher",
+    "description": "A free and open-source game launcher for Epic Games Store, GOG, and Amazon Prime Games.",
+    "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+    "category": "Open Source",
+    "tags": [
+      "gaming",
+      "launcher"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2026-01-04"
+  },
+  {
+    "slug": "nozo",
+    "name": "RayZ3R0/nozo",
+    "description": "An at-a-glance browser extension for all browsers like Zen/Arc.",
+    "url": "https://github.com/RayZ3R0/nozo",
+    "category": "Frontend",
+    "tags": [
+      "browser-extension",
+      "productivity"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2026-01-05"
+  },
+  {
+    "slug": "antigravity-kit",
+    "name": "vudovn/antigravity-kit",
+    "description": "A collection of templates, skills, and workflows extending Google Antigravity's agent-first IDE capabilities.",
+    "url": "https://github.com/vudovn/antigravity-kit",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "google-antigravity",
+      "developer-tools"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-02-20"
+  },
+  {
+    "slug": "slim",
+    "name": "kamranahmedse/slim",
+    "description": "Give your localhost a local or public URL.",
+    "url": "https://github.com/kamranahmedse/slim",
+    "category": "DevOps",
+    "tags": [
+      "tunneling",
+      "developer-tools"
+    ],
+    "language": "Go",
+    "stars": null,
+    "dateAdded": "2026-05-07"
+  },
+  {
+    "slug": "crw-extension",
+    "name": "FULU-Foundation/CRW-Extension",
+    "description": "A browser extension that shows notifications when the site or product you're viewing has an article on the Consumer Rights Wiki.",
+    "url": "https://github.com/FULU-Foundation/CRW-Extension",
+    "category": "Frontend",
+    "tags": [
+      "browser-extension",
+      "consumer-rights"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2026-05-07"
+  },
+  {
+    "slug": "gopher-tube",
+    "name": "KrishnaSSH/GopherTube",
+    "description": "A terminal (TUI) YouTube client to search, watch, and download videos using mpv and yt-dlp.",
+    "url": "https://github.com/KrishnaSSH/GopherTube",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "youtube",
+      "tui"
+    ],
+    "language": "Go",
+    "stars": null,
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "slug": "viu-media",
+    "name": "viu-media/viu",
+    "description": "Watch anime on the terminal.",
+    "url": "https://github.com/viu-media/viu",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "anime",
+      "tui"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "slug": "nyaa-tui",
+    "name": "Beastwick18/nyaa",
+    "description": "A Nyaa torrent search client for the terminal.",
+    "url": "https://github.com/Beastwick18/nyaa",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "torrent",
+      "anime"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "slug": "jrnl",
+    "name": "jrnl-org/jrnl",
+    "description": "A simple command-line journal tool for quick journaling.",
+    "url": "https://github.com/jrnl-org/jrnl",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "journaling"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "slug": "asciinema",
+    "name": "asciinema/asciinema",
+    "description": "A terminal session recorder for capturing and sharing terminal sessions.",
+    "url": "https://github.com/asciinema/asciinema",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "terminal-recording"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "slug": "pacseek",
+    "name": "moson-mo/pacseek",
+    "description": "A TUI for searching and installing AUR packages.",
+    "url": "https://github.com/moson-mo/pacseek",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "arch-linux",
+      "tui"
+    ],
+    "language": "Go",
+    "stars": null,
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "slug": "trakt-tv-userscript-collection",
+    "name": "Fenn3c401/Trakt.tv-Userscript-Collection",
+    "description": "A collection of userscripts for trakt.tv users.",
+    "url": "https://github.com/Fenn3c401/Trakt.tv-Userscript-Collection",
+    "category": "Frontend",
+    "tags": [
+      "userscript",
+      "trakt"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2026-03-19"
+  },
+  {
+    "slug": "just-the-browser",
+    "name": "corbindavenport/just-the-browser",
+    "description": "Removes AI features, telemetry, sponsored content and other annoyances from desktop web browsers.",
+    "url": "https://github.com/corbindavenport/just-the-browser",
+    "category": "Security",
+    "tags": [
+      "privacy",
+      "browser-config"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-03-19"
+  },
+  {
+    "slug": "corridorkey",
+    "name": "nikopueringer/CorridorKey",
+    "description": "A neural network that separates the foreground object from a green screen frame with clean alpha channel output.",
+    "url": "https://github.com/nikopueringer/CorridorKey",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "video-processing",
+      "green-screen"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2026-04-28"
+  },
+  {
+    "slug": "mailhog",
+    "name": "mailhog/mailhog",
+    "description": "An email-testing tool with a fake SMTP server for developers.",
+    "url": "https://github.com/mailhog/mailhog",
+    "category": "Developer Tools",
+    "tags": [
+      "email-testing",
+      "smtp"
+    ],
+    "language": "Go",
+    "stars": null,
+    "dateAdded": "2026-05-01"
+  },
+  {
+    "slug": "search-hit-hider",
+    "name": "Istiaq-Edu/Search-Hit-Hider",
+    "description": "A Firefox extension that hides unwanted domains from search results with one click.",
+    "url": "https://github.com/Istiaq-Edu/Search-Hit-Hider",
+    "category": "Frontend",
+    "tags": [
+      "firefox",
+      "browser-extension",
+      "search"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2026-05-07"
+  },
+  {
+    "slug": "impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "Design guidance for AI coding agents with deterministic detector rules for AI-generated frontend design.",
+    "url": "https://github.com/pbakaus/impeccable",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "design",
+      "frontend"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-05-31"
+  },
+  {
+    "slug": "at-a-glance",
+    "name": "DarkDreamWiz/AT-A-GLANCE",
+    "description": "Lets you use the Glance feature of Zen Browser within any website.",
+    "url": "https://github.com/DarkDreamWiz/AT-A-GLANCE",
+    "category": "Frontend",
+    "tags": [
+      "browser-extension",
+      "zen-browser"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2026-05-30"
+  },
+  {
+    "slug": "open-remark",
+    "name": "zeon-studio/open-remark",
+    "description": "Add a comment box into any website.",
+    "url": "https://github.com/zeon-studio/open-remark",
+    "category": "Frontend",
+    "tags": [
+      "comments",
+      "widget"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2026-06-01"
+  },
+  {
+    "slug": "clypra",
+    "name": "AIEraDev/Clypra",
+    "description": "A modern video editor built with Tauri, React, and TypeScript, focused on free CapCut-like functionality.",
+    "url": "https://github.com/AIEraDev/Clypra",
+    "category": "Open Source",
+    "tags": [
+      "video-editor",
+      "tauri",
+      "react"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2026-06-09"
+  },
+  {
+    "slug": "kopuz",
+    "name": "Kopuz-org/kopuz",
+    "description": "A cross-platform music player written in Rust.",
+    "url": "https://github.com/Kopuz-org/kopuz",
+    "category": "Rust",
+    "tags": [
+      "rust",
+      "music-player"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2026-06-01"
+  },
+  {
+    "slug": "deskflow",
+    "name": "deskflow/deskflow",
+    "description": "A free and open source keyboard and mouse sharing app to control nearby computers, like a software KVM.",
+    "url": "https://github.com/deskflow/deskflow",
+    "category": "Open Source",
+    "tags": [
+      "kvm",
+      "desktop"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2026-06-15"
+  },
+  {
+    "slug": "torlink",
+    "name": "baairon/torlink",
+    "description": "A torrent finder that lives in your terminal, with zero setup, checking curated sources at once.",
+    "url": "https://github.com/baairon/torlink",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "torrent"
+    ],
+    "language": "Go",
+    "stars": null,
+    "dateAdded": "2026-07-01"
+  },
+  {
+    "slug": "komi-store",
+    "name": "kurikomi-labs/komi-store",
+    "description": "A free, open-source app store for developers' releases on GitHub, Codeberg, and Forgejo.",
+    "url": "https://github.com/kurikomi-labs/komi-store",
+    "category": "Open Source",
+    "tags": [
+      "app-store",
+      "self-hosted"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-07-01"
+  },
+  {
+    "slug": "fcksignups",
+    "name": "BraveOPotato/FckSignups",
+    "description": "Open source tools with no signups, right in your browser.",
+    "url": "https://github.com/BraveOPotato/FckSignups",
+    "category": "Open Source",
+    "tags": [
+      "privacy",
+      "tools"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-07-21"
+  },
+  {
+    "slug": "ventoid",
+    "name": "GPLaider/Ventoid",
+    "description": "Create a bootable USB flash drive using Android, based on Ventoy, open source and ad-free.",
+    "url": "https://github.com/GPLaider/Ventoid",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "bootable-usb"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-07-21"
+  },
+  {
+    "slug": "pulsedeck",
+    "name": "CodeWithYusufAhmed/pulsedeck",
+    "description": "A simple app for viewing CPU, GPU usage, temp, and RAM usage on a spare phone.",
+    "url": "https://github.com/CodeWithYusufAhmed/pulsedeck",
+    "category": "Mobile",
+    "tags": [
+      "monitoring",
+      "android"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-07-22"
+  },
+  {
+    "slug": "kudu",
+    "name": "AdventDevInc/kudu",
+    "description": "A free, open-source system cleaner and security scanner for Windows, macOS, and Linux.",
+    "url": "https://github.com/AdventDevInc/kudu",
+    "category": "Security",
+    "tags": [
+      "system-cleaner",
+      "security"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-07-27"
+  },
+  {
+    "slug": "tizentubecobalt",
+    "name": "reisxd/TizenTubeCobalt",
+    "description": "An ad-free YouTube experience for Android TV and Google TV.",
+    "url": "https://github.com/reisxd/TizenTubeCobalt",
+    "category": "Open Source",
+    "tags": [
+      "smart-tv",
+      "youtube",
+      "ad-blocking"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2026-07-27"
+  },
+  {
+    "slug": "every-app-open-seo",
+    "name": "every-app/open-seo",
+    "description": "An SEO tool/library for developers.",
+    "url": "https://github.com/every-app/open-seo",
+    "category": "Developer Tools",
+    "tags": [
+      "seo",
+      "developer-tools"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-07-28"
+  },
+  {
+    "slug": "linkmap",
+    "name": "diplukdas/LinkMap",
+    "description": "A hand-curated, beginner-friendly index of the internet with thousands of tools, streaming sites, apps, games, and AI resources.",
+    "url": "https://github.com/diplukdas/LinkMap",
+    "category": "Learning",
+    "tags": [
+      "curated-list",
+      "resources"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-07-28"
+  },
+  {
+    "slug": "firewall-iplist",
+    "name": "sun-lite/firewall",
+    "description": "Global IP blocklist for qBittorrent that blocks over 205,000 dangerous IPs.",
+    "url": "https://github.com/sun-lite/firewall",
+    "category": "Security",
+    "tags": [
+      "qbittorrent",
+      "firewall",
+      "privacy"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-07-28"
+  },
+  {
+    "slug": "windows-performance-tweaks",
+    "name": "dev-fahim-code/windows-performance-tweaks",
+    "description": "A set of Windows performance tweaks.",
+    "url": "https://github.com/dev-fahim-code/windows-performance-tweaks",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "performance"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-07-28"
   }
 ]
