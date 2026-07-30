@@ -1,0 +1,1510 @@
+[
+  {
+    "slug": "tachiyomi",
+    "name": "tachiyomiorg/tachiyomi",
+    "description": "A free Android manga reader that can fetch manga from pretty much all sources.",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "manga",
+      "reader",
+      "open-source"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2023-03-05"
+  },
+  {
+    "slug": "microsoft-activation-scripts",
+    "name": "massgravel/Microsoft-Activation-Scripts",
+    "description": "Easy Windows and Office activator delivered as a single line of PowerShell code, no downloads or virus warnings.",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "powershell",
+      "activation",
+      "utility"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2023-03-10"
+  },
+  {
+    "slug": "localsend",
+    "name": "localsend/localsend",
+    "description": "File sharing app within a local network between devices with strong platform support across Android, iOS, PC and Android TV.",
+    "url": "https://github.com/localsend/localsend",
+    "category": "Productivity",
+    "tags": [
+      "file-sharing",
+      "cross-platform",
+      "networking"
+    ],
+    "language": "Dart",
+    "stars": null,
+    "dateAdded": "2023-03-12"
+  },
+  {
+    "slug": "social-mapper",
+    "name": "Greenwolf/social_mapper",
+    "description": "A social media mapping tool that correlates social media accounts with their respective profiles.",
+    "url": "https://github.com/Greenwolf/social_mapper",
+    "category": "Security",
+    "tags": [
+      "osint",
+      "security",
+      "social-media",
+      "python"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-03-15"
+  },
+  {
+    "slug": "windows10debloater",
+    "name": "Sycnex/Windows10Debloater",
+    "description": "A PowerShell script to remove pre-installed Windows 10 apps and services.",
+    "url": "https://github.com/Sycnex/Windows10Debloater",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "powershell",
+      "debloat"
+    ],
+    "language": "PowerShell",
+    "stars": null,
+    "dateAdded": "2023-03-18"
+  },
+  {
+    "slug": "aria2",
+    "name": "aria2/aria2",
+    "description": "A lightweight and multi-protocol download utility that supports HTTP, FTP, BitTorrent, and Metalink.",
+    "url": "https://github.com/aria2/aria2",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "download-manager",
+      "networking"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2023-03-20"
+  },
+  {
+    "slug": "jq",
+    "name": "stedolan/jq",
+    "description": "A command-line JSON processor that allows for filtering and manipulation of JSON data.",
+    "url": "https://github.com/stedolan/jq",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "json",
+      "developer-tools"
+    ],
+    "language": "C",
+    "stars": null,
+    "dateAdded": "2023-03-22"
+  },
+  {
+    "slug": "jackett",
+    "name": "Jackett/Jackett",
+    "description": "A proxy server that provides API support for several torrent trackers, allowing integration with various torrent clients.",
+    "url": "https://github.com/Jackett/Jackett",
+    "category": "Self Hosted",
+    "tags": [
+      "self-hosted",
+      "torrent",
+      "proxy"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2023-03-25"
+  },
+  {
+    "slug": "developer-roadmap",
+    "name": "kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "category": "Learning",
+    "tags": [
+      "roadmap",
+      "career",
+      "education"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-03-28"
+  },
+  {
+    "slug": "free-programming-books",
+    "name": "EbookFoundation/free-programming-books",
+    "description": "A massive curated list of freely available programming books covering nearly every language and topic.",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "category": "Learning",
+    "tags": [
+      "books",
+      "education",
+      "curated-list"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-04-01"
+  },
+  {
+    "slug": "awesome-privacy",
+    "name": "pluja/awesome-privacy",
+    "description": "A curated list of privacy-respecting software and services.",
+    "url": "https://github.com/pluja/awesome-privacy",
+    "category": "Security",
+    "tags": [
+      "privacy",
+      "curated-list",
+      "security"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-04-03"
+  },
+  {
+    "slug": "sherlock",
+    "name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks.",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "category": "Security",
+    "tags": [
+      "osint",
+      "python",
+      "cli",
+      "security"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-04-05"
+  },
+  {
+    "slug": "awesome-chatgpt-prompts",
+    "name": "f/awesome-chatgpt-prompts",
+    "description": "A repo of curated ChatGPT prompt collections to help use ChatGPT more effectively.",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "category": "AI",
+    "tags": [
+      "chatgpt",
+      "prompts",
+      "curated-list"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-04-12"
+  },
+  {
+    "slug": "stable-diffusion-webui",
+    "name": "AUTOMATIC1111/stable-diffusion-webui",
+    "description": "A browser interface based on the Gradio library for Stable Diffusion image generation.",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "stable-diffusion",
+      "webui",
+      "image-generation"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-04-15"
+  },
+  {
+    "slug": "invokeai",
+    "name": "invoke-ai/InvokeAI",
+    "description": "A leading creative engine for Stable Diffusion models, empowering professionals and enthusiasts to generate visual media with AI.",
+    "url": "https://github.com/invoke-ai/InvokeAI",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "stable-diffusion",
+      "creative-tools"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-04-18"
+  },
+  {
+    "slug": "civitai",
+    "name": "civitai/civitai",
+    "description": "A platform for sharing stable diffusion models, textual inversions, hypernetworks, aesthetic gradients, and other AI customization assets.",
+    "url": "https://github.com/civitai/civitai",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "stable-diffusion",
+      "platform"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2023-04-20"
+  },
+  {
+    "slug": "text-generation-webui",
+    "name": "oobabooga/text-generation-webui",
+    "description": "A Gradio web UI for running large language models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "llm",
+      "webui",
+      "gradio"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-04-25"
+  },
+  {
+    "slug": "autogpt",
+    "name": "Significant-Gravitas/AutoGPT",
+    "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "agents",
+      "gpt-4",
+      "automation"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-04-28"
+  },
+  {
+    "slug": "whisper-cpp",
+    "name": "ggerganov/whisper.cpp",
+    "description": "Port of OpenAI's Whisper speech recognition model in C/C++.",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "speech-to-text",
+      "cpp"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2023-05-01"
+  },
+  {
+    "slug": "tldraw",
+    "name": "tldraw/tldraw",
+    "description": "An open source library for creating infinite canvas experiences in React.",
+    "url": "https://github.com/tldraw/tldraw",
+    "category": "Frontend",
+    "tags": [
+      "react",
+      "canvas",
+      "whiteboard",
+      "frontend"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2023-05-03"
+  },
+  {
+    "slug": "screenshot-to-code",
+    "name": "abi/screenshot-to-code",
+    "description": "Drop in a screenshot and convert it to clean code in HTML/Tailwind/React.",
+    "url": "https://github.com/abi/screenshot-to-code",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "react",
+      "code-generation",
+      "frontend"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-05-06"
+  },
+  {
+    "slug": "privategpt",
+    "name": "imartinez/privateGPT",
+    "description": "Interact with your documents using the power of GPT, 100% privately, with no data leaks.",
+    "url": "https://github.com/imartinez/privateGPT",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "privacy",
+      "llm",
+      "documents"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-05-08"
+  },
+  {
+    "slug": "swe-agent",
+    "name": "princeton-nlp/SWE-agent",
+    "description": "Takes a GitHub issue and tries to automatically fix it using GPT-4 or your LM of choice, solving 12.29% of bugs in the SWE-bench evaluation set.",
+    "url": "https://github.com/princeton-nlp/SWE-agent",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "agents",
+      "software-engineering",
+      "automation"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-05-10"
+  },
+  {
+    "slug": "openshot-qt",
+    "name": "OpenShot/openshot-qt",
+    "description": "An award-winning free and open-source video editor.",
+    "url": "https://github.com/OpenShot/openshot-qt",
+    "category": "Open Source",
+    "tags": [
+      "video-editor",
+      "open-source",
+      "desktop"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-05-15"
+  },
+  {
+    "slug": "hashcat",
+    "name": "hashcat/hashcat",
+    "description": "World's fastest and most advanced password recovery utility.",
+    "url": "https://github.com/hashcat/hashcat",
+    "category": "Security",
+    "tags": [
+      "security",
+      "password-recovery",
+      "cracking"
+    ],
+    "language": "C",
+    "stars": null,
+    "dateAdded": "2023-05-18"
+  },
+  {
+    "slug": "keepassxc",
+    "name": "keepassxreboot/keepassxc",
+    "description": "A cross-platform community-driven port of the Windows application KeePass Password Safe.",
+    "url": "https://github.com/keepassxreboot/keepassxc",
+    "category": "Security",
+    "tags": [
+      "security",
+      "password-manager",
+      "cross-platform"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2023-05-25"
+  },
+  {
+    "slug": "upscayl",
+    "name": "upscayl/upscayl",
+    "description": "Free and open source AI image upscaler for Linux, macOS and Windows.",
+    "url": "https://github.com/upscayl/upscayl",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "image-processing",
+      "desktop"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2023-05-28"
+  },
+  {
+    "slug": "scrcpy",
+    "name": "Genymobile/scrcpy",
+    "description": "Display and control Android devices connected via USB or over TCP/IP from a computer.",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "screen-mirroring",
+      "cli"
+    ],
+    "language": "C",
+    "stars": null,
+    "dateAdded": "2023-06-01"
+  },
+  {
+    "slug": "powertoys",
+    "name": "microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity.",
+    "url": "https://github.com/microsoft/PowerToys",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "utilities",
+      "productivity"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2023-06-08"
+  },
+  {
+    "slug": "lossless-cut",
+    "name": "mifi/lossless-cut",
+    "description": "The swiss army knife of lossless video/audio editing, cropping videos without losing quality.",
+    "url": "https://github.com/mifi/lossless-cut",
+    "category": "Open Source",
+    "tags": [
+      "video-editing",
+      "desktop",
+      "ffmpeg"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-06-10"
+  },
+  {
+    "slug": "rectangle",
+    "name": "rxhanson/Rectangle",
+    "description": "A window manager for macOS that lets you move and resize windows with keyboard shortcuts or snap areas.",
+    "url": "https://github.com/rxhanson/Rectangle",
+    "category": "Productivity",
+    "tags": [
+      "macos",
+      "window-manager",
+      "productivity"
+    ],
+    "language": "Swift",
+    "stars": null,
+    "dateAdded": "2023-06-12"
+  },
+  {
+    "slug": "hoppscotch",
+    "name": "hoppscotch/hoppscotch",
+    "description": "An open source alternative to Postman and other API testing tools.",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "category": "APIs",
+    "tags": [
+      "api",
+      "testing",
+      "developer-tools",
+      "open-source"
+    ],
+    "language": "Vue",
+    "stars": null,
+    "dateAdded": "2023-06-15"
+  },
+  {
+    "slug": "rembg",
+    "name": "danielgatis/rembg",
+    "description": "A tool to remove image backgrounds automatically.",
+    "url": "https://github.com/danielgatis/rembg",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "image-processing",
+      "python"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-06-18"
+  },
+  {
+    "slug": "public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "url": "https://github.com/public-apis/public-apis",
+    "category": "APIs",
+    "tags": [
+      "apis",
+      "curated-list",
+      "development"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2023-06-20"
+  },
+  {
+    "slug": "vencord",
+    "name": "Vendicated/Vencord",
+    "description": "A Discord client mod that adds plugins, custom themes, and more customization options.",
+    "url": "https://github.com/Vendicated/Vencord",
+    "category": "Open Source",
+    "tags": [
+      "discord",
+      "mod",
+      "desktop"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2023-06-22"
+  },
+  {
+    "slug": "open-interpreter",
+    "name": "KillianLucas/open-interpreter",
+    "description": "Lets language models run code locally, providing a natural-language interface for your computer.",
+    "url": "https://github.com/KillianLucas/open-interpreter",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "llm",
+      "code-execution",
+      "agents"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-06-25"
+  },
+  {
+    "slug": "starship",
+    "name": "starship/starship",
+    "description": "A minimal, blazing-fast, and customizable prompt for any shell.",
+    "url": "https://github.com/starship/starship",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "shell",
+      "rust",
+      "developer-tools"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2023-07-01"
+  },
+  {
+    "slug": "lapce",
+    "name": "lapce/lapce",
+    "description": "A lightning-fast and powerful code editor written in Rust.",
+    "url": "https://github.com/lapce/lapce",
+    "category": "Developer Tools",
+    "tags": [
+      "rust",
+      "code-editor",
+      "developer-tools"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2023-07-05"
+  },
+  {
+    "slug": "penpot",
+    "name": "penpot/penpot",
+    "description": "The open source design and prototyping tool for cross-domain teams.",
+    "url": "https://github.com/penpot/penpot",
+    "category": "Design",
+    "tags": [
+      "design",
+      "open-source",
+      "prototyping"
+    ],
+    "language": "Clojure",
+    "stars": null,
+    "dateAdded": "2023-07-08"
+  },
+  {
+    "slug": "cobalt",
+    "name": "imputnet/cobalt",
+    "description": "Save what you love: a simple tool for downloading media from social platforms, backing the cobalt.tools website.",
+    "url": "https://github.com/imputnet/cobalt",
+    "category": "Open Source",
+    "tags": [
+      "media-downloader",
+      "web",
+      "self-hosted"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2023-07-15"
+  },
+  {
+    "slug": "winapps",
+    "name": "winapps-org/winapps",
+    "description": "Run Windows applications such as Office or Adobe Creative Suite on Linux with GPU acceleration seamlessly integrated as native apps.",
+    "url": "https://github.com/winapps-org/winapps",
+    "category": "Open Source",
+    "tags": [
+      "linux",
+      "virtualization",
+      "windows-apps"
+    ],
+    "language": "Shell",
+    "stars": null,
+    "dateAdded": "2023-07-20"
+  },
+  {
+    "slug": "zen-browser",
+    "name": "zen-browser/desktop",
+    "description": "A privacy-focused, customizable web browser designed to keep you focused and calm while browsing.",
+    "url": "https://github.com/zen-browser/desktop",
+    "category": "Frontend",
+    "tags": [
+      "browser",
+      "privacy",
+      "desktop"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2023-08-01"
+  },
+  {
+    "slug": "ente",
+    "name": "ente-io/ente",
+    "description": "A privacy-focused, end-to-end encrypted photo and video storage app.",
+    "url": "https://github.com/ente-io/ente",
+    "category": "Self Hosted",
+    "tags": [
+      "self-hosted",
+      "privacy",
+      "photos",
+      "encryption"
+    ],
+    "language": "Dart",
+    "stars": null,
+    "dateAdded": "2023-08-10"
+  },
+  {
+    "slug": "devtoys",
+    "name": "DevToys-app/DevToys",
+    "description": "A Swiss Army knife for developers packed with utilities like formatters, converters, and generators.",
+    "url": "https://github.com/DevToys-app/DevToys",
+    "category": "Developer Tools",
+    "tags": [
+      "developer-tools",
+      "utilities",
+      "windows"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2023-08-15"
+  },
+  {
+    "slug": "fabric",
+    "name": "danielmiessler/fabric",
+    "description": "An open-source framework for augmenting humans using AI, providing a modular way to solve specific problems with crowdsourced AI prompts.",
+    "url": "https://github.com/danielmiessler/fabric",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "prompts",
+      "framework",
+      "cli"
+    ],
+    "language": "Go",
+    "stars": null,
+    "dateAdded": "2023-09-01"
+  },
+  {
+    "slug": "puter",
+    "name": "HeyPuter/puter",
+    "description": "An advanced, open-source internet operating system in the browser with a full desktop experience, file system, and app support.",
+    "url": "https://github.com/HeyPuter/puter",
+    "category": "Open Source",
+    "tags": [
+      "web-os",
+      "javascript",
+      "open-source"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-09-10"
+  },
+  {
+    "slug": "openrecall",
+    "name": "openrecall/openrecall",
+    "description": "An open-source, privacy-first alternative to Microsoft's Windows Recall feature, capturing and letting you search your digital history locally.",
+    "url": "https://github.com/openrecall/openrecall",
+    "category": "Self Hosted",
+    "tags": [
+      "privacy",
+      "self-hosted",
+      "search"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-09-15"
+  },
+  {
+    "slug": "freetube",
+    "name": "FreeTubeApp/FreeTube",
+    "description": "An open source desktop YouTube player built with privacy in mind.",
+    "url": "https://github.com/FreeTubeApp/FreeTube",
+    "category": "Open Source",
+    "tags": [
+      "privacy",
+      "youtube",
+      "desktop"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2023-10-05"
+  },
+  {
+    "slug": "repomix",
+    "name": "yamadashy/repomix",
+    "description": "Packs an entire code repository into a single, clean file for feeding to AI assistants like ChatGPT or Claude, respecting .gitignore and counting tokens.",
+    "url": "https://github.com/yamadashy/repomix",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "developer-tools",
+      "cli",
+      "llm"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2025-04-10"
+  },
+  {
+    "slug": "n8n-workflows",
+    "name": "Zie619/n8n-workflows",
+    "description": "A professionally organized collection of thousands of n8n automation workflows with a fast documentation and search system.",
+    "url": "https://github.com/Zie619/n8n-workflows",
+    "category": "Automation",
+    "tags": [
+      "automation",
+      "n8n",
+      "workflows"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2025-06-15"
+  },
+  {
+    "slug": "videolingo",
+    "name": "Huanshere/VideoLingo",
+    "description": "An all-in-one video translation, localization, and dubbing tool aimed at generating Netflix-quality subtitles with high-quality dubbing.",
+    "url": "https://github.com/Huanshere/VideoLingo",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "video",
+      "translation",
+      "dubbing"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2025-06-19"
+  },
+  {
+    "slug": "yasb",
+    "name": "amnweb/yasb",
+    "description": "A highly configurable Windows status bar written in Python that brings a Hyprland-like feel to Windows with many widgets.",
+    "url": "https://github.com/amnweb/yasb",
+    "category": "Python",
+    "tags": [
+      "python",
+      "windows",
+      "customization"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2025-06-20"
+  },
+  {
+    "slug": "linutil",
+    "name": "ChrisTitusTech/linutil",
+    "description": "A distro-agnostic toolbox designed to simplify everyday Linux tasks, actively developed in Rust for performance and reliability.",
+    "url": "https://github.com/ChrisTitusTech/linutil",
+    "category": "Rust",
+    "tags": [
+      "rust",
+      "linux",
+      "cli",
+      "toolbox"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2025-07-29"
+  },
+  {
+    "slug": "copyparty",
+    "name": "9001/copyparty",
+    "description": "Turns almost any device into a file server with resumable uploads and downloads accessible via any web browser.",
+    "url": "https://github.com/9001/copyparty",
+    "category": "Self Hosted",
+    "tags": [
+      "self-hosted",
+      "file-server",
+      "python"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2025-08-02"
+  },
+  {
+    "slug": "bauh",
+    "name": "vinifmor/bauh",
+    "description": "A graphical interface for managing Linux software packages across AppImage, Debian/Arch, Flatpak, Snap, and web applications.",
+    "url": "https://github.com/vinifmor/bauh",
+    "category": "Self Hosted",
+    "tags": [
+      "linux",
+      "package-manager",
+      "gui"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2025-08-09"
+  },
+  {
+    "slug": "luci-mobile",
+    "name": "cogwheel0/luci-mobile",
+    "description": "A modern Flutter app for managing and monitoring multiple OpenWrt/LuCI routers with real-time stats and a Material 3 UI.",
+    "url": "https://github.com/cogwheel0/luci-mobile",
+    "category": "Mobile",
+    "tags": [
+      "flutter",
+      "networking",
+      "self-hosted"
+    ],
+    "language": "Dart",
+    "stars": null,
+    "dateAdded": "2025-08-09"
+  },
+  {
+    "slug": "faststream",
+    "name": "Andrews54757/FastStream",
+    "description": "A browser extension that replaces video players on websites for buffer-free streaming and lets you download fully buffered videos including YouTube.",
+    "url": "https://github.com/Andrews54757/FastStream",
+    "category": "Frontend",
+    "tags": [
+      "browser-extension",
+      "video",
+      "streaming"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2025-10-07"
+  },
+  {
+    "slug": "shadps4",
+    "name": "shadps4-emu/shadPS4",
+    "description": "An early PlayStation 4 emulator for Windows, Linux and macOS written in C++.",
+    "url": "https://github.com/shadps4-emu/shadPS4",
+    "category": "Open Source",
+    "tags": [
+      "emulator",
+      "cpp",
+      "gaming"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2025-08-26"
+  },
+  {
+    "slug": "numi",
+    "name": "nikolaeu/numi",
+    "description": "A handy calculator app that lets you describe tasks naturally to instantly get an answer, like currency conversions or date math.",
+    "url": "https://github.com/nikolaeu/numi",
+    "category": "Productivity",
+    "tags": [
+      "calculator",
+      "productivity",
+      "macos"
+    ],
+    "language": "Swift",
+    "stars": null,
+    "dateAdded": "2025-07-30"
+  },
+  {
+    "slug": "runcat365",
+    "name": "Kyome22/RunCat365",
+    "description": "A cute running cat animation on your Windows taskbar that speeds up with CPU usage.",
+    "url": "https://github.com/Kyome22/RunCat365",
+    "category": "Open Source",
+    "tags": [
+      "windows",
+      "taskbar",
+      "fun"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2025-08-09"
+  },
+  {
+    "slug": "edu-pulse",
+    "name": "manjurulhoque/edu-pulse",
+    "description": "An open-source Learning Management System (LMS) project for building and experimenting with online education platforms.",
+    "url": "https://github.com/manjurulhoque/edu-pulse",
+    "category": "Backend",
+    "tags": [
+      "lms",
+      "education",
+      "open-source"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-02-26"
+  },
+  {
+    "slug": "ramadan-cli",
+    "name": "ahmadawais/ramadan-cli",
+    "description": "A CLI to check Sehar and Iftar times in Ramadan anywhere in the world.",
+    "url": "https://github.com/ahmadawais/ramadan-cli",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "productivity",
+      "prayer-times"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2026-02-26"
+  },
+  {
+    "slug": "discord-quest-completer",
+    "name": "markterence/discord-quest-completer",
+    "description": "A Windows desktop application to complete Discord quests without installing the full actual games.",
+    "url": "https://github.com/markterence/discord-quest-completer",
+    "category": "Automation",
+    "tags": [
+      "automation",
+      "discord",
+      "windows"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2026-02-26"
+  },
+  {
+    "slug": "prayer-time",
+    "name": "helix-77/Prayer.time",
+    "description": "A minimalist, privacy-first, lightweight browser extension for notifying prayer times and Ramadan countdowns.",
+    "url": "https://github.com/helix-77/Prayer.time",
+    "category": "Frontend",
+    "tags": [
+      "browser-extension",
+      "privacy",
+      "prayer-times"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2026-02-26"
+  },
+  {
+    "slug": "ytfzf",
+    "name": "pystardust/ytfzf",
+    "description": "A POSIX script that helps you find YouTube videos without the API and opens or downloads them using mpv/youtube-dl.",
+    "url": "https://github.com/pystardust/ytfzf",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "youtube",
+      "shell"
+    ],
+    "language": "Shell",
+    "stars": null,
+    "dateAdded": "2026-03-05"
+  },
+  {
+    "slug": "drive-pool",
+    "name": "saimon4u/Drive-Pool",
+    "description": "Self-hosted unified dashboard that aggregates multiple Google Drive accounts into a single storage pool, automatically routing uploads to the account with the most space.",
+    "url": "https://github.com/saimon4u/Drive-Pool",
+    "category": "Self Hosted",
+    "tags": [
+      "self-hosted",
+      "storage",
+      "google-drive"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-05-07"
+  },
+  {
+    "slug": "betterfox",
+    "name": "yokoffing/BetterFox",
+    "description": "A Firefox user.js configuration for optimal privacy and security, disabling telemetry, AI features, and other bloat.",
+    "url": "https://github.com/yokoffing/BetterFox",
+    "category": "Security",
+    "tags": [
+      "firefox",
+      "privacy",
+      "security"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-05-07"
+  },
+  {
+    "slug": "autoresearchclaw",
+    "name": "aiming-lab/AutoResearchClaw",
+    "description": "A fully autonomous and self-evolving research agent that goes from an idea to a completed paper.",
+    "url": "https://github.com/aiming-lab/AutoResearchClaw",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "agents",
+      "research",
+      "automation"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2026-05-07"
+  },
+  {
+    "slug": "navi",
+    "name": "denisidoro/navi",
+    "description": "An interactive cheat sheet tool for the command-line, providing quick access to commands.",
+    "url": "https://github.com/denisidoro/navi",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "cheat-sheet",
+      "terminal"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "slug": "yazi",
+    "name": "sxyazi/yazi",
+    "description": "A blazing fast terminal file manager written in Rust, based on an async I/O model.",
+    "url": "https://github.com/sxyazi/yazi",
+    "category": "Rust",
+    "tags": [
+      "rust",
+      "cli",
+      "file-manager",
+      "tui"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2026-03-18"
+  },
+  {
+    "slug": "fluentflyout",
+    "name": "unchihugo/FluentFlyout",
+    "description": "A modern flyout app for Windows built with Fluent 2 Design principles, providing media controls and system info in native-like popups.",
+    "url": "https://github.com/unchihugo/FluentFlyout",
+    "category": "Frontend",
+    "tags": [
+      "windows",
+      "ui",
+      "desktop"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2026-03-19"
+  },
+  {
+    "slug": "claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "A collection of templates and configurations to bootstrap projects with Claude Code.",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "claude",
+      "templates",
+      "developer-tools"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-04-15"
+  },
+  {
+    "slug": "dyad",
+    "name": "dyad-sh/dyad",
+    "description": "A local, open-source AI app builder that lets you build full-stack apps without vendor lock-in.",
+    "url": "https://github.com/dyad-sh/dyad",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "app-builder",
+      "open-source"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2026-05-01"
+  },
+  {
+    "slug": "fmhy",
+    "name": "fmhy/FMHY",
+    "description": "A massive collection of legal and free software, streaming, and resources organized by category.",
+    "url": "https://github.com/fmhy/FMHY",
+    "category": "Open Source",
+    "tags": [
+      "curated-list",
+      "free-software",
+      "resources"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-06-01"
+  },
+  {
+    "slug": "stevenblack-hosts",
+    "name": "StevenBlack/hosts",
+    "description": "Popular unified hosts file generator that blocks ads, malware, and tracking, with optional extensions for social media and other categories.",
+    "url": "https://github.com/StevenBlack/hosts",
+    "category": "Security",
+    "tags": [
+      "security",
+      "ad-blocking",
+      "privacy"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2026-02-01"
+  },
+  {
+    "slug": "harper",
+    "name": "Automattic/harper",
+    "description": "A fast, offline grammar checker built for developers, designed as a privacy-friendly alternative to cloud-based grammar tools.",
+    "url": "https://github.com/Automattic/harper",
+    "category": "Developer Tools",
+    "tags": [
+      "grammar",
+      "rust",
+      "writing-tools"
+    ],
+    "language": "Rust",
+    "stars": null,
+    "dateAdded": "2026-01-15"
+  },
+  {
+    "slug": "strawberry",
+    "name": "strawberrymusicplayer/strawberry",
+    "description": "A music player and library organizer for Linux, Windows and macOS, forked from Clementine.",
+    "url": "https://github.com/strawberrymusicplayer/strawberry",
+    "category": "Open Source",
+    "tags": [
+      "music-player",
+      "desktop",
+      "cross-platform"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2026-02-10"
+  },
+  {
+    "slug": "spotify-downloader",
+    "name": "spotDL/spotify-downloader",
+    "description": "A Spotify music downloader that fetches songs, artwork, and metadata using YouTube as the audio source.",
+    "url": "https://github.com/spotDL/spotify-downloader",
+    "category": "Python",
+    "tags": [
+      "python",
+      "music",
+      "cli"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-11-01"
+  },
+  {
+    "slug": "wttr-in",
+    "name": "chubin/wttr.in",
+    "description": "A console-oriented weather forecast service accessible via curl.",
+    "url": "https://github.com/chubin/wttr.in",
+    "category": "CLI",
+    "tags": [
+      "cli",
+      "weather",
+      "self-hosted"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2023-11-05"
+  },
+  {
+    "slug": "mihon",
+    "name": "mihonapp/mihon",
+    "description": "A free and open source manga reader for Android, the actively maintained successor to Tachiyomi.",
+    "url": "https://github.com/mihonapp/mihon",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "manga",
+      "reader",
+      "open-source"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-01-08"
+  },
+  {
+    "slug": "floccus",
+    "name": "floccusaddon/floccus",
+    "description": "A browser bookmarks sync tool that syncs across browsers using your own storage like Nextcloud, WebDAV, or Google Drive.",
+    "url": "https://github.com/floccusaddon/floccus",
+    "category": "Self Hosted",
+    "tags": [
+      "self-hosted",
+      "bookmarks",
+      "sync"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2024-02-01"
+  },
+  {
+    "slug": "spotube",
+    "name": "KRTirtho/spotube",
+    "description": "An open source, cross-platform Spotify client that plays music from YouTube without needing Premium, built with Flutter.",
+    "url": "https://github.com/KRTirtho/spotube",
+    "category": "Mobile",
+    "tags": [
+      "flutter",
+      "music",
+      "cross-platform"
+    ],
+    "language": "Dart",
+    "stars": null,
+    "dateAdded": "2024-02-10"
+  },
+  {
+    "slug": "lightnovel-crawler",
+    "name": "dipu-bd/lightnovel-crawler",
+    "description": "A tool to crawl and download light novels from various online sources into ebooks.",
+    "url": "https://github.com/dipu-bd/lightnovel-crawler",
+    "category": "Python",
+    "tags": [
+      "python",
+      "scraper",
+      "ebooks"
+    ],
+    "language": "Python",
+    "stars": null,
+    "dateAdded": "2024-03-10"
+  },
+  {
+    "slug": "imagetoolbox",
+    "name": "T8RIN/ImageToolbox",
+    "description": "An Android image processing app with a huge collection of tools for editing, converting, and manipulating images.",
+    "url": "https://github.com/T8RIN/ImageToolbox",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "image-processing",
+      "open-source"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2024-05-10"
+  },
+  {
+    "slug": "vert",
+    "name": "VERT-sh/VERT",
+    "description": "A free, open-source file converter that runs entirely in the browser, backing the vert.sh website.",
+    "url": "https://github.com/VERT-sh/VERT",
+    "category": "Frontend",
+    "tags": [
+      "file-conversion",
+      "web",
+      "open-source"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2025-06-01"
+  },
+  {
+    "slug": "anyflare",
+    "name": "ajshovon/anyflare",
+    "description": "Download almost anything through Cloudflare Workers, bypassing restrictions with resumable, faster downloads.",
+    "url": "https://github.com/ajshovon/anyflare",
+    "category": "Automation",
+    "tags": [
+      "automation",
+      "cloudflare",
+      "downloader"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2025-06-07"
+  },
+  {
+    "slug": "fadcam",
+    "name": "anonfaded/FadCam",
+    "description": "A seamless background video recorder for Android that is ad-free and open-source with customizable options.",
+    "url": "https://github.com/anonfaded/FadCam",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "video-recording",
+      "open-source"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2025-06-12"
+  },
+  {
+    "slug": "quicknovel",
+    "name": "LagradOst/QuickNovel",
+    "description": "An Android app to download web novels and light novels from popular sites, readable in-app or exportable to epub.",
+    "url": "https://github.com/LagradOst/QuickNovel",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "novels",
+      "reader"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2025-06-16"
+  },
+  {
+    "slug": "kizzy",
+    "name": "dead8309/Kizzy",
+    "description": "A free Android app to customize your Discord Rich Presence status with games, apps, music, and 300+ presets.",
+    "url": "https://github.com/dead8309/Kizzy",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "discord",
+      "customization"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2025-06-18"
+  },
+  {
+    "slug": "android-file-transfer-linux",
+    "name": "whoozle/android-file-transfer-linux",
+    "description": "Android File Transfer client for Linux, FreeBSD, and macOS to move files between Android devices and desktop.",
+    "url": "https://github.com/whoozle/android-file-transfer-linux",
+    "category": "Open Source",
+    "tags": [
+      "linux",
+      "android",
+      "file-transfer"
+    ],
+    "language": "C++",
+    "stars": null,
+    "dateAdded": "2025-06-19"
+  },
+  {
+    "slug": "edge-tts-extension",
+    "name": "travisvn/edge-tts-extension",
+    "description": "A browser extension that uses Microsoft Edge's realistic neural voices for text-to-speech read-aloud on any site.",
+    "url": "https://github.com/travisvn/edge-tts-extension",
+    "category": "Frontend",
+    "tags": [
+      "browser-extension",
+      "text-to-speech",
+      "accessibility"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2025-08-26"
+  },
+  {
+    "slug": "echo",
+    "name": "brahmkshatriya/echo",
+    "description": "A modern, extensible Android music streaming client with support for multiple sources via extensions.",
+    "url": "https://github.com/brahmkshatriya/echo",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "music",
+      "streaming"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2025-09-01"
+  },
+  {
+    "slug": "omarchy",
+    "name": "basecamp/omarchy",
+    "description": "An opinionated Arch Linux setup for developers, providing a preconfigured Hyprland desktop and tooling.",
+    "url": "https://github.com/basecamp/omarchy",
+    "category": "DevOps",
+    "tags": [
+      "linux",
+      "arch",
+      "developer-setup"
+    ],
+    "language": "Shell",
+    "stars": null,
+    "dateAdded": "2025-10-01"
+  },
+  {
+    "slug": "winboat",
+    "name": "TibixDev/winboat",
+    "description": "Run Windows applications seamlessly on Linux using a lightweight virtualized Windows environment.",
+    "url": "https://github.com/TibixDev/winboat",
+    "category": "Open Source",
+    "tags": [
+      "linux",
+      "windows-apps",
+      "virtualization"
+    ],
+    "language": "TypeScript",
+    "stars": null,
+    "dateAdded": "2025-10-20"
+  },
+  {
+    "slug": "berty",
+    "name": "berty/berty",
+    "description": "A secure peer-to-peer messaging app that works without internet access, using Bluetooth and mesh networking.",
+    "url": "https://github.com/berty/berty",
+    "category": "Security",
+    "tags": [
+      "messaging",
+      "p2p",
+      "privacy"
+    ],
+    "language": "Go",
+    "stars": null,
+    "dateAdded": "2025-11-01"
+  },
+  {
+    "slug": "librepods",
+    "name": "kavishdevar/librepods",
+    "description": "Brings AirPods-like features such as spatial audio and battery indicators to non-Apple platforms including Android and Linux.",
+    "url": "https://github.com/kavishdevar/librepods",
+    "category": "Mobile",
+    "tags": [
+      "bluetooth",
+      "android",
+      "reverse-engineering"
+    ],
+    "language": "Kotlin",
+    "stars": null,
+    "dateAdded": "2025-11-15"
+  },
+  {
+    "slug": "cashew",
+    "name": "jameskokoska/Cashew",
+    "description": "A free, open-source, and offline budget tracking and personal finance management app.",
+    "url": "https://github.com/jameskokoska/Cashew",
+    "category": "Mobile",
+    "tags": [
+      "finance",
+      "budgeting",
+      "open-source"
+    ],
+    "language": "Dart",
+    "stars": null,
+    "dateAdded": "2026-01-15"
+  },
+  {
+    "slug": "tizentube",
+    "name": "reisxd/TizenTube",
+    "description": "An ad-blocking and feature-enhancing mod for the YouTube app on Samsung Tizen smart TVs.",
+    "url": "https://github.com/reisxd/TizenTube",
+    "category": "Open Source",
+    "tags": [
+      "ad-blocking",
+      "smart-tv",
+      "youtube"
+    ],
+    "language": "JavaScript",
+    "stars": null,
+    "dateAdded": "2026-02-05"
+  },
+  {
+    "slug": "rise-media-player",
+    "name": "RiversideValley/RiseMediaPlayer",
+    "description": "A modern, open-source media player for Windows built with WinUI, supporting music and video playback.",
+    "url": "https://github.com/RiversideValley/RiseMediaPlayer",
+    "category": "Open Source",
+    "tags": [
+      "windows",
+      "media-player",
+      "open-source"
+    ],
+    "language": "C#",
+    "stars": null,
+    "dateAdded": "2025-05-05"
+  }
+]
