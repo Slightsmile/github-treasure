@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import { useState } from "react";
 import { ArrowUpRight, Check, Copy, Star } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
@@ -21,12 +20,14 @@ export function ProjectCard({ project }: { project: Project }) {
   return (
     <div className="group relative flex h-full flex-col rounded-2xl border border-border bg-card p-5 transition-colors hover:border-accent/40">
       <div className="flex items-start justify-between gap-3">
-        <Link
-          href={`/project/${project.slug}`}
+        <a
+          href={project.url}
+          target="_blank"
+          rel="noreferrer"
           className="min-w-0 flex-1 font-semibold tracking-tight hover:text-accent"
         >
           <span className="truncate block">{project.name}</span>
-        </Link>
+        </a>
         {project.stars !== null && (
           <span className="flex shrink-0 items-center gap-1 text-xs text-muted-foreground">
             <Star className="size-3.5" />

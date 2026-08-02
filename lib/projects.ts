@@ -5,10 +5,6 @@ export function getAllProjects(): Project[] {
   return projectsData as Project[];
 }
 
-export function getProjectBySlug(slug: string): Project | undefined {
-  return getAllProjects().find((p) => p.slug === slug);
-}
-
 export function getAllCategories(): { name: string; count: number }[] {
   const counts = new Map<string, number>();
   for (const project of getAllProjects()) {
