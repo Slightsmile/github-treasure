@@ -2,22 +2,23 @@
 
 import { useMemo, useState, useEffect, useCallback } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
-import { Shuffle } from "lucide-react";
+import { ArrowDownWideNarrow, ArrowDownAZ, Shuffle } from "lucide-react";
 import { SearchBar } from "@/components/search-bar";
 import { CategoryFilter } from "@/components/category-filter";
 import { ProjectCard } from "@/components/project-card";
 import { EmptyState } from "@/components/empty-state";
 import { Button } from "@/components/ui/button";
+import { Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip";
 import { cn } from "@/lib/utils";
 import { createSearchIndex, searchProjects } from "@/lib/search";
 import type { Project, SortOption } from "@/types/project";
 
 const PAGE_SIZE = 15;
 
-const sortOptions: { value: SortOption; label: string }[] = [
-  { value: "newest", label: "Newest" },
-  { value: "alphabetical", label: "Alphabetical" },
-  { value: "random", label: "Random" },
+const sortOptions: { value: SortOption; label: string; icon: typeof ArrowDownWideNarrow }[] = [
+  { value: "newest", label: "Newest", icon: ArrowDownWideNarrow },
+  { value: "alphabetical", label: "Alphabetical", icon: ArrowDownAZ },
+  { value: "random", label: "Random", icon: Shuffle },
 ];
 
 interface ProjectGridProps {
@@ -120,36 +121,39 @@ export function ProjectGrid({ projects, categories }: ProjectGridProps) {
           onClear={clearFilters}
         />
 
-        <p className="text-sm text-muted-foreground">
-          {filtered.length} {filtered.length === 1 ? "project" : "projects"}
-        </p>
+        <div className="flex items-center justify-between">
+          <p className="text-sm text-muted-foreground">
+            {filtered.length} {filtered.length === 1 ? "project" : "projects"}
+          </p>
 
-        <div className="flex flex-wrap items-center gap-2">
-          {sortOptions.map((option) => (
-            <button
-              key={option.value}
-              onClick={() => handleSortChange(option.value)}
-              aria-pressed={sort === option.value}
-              className={cn(
-                "rounded-full border px-3.5 py-1.5 text-sm transition-colors",
-                sort === option.value
-                  ? "border-accent bg-accent text-accent-foreground"
-                  : "border-border bg-card text-foreground hover:border-accent/50"
-              )}
-            >
-              {option.label}
-            </button>
-          ))}
-          {sort === "random" && (
-            <Button
-              variant="outline"
-              size="icon"
-              aria-label="Shuffle"
-              onClick={() => setRandomSeed(Date.now())}
-            >
-              <Shuffle className="size-4" />
-            </Button>
-          )}
+          <div className="flex items-center gap-2">
+            {sortOptions.map((option) => {
+              const Icon = option.icon;
+              const isActive = sort === option.value;
+              return (
+                <Tooltip key={option.value}>
+                  <TooltipTrigger
+                    render={
+                      <button
+                        onClick={() => handleSortChange(option.value)}
+                        aria-pressed={isActive}
+                        aria-label={`Sort by ${option.label}`}
+                        className={cn(
+                          "flex size-9 items-center justify-center rounded-full border transition-colors",
+                          isActive
+                            ? "border-accent bg-accent text-accent-foreground"
+                            : "border-border bg-card text-foreground hover:border-accent/50"
+                        )}
+                      />
+                    }
+                  >
+                    <Icon className="size-4" />
+                  </TooltipTrigger>
+                  <TooltipContent>{option.label}</TooltipContent>
+                </Tooltip>
+              );
+            })}
+          </div>
         </div>
 
         {filtered.length === 0 ? (
