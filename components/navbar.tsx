@@ -1,8 +1,9 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { Gem, Menu } from "lucide-react";
+import { Menu } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   Sheet,
@@ -46,7 +47,14 @@ export function Navbar({ totalProjects }: { totalProjects: number }) {
           className="flex items-center gap-2 font-semibold tracking-tight"
         >
           <span className="flex size-8 items-center justify-center rounded-lg border border-border bg-card">
-            <Gem className="size-4 text-accent" />
+            <Image
+              src="/logo.svg"
+              alt=""
+              width={16}
+              height={16}
+              className="size-4 dark:invert"
+              priority
+            />
           </span>
           <span className="hidden sm:inline">GitHub Treasures</span>
         </Link>

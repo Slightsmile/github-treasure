@@ -8,6 +8,7 @@ const emptySubscribe = () => () => {};
 
 export function ThemeToggle() {
   const { theme, setTheme } = useTheme();
+  const buttonRef = React.useRef<HTMLButtonElement>(null);
   const mounted = React.useSyncExternalStore(
     emptySubscribe,
     () => true,
@@ -16,17 +17,59 @@ export function ThemeToggle() {
 
   const isDark = theme === "dark";
 
+  const toggleTheme = () => {
+    const next = isDark ? "light" : "dark";
+
+    if (
+      !buttonRef.current ||
+      !document.startViewTransition ||
+      window.matchMedia("(prefers-reduced-motion: reduce)").matches
+    ) {
+      setTheme(next);
+      return;
+    }
+
+    const rect = buttonRef.current.getBoundingClientRect();
+    const x = rect.left + rect.width / 2;
+    const y = rect.top + rect.height / 2;
+    const endRadius = Math.hypot(
+      Math.max(x, window.innerWidth - x),
+      Math.max(y, window.innerHeight - y)
+    );
+
+    const transition = document.startViewTransition(() => {
+      setTheme(next);
+    });
+
+    transition.ready.then(() => {
+      document.documentElement.animate(
+        {
+          clipPath: [
+            `circle(0px at ${x}px ${y}px)`,
+            `circle(${endRadius}px at ${x}px ${y}px)`,
+          ],
+        },
+        {
+          duration: 550,
+          easing: "ease-in-out",
+          pseudoElement: "::view-transition-new(root)",
+        }
+      );
+    });
+  };
+
   if (!mounted) {
     return <div className="size-9" aria-hidden />;
   }
 
   return (
     <button
+      ref={buttonRef}
       type="button"
       className={`theme-toggle flex size-9 items-center justify-center rounded-lg text-foreground transition-colors hover:bg-muted ${
         isDark ? "theme-toggle--toggled" : ""
       }`}
-      onClick={() => setTheme(isDark ? "light" : "dark")}
+      onClick={toggleTheme}
       aria-label="Toggle theme"
       aria-pressed={isDark}
     >
