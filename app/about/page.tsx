@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { Search, Filter, Moon, Zap } from "lucide-react";
+import { Search, Filter, Moon, Zap, Star, MessageSquarePlus } from "lucide-react";
+import { GithubIcon } from "@/components/icons/github";
 
 export const metadata: Metadata = {
   title: "About",
@@ -57,8 +58,50 @@ export default function AboutPage() {
         ))}
       </div>
 
-      <p className="mt-12 text-sm text-muted-foreground">
-        Static and blazing fast. Made for developers ❤️
+      <div className="mt-12 rounded-2xl border border-border bg-card p-6">
+        <div className="flex items-start gap-3">
+          <Star className="mt-0.5 size-5 shrink-0 text-accent" />
+          <p>
+            If you find GitHub Treasures useful,{" "}
+            <a
+              href="https://github.com/Slightsmile/github-treasure"
+              target="_blank"
+              rel="noreferrer"
+              className="font-medium text-foreground underline underline-offset-4 hover:text-accent"
+            >
+              star the repo on GitHub
+            </a>{" "}
+            to support the project.
+          </p>
+        </div>
+        <div className="mt-4 flex items-start gap-3">
+          <MessageSquarePlus className="mt-0.5 size-5 shrink-0 text-accent" />
+          <p>
+            Want to suggest a new project or report an issue? Please{" "}
+            <a
+              href="https://github.com/Slightsmile/github-treasure/issues"
+              target="_blank"
+              rel="noreferrer"
+              className="font-medium text-foreground underline underline-offset-4 hover:text-accent"
+            >
+              open an issue on GitHub
+            </a>
+            .
+          </p>
+        </div>
+      </div>
+
+      <p className="mt-12 flex items-center gap-2 text-sm text-muted-foreground">
+        <GithubIcon className="size-4" />
+        Static and blazing fast. Made by{" "}
+        <a
+          href="https://mohi-uddin.me/"
+          target="_blank"
+          rel="noreferrer"
+          className="font-medium text-foreground transition-colors hover:text-accent"
+        >
+          Slightsmile
+        </a>
       </p>
     </section>
   );

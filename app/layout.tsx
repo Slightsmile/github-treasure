@@ -5,7 +5,6 @@ import { ThemeProvider } from "@/components/theme-provider";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { Navbar } from "@/components/navbar";
 import { Footer } from "@/components/footer";
-import { getStats } from "@/lib/projects";
 
 const inter = Inter({
   variable: "--font-sans",
@@ -48,8 +47,6 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const stats = getStats();
-
   return (
     <html
       lang="en"
@@ -64,7 +61,7 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           <TooltipProvider delay={200}>
-            <Navbar totalProjects={stats.totalProjects} />
+            <Navbar />
             <main className="flex-1">{children}</main>
             <Footer />
           </TooltipProvider>

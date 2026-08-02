@@ -22,7 +22,7 @@ const links = [
   { href: "/about", label: "About" },
 ];
 
-export function Navbar({ totalProjects }: { totalProjects: number }) {
+export function Navbar() {
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -49,9 +49,9 @@ export function Navbar({ totalProjects }: { totalProjects: number }) {
           <Image
             src="/logo.svg"
             alt=""
-            width={20}
-            height={20}
-            className="size-5 dark:invert"
+            width={28}
+            height={28}
+            className="size-7 dark:invert"
             priority
           />
           <span className="hidden sm:inline">GitHub Treasures</span>
@@ -73,9 +73,6 @@ export function Navbar({ totalProjects }: { totalProjects: number }) {
         </nav>
 
         <div className="flex items-center gap-1">
-          <span className="mr-2 hidden text-sm text-muted-foreground lg:inline">
-            {totalProjects.toLocaleString()} projects
-          </span>
           <ThemeToggle />
           <Button
             variant="ghost"

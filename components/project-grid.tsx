@@ -8,15 +8,17 @@ import { CategoryFilter } from "@/components/category-filter";
 import { ProjectCard } from "@/components/project-card";
 import { EmptyState } from "@/components/empty-state";
 import { Button } from "@/components/ui/button";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
+import { cn } from "@/lib/utils";
 import { createSearchIndex, searchProjects } from "@/lib/search";
 import type { Project, SortOption } from "@/types/project";
+
+const PAGE_SIZE = 15;
+
+const sortOptions: { value: SortOption; label: string }[] = [
+  { value: "newest", label: "Newest" },
+  { value: "alphabetical", label: "Alphabetical" },
+  { value: "random", label: "Random" },
+];
 
 interface ProjectGridProps {
   projects: Project[];
@@ -39,6 +41,7 @@ export function ProjectGrid({ projects, categories }: ProjectGridProps) {
     (searchParams.get("sort") as SortOption) ?? "newest"
   );
   const [randomSeed, setRandomSeed] = useState(0);
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
   const fuse = useMemo(() => createSearchIndex(projects), [projects]);
 
@@ -55,11 +58,24 @@ export function ProjectGrid({ projects, categories }: ProjectGridProps) {
     setSelectedCategories((prev) =>
       prev.includes(category) ? prev.filter((c) => c !== category) : [...prev, category]
     );
+    setVisibleCount(PAGE_SIZE);
   }, []);
 
   const clearFilters = useCallback(() => {
     setSelectedCategories([]);
     setQuery("");
+    setVisibleCount(PAGE_SIZE);
+  }, []);
+
+  const handleQueryChange = useCallback((value: string) => {
+    setQuery(value);
+    setVisibleCount(PAGE_SIZE);
+  }, []);
+
+  const handleSortChange = useCallback((value: SortOption) => {
+    setSort(value);
+    setVisibleCount(PAGE_SIZE);
+    if (value === "random") setRandomSeed(Date.now());
   }, []);
 
   const filtered = useMemo(() => {
@@ -89,61 +105,71 @@ export function ProjectGrid({ projects, categories }: ProjectGridProps) {
     return sorted;
   }, [query, selectedCategories, sort, fuse, projects, randomSeed]);
 
+  const visible = filtered.slice(0, visibleCount);
+  const hasMore = visibleCount < filtered.length;
+
   return (
     <section id="projects" className="mx-auto max-w-6xl px-4 pb-24 sm:px-6">
       <div className="flex flex-col gap-6">
-        <SearchBar value={query} onChange={setQuery} />
+        <SearchBar value={query} onChange={handleQueryChange} />
 
-        <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
-          <CategoryFilter
-            categories={categories}
-            selected={selectedCategories}
-            onToggle={toggleCategory}
-            onClear={clearFilters}
-          />
-
-          <div className="flex shrink-0 items-center gap-2">
-            <Select
-              value={sort}
-              onValueChange={(v) => {
-                setSort(v as SortOption);
-                if (v === "random") setRandomSeed(Date.now());
-              }}
-            >
-              <SelectTrigger className="w-40">
-                <SelectValue placeholder="Sort by" />
-              </SelectTrigger>
-              <SelectContent>
-                <SelectItem value="newest">Newest</SelectItem>
-                <SelectItem value="alphabetical">Alphabetical</SelectItem>
-                <SelectItem value="random">Random</SelectItem>
-              </SelectContent>
-            </Select>
-            {sort === "random" && (
-              <Button
-                variant="outline"
-                size="icon"
-                aria-label="Shuffle"
-                onClick={() => setRandomSeed(Date.now())}
-              >
-                <Shuffle className="size-4" />
-              </Button>
-            )}
-          </div>
-        </div>
+        <CategoryFilter
+          categories={categories}
+          selected={selectedCategories}
+          onToggle={toggleCategory}
+          onClear={clearFilters}
+        />
 
         <p className="text-sm text-muted-foreground">
           {filtered.length} {filtered.length === 1 ? "project" : "projects"}
         </p>
 
+        <div className="flex flex-wrap items-center gap-2">
+          {sortOptions.map((option) => (
+            <button
+              key={option.value}
+              onClick={() => handleSortChange(option.value)}
+              aria-pressed={sort === option.value}
+              className={cn(
+                "rounded-full border px-3.5 py-1.5 text-sm transition-colors",
+                sort === option.value
+                  ? "border-accent bg-accent text-accent-foreground"
+                  : "border-border bg-card text-foreground hover:border-accent/50"
+              )}
+            >
+              {option.label}
+            </button>
+          ))}
+          {sort === "random" && (
+            <Button
+              variant="outline"
+              size="icon"
+              aria-label="Shuffle"
+              onClick={() => setRandomSeed(Date.now())}
+            >
+              <Shuffle className="size-4" />
+            </Button>
+          )}
+        </div>
+
         {filtered.length === 0 ? (
           <EmptyState />
         ) : (
-          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {filtered.map((project) => (
-              <ProjectCard key={project.slug} project={project} />
-            ))}
-          </div>
+          <>
+            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {visible.map((project) => (
+                <ProjectCard key={project.slug} project={project} />
+              ))}
+            </div>
+
+            {hasMore && (
+              <div className="flex justify-center pt-4">
+                <Button variant="outline" onClick={() => setVisibleCount(filtered.length)}>
+                  Load More
+                </Button>
+              </div>
+            )}
+          </>
         )}
       </div>
     </section>
