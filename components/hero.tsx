@@ -29,7 +29,13 @@ export function Hero({ totalProjects, totalCategories, lastUpdated }: HeroProps)
           <Button
             size="lg"
             variant="outline"
-            render={<a href="https://github.com" target="_blank" rel="noreferrer" />}
+            render={
+              <a
+                href="https://github.com/Slightsmile/github-treasure"
+                target="_blank"
+                rel="noreferrer"
+              />
+            }
           >
             <GithubIcon className="size-4" />
             GitHub

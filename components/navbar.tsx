@@ -14,7 +14,7 @@ import { ThemeToggle } from "@/components/theme-toggle";
 import { GithubIcon } from "@/components/icons/github";
 import { cn } from "@/lib/utils";
 
-const GITHUB_REPO_URL = "https://github.com";
+const GITHUB_REPO_URL = "https://github.com/Slightsmile/github-treasure";
 
 const links = [
   { href: "/", label: "Home" },

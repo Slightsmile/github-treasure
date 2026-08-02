@@ -25,7 +25,7 @@ export function Footer() {
             About
           </Link>
           <a
-            href="https://github.com"
+            href="https://github.com/Slightsmile/github-treasure"
             target="_blank"
             rel="noreferrer"
             className="transition-colors hover:text-foreground"
@@ -35,8 +35,19 @@ export function Footer() {
         </nav>
       </div>
       <div className="border-t border-border">
-        <div className="mx-auto max-w-6xl px-4 py-4 text-xs text-muted-foreground sm:px-6">
-          © {year} GitHub Treasures. Made for developers ❤️
+        <div className="mx-auto flex max-w-6xl flex-col gap-1 px-4 py-4 text-xs text-muted-foreground sm:flex-row sm:items-center sm:justify-between sm:px-6">
+          <span>© {year} GitHub Treasures. Made for developers ❤️</span>
+          <span>
+            Made by{" "}
+            <a
+              href="https://mohi-uddin.me/"
+              target="_blank"
+              rel="noreferrer"
+              className="font-medium transition-colors hover:text-foreground"
+            >
+              Slightsmile
+            </a>
+          </span>
         </div>
       </div>
     </footer>
