@@ -5290,5 +5290,359 @@
     "language": null,
     "stars": null,
     "dateAdded": "2026-07-28"
+  },
+  {
+    "slug": "flow-desktop",
+    "name": "FlowNeuro/Flow-Desktop",
+    "description": "A modern, native YouTube and YouTube Music client for desktop.",
+    "url": "https://github.com/FlowNeuro/Flow-Desktop",
+    "category": "Mobile",
+    "tags": [
+      "youtube",
+      "youtube-music",
+      "desktop-app"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "kudu-cleaner",
+    "name": "AdventDevInc/kudu",
+    "description": "Free, open-source system cleaner and security scanner for Windows, macOS, and Linux.",
+    "url": "https://github.com/AdventDevInc/kudu",
+    "category": "Security",
+    "tags": [
+      "system-cleaner",
+      "security-scanner",
+      "cross-platform"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "morphe-manager",
+    "name": "MorpheApp/morphe-manager",
+    "description": "Independent patching manager based on prior work from ReVanced, supporting split APKs and hundreds of apps.",
+    "url": "https://github.com/MorpheApp/morphe-manager",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "patching",
+      "revanced"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "readest",
+    "name": "readest/readest",
+    "description": "Open-source ebook reader available for Windows, Android, Linux, Mac and iOS.",
+    "url": "https://github.com/readest/readest",
+    "category": "Productivity",
+    "tags": [
+      "ebook-reader",
+      "cross-platform"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "quick-search",
+    "name": "teja2495/quick-search",
+    "description": "Spotlight-like search launcher for Android.",
+    "url": "https://github.com/teja2495/quick-search",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "search",
+      "launcher"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "leantype",
+    "name": "LeanBitLab/LeanType",
+    "description": "Open-source Android keyboard forked from Heliboard with added customizations.",
+    "url": "https://github.com/LeanBitLab/LeanType",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "keyboard",
+      "open-source"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "shevery",
+    "name": "HmnDev-Tech/shevery",
+    "description": "Improved version of Shizuku supporting newer Android versions without repeated re-pairing.",
+    "url": "https://github.com/HmnDev-Tech/shevery",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "shizuku",
+      "utility"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "ytdlnis",
+    "name": "deniscerri/ytdlnis",
+    "description": "Free and open-source video/audio downloader app for Android supporting over 1000 sites.",
+    "url": "https://github.com/deniscerri/ytdlnis",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "downloader",
+      "youtube-dl"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "unlimited-ocr",
+    "name": "baidu/Unlimited-OCR",
+    "description": "OCR reader tool for extracting text from images.",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "category": "AI",
+    "tags": [
+      "ocr",
+      "text-recognition"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "ai-job-search",
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "AI-powered job application framework built on Claude Code that evaluates postings, tailors CVs, and writes cover letters.",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "job-search",
+      "claude-code"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "opencut-editor",
+    "name": "OpenCut-app/OpenCut",
+    "description": "Free and open-source video editor for web, desktop, and mobile — a CapCut alternative.",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "category": "Productivity",
+    "tags": [
+      "video-editor",
+      "open-source",
+      "cross-platform"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "rm-bg-watermark",
+    "name": "Curzyori/rm-bg",
+    "description": "Removes image backgrounds and strips Gemini/NotebookLM watermarks locally in the browser.",
+    "url": "https://github.com/Curzyori/rm-bg",
+    "category": "AI",
+    "tags": [
+      "image-processing",
+      "watermark-removal",
+      "on-device"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "ai-for-beginners",
+    "name": "microsoft/ai-for-beginners",
+    "description": "Artificial Intelligence for Beginners — a curriculum from Microsoft.",
+    "url": "https://github.com/microsoft/ai-for-beginners",
+    "category": "Learning",
+    "tags": [
+      "ai",
+      "curriculum",
+      "education"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "netwatch",
+    "name": "matthart1983/netwatch",
+    "description": "Real-time network diagnostics in your terminal with zero config and instant visibility.",
+    "url": "https://github.com/matthart1983/netwatch",
+    "category": "CLI",
+    "tags": [
+      "networking",
+      "terminal",
+      "diagnostics"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "bengal-download-manager",
+    "name": "tazihad/bengal-download-manager",
+    "description": "IDM clone for Linux with extension support, available as binary, AppImage and Flatpak.",
+    "url": "https://github.com/tazihad/bengal-download-manager",
+    "category": "Productivity",
+    "tags": [
+      "download-manager",
+      "linux"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "locreminder",
+    "name": "zaifears/locreminder",
+    "description": "Location-based alarm app that rings when you reach a chosen place, with no ads, tracking, or account required.",
+    "url": "https://github.com/zaifears/locreminder",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "location",
+      "alarm"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "fastfetch",
+    "name": "fastfetch-cli/fastfetch",
+    "description": "Fast, feature-rich system information tool for the terminal.",
+    "url": "https://github.com/fastfetch-cli/fastfetch",
+    "category": "CLI",
+    "tags": [
+      "system-info",
+      "terminal",
+      "fast"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "useful-batch-files",
+    "name": "aonexyz/Useful-Batch-Files",
+    "description": "Collection of useful batch scripts for automating common Windows tasks.",
+    "url": "https://github.com/aonexyz/Useful-Batch-Files",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "batch-scripts",
+      "automation"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "bluevein",
+    "name": "meowrch/BlueVein",
+    "description": "Avoids re-pairing Bluetooth devices when dual-booting Windows and Linux.",
+    "url": "https://github.com/meowrch/BlueVein",
+    "category": "DevOps",
+    "tags": [
+      "bluetooth",
+      "dual-boot",
+      "windows"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "ghost-downloader-3",
+    "name": "XiaoYouChR/Ghost-Downloader-3",
+    "description": "Fast, smart download tool for files, torrents, and high-quality videos with a browser add-on.",
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "category": "Productivity",
+    "tags": [
+      "download-manager",
+      "cross-platform"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "upload-assistant-fork",
+    "name": "wastaken7/Upload-Assistant",
+    "description": "Fork of Audionut's Upload-Assistant with additional features.",
+    "url": "https://github.com/wastaken7/Upload-Assistant",
+    "category": "CLI",
+    "tags": [
+      "upload",
+      "automation"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "qmplay2",
+    "name": "zaps166/QMPlay2",
+    "description": "Video and audio player supporting all FFmpeg formats, Audio CD, raw files, and chiptunes with a YouTube browser.",
+    "url": "https://github.com/zaps166/QMPlay2",
+    "category": "Productivity",
+    "tags": [
+      "media-player",
+      "ffmpeg"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "watermarks-remover",
+    "name": "guillaumemeyer/watermarks-remover",
+    "description": "Removes invisible watermarks and hidden Unicode metadata from AI-generated text.",
+    "url": "https://github.com/guillaumemeyer/watermarks-remover",
+    "category": "AI",
+    "tags": [
+      "watermark-removal",
+      "ai",
+      "privacy"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "aonexyz-idm-lifetime-activation",
+    "name": "aonexyz/IDM-LifeTime-Activation",
+    "description": "Simple utility for easy IDM activation management on Windows.",
+    "url": "https://github.com/aonexyz/IDM-LifeTime-Activation",
+    "category": "DevOps",
+    "tags": [
+      "windows",
+      "activation",
+      "utility"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-08-23"
   }
 ]
