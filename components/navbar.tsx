@@ -41,10 +41,10 @@ export function Navbar() {
           : "border-b border-transparent bg-transparent"
       )}
     >
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
+      <div className="mx-auto grid h-16 max-w-6xl grid-cols-[1fr_auto_1fr] items-center px-4 sm:px-6">
         <Link
           href="/"
-          className="flex items-center gap-2 font-semibold tracking-tight"
+          className="flex items-center gap-2 font-semibold tracking-tight justify-self-start"
         >
           <Image
             src="/logo.svg"
@@ -57,7 +57,7 @@ export function Navbar() {
           <span className="hidden sm:inline">GitHub Treasures</span>
         </Link>
 
-        <nav className="hidden items-center gap-1 md:flex">
+        <nav className="hidden items-center gap-1 justify-self-center md:flex">
           {links.map((link) => (
             <Button key={link.href} variant="ghost" size="sm" render={<Link href={link.href} />}>
               {link.label}
@@ -72,7 +72,7 @@ export function Navbar() {
           </Button>
         </nav>
 
-        <div className="flex items-center gap-1">
+        <div className="flex items-center gap-1 justify-self-end">
           <ThemeToggle />
           <Button
             variant="ghost"
