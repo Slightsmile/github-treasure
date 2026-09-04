@@ -5644,5 +5644,86 @@
     "language": null,
     "stars": null,
     "dateAdded": "2026-08-23"
+  },
+  {
+    "slug": "drakonis96-nodus",
+    "name": "Drakonis96/nodus",
+    "description": "Local-first desktop research workspace for connecting sources, evidence, notes and ideas, built for academic research with Zotero integration.",
+    "url": "https://github.com/Drakonis96/nodus",
+    "category": "Productivity",
+    "tags": [
+      "research",
+      "notes",
+      "desktop",
+      "zotero",
+      "knowledge-management"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-09-04"
+  },
+  {
+    "slug": "1j01-tracky-mouse",
+    "name": "1j01/tracky-mouse",
+    "description": "Desktop application and embeddable library providing hands-free computer control via head tracking, for universal accessibility.",
+    "url": "https://github.com/1j01/tracky-mouse",
+    "category": "Accessibility",
+    "tags": [
+      "accessibility",
+      "head-tracking",
+      "assistive-technology",
+      "desktop"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-09-04"
+  },
+  {
+    "slug": "nousresearch-hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "Self-improving AI agent that creates and refines skills from experience, persists learned knowledge, and builds a model of the user across sessions.",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "category": "AI/ML",
+    "tags": [
+      "ai-agent",
+      "llm",
+      "self-improving",
+      "automation"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-09-04"
+  },
+  {
+    "slug": "westpoint-io-mimik",
+    "name": "westpoint-io/mimik",
+    "description": "Browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots.",
+    "url": "https://github.com/westpoint-io/mimik",
+    "category": "Productivity",
+    "tags": [
+      "browser-extension",
+      "documentation",
+      "screenshots",
+      "workflow"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-09-04"
+  },
+  {
+    "slug": "diegosouzapw-omniroute",
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Free, self-hosted MIT-licensed AI gateway routing one endpoint to 352+ providers and 1200+ models, with quota-aware fallback and token compression.",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "category": "AI/ML",
+    "tags": [
+      "ai-gateway",
+      "llm",
+      "self-hosted",
+      "developer-tools"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-09-04"
   }
 ]
