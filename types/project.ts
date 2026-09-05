@@ -7,6 +7,9 @@ export interface Project {
   tags: string[];
   language: string | null;
   stars: number | null;
+  forks: number | null;
+  avatar: string | null;
+  author: string | null;
   dateAdded: string;
 }
 

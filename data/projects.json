@@ -27,9 +27,12 @@
       "activation",
       "utility"
     ],
-    "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2023-03-10"
+    "language": "Batchfile",
+    "stars": 189391,
+    "dateAdded": "2023-03-10",
+    "forks": 18063,
+    "avatar": "https://avatars.githubusercontent.com/u/59795046?v=4",
+    "author": "massgravel"
   },
   {
     "slug": "localsend",
@@ -43,8 +46,11 @@
       "networking"
     ],
     "language": "Dart",
-    "stars": null,
-    "dateAdded": "2023-03-12"
+    "stars": 90091,
+    "dateAdded": "2023-03-12",
+    "forks": 5020,
+    "avatar": "https://avatars.githubusercontent.com/u/120677616?v=4",
+    "author": "localsend"
   },
   {
     "slug": "social-mapper",
@@ -59,8 +65,11 @@
       "python"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 4075,
+    "dateAdded": "2023-03-15",
+    "forks": 820,
+    "avatar": "https://avatars.githubusercontent.com/u/48361984?v=4",
+    "author": "Greenwolf"
   },
   {
     "slug": "windows10debloater",
@@ -74,8 +83,11 @@
       "debloat"
     ],
     "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2023-03-18"
+    "stars": 18835,
+    "dateAdded": "2023-03-18",
+    "forks": 2060,
+    "avatar": "https://avatars.githubusercontent.com/u/7380192?v=4",
+    "author": "Sycnex"
   },
   {
     "slug": "aria2",
@@ -89,8 +101,11 @@
       "networking"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2023-03-20"
+    "stars": 41914,
+    "dateAdded": "2023-03-20",
+    "forks": 3895,
+    "avatar": "https://avatars.githubusercontent.com/u/13545224?v=4",
+    "author": "aria2"
   },
   {
     "slug": "jq",
@@ -104,8 +119,11 @@
       "developer-tools"
     ],
     "language": "C",
-    "stars": null,
-    "dateAdded": "2023-03-22"
+    "stars": 35552,
+    "dateAdded": "2023-03-22",
+    "forks": 1834,
+    "avatar": "https://avatars.githubusercontent.com/u/104800540?v=4",
+    "author": "jqlang"
   },
   {
     "slug": "jackett",
@@ -119,8 +137,11 @@
       "proxy"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2023-03-25"
+    "stars": 16002,
+    "dateAdded": "2023-03-25",
+    "forks": 1555,
+    "avatar": "https://avatars.githubusercontent.com/u/15383019?v=4",
+    "author": "Jackett"
   },
   {
     "slug": "developer-roadmap",
@@ -133,9 +154,12 @@
       "career",
       "education"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-28"
+    "language": "TypeScript",
+    "stars": 366321,
+    "dateAdded": "2023-03-28",
+    "forks": 44897,
+    "avatar": "https://avatars.githubusercontent.com/u/4921183?v=4",
+    "author": "nilbuild"
   },
   {
     "slug": "free-programming-books",
@@ -148,9 +172,12 @@
       "education",
       "curated-list"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-04-01"
+    "language": "Python",
+    "stars": 395993,
+    "dateAdded": "2023-04-01",
+    "forks": 66737,
+    "avatar": "https://avatars.githubusercontent.com/u/14127308?v=4",
+    "author": "EbookFoundation"
   },
   {
     "slug": "awesome-privacy",
@@ -163,9 +190,12 @@
       "curated-list",
       "security"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-04-03"
+    "language": "Python",
+    "stars": 19678,
+    "dateAdded": "2023-04-03",
+    "forks": 1136,
+    "avatar": "https://avatars.githubusercontent.com/u/64632615?v=4",
+    "author": "pluja"
   },
   {
     "slug": "sherlock",
@@ -180,8 +210,11 @@
       "security"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-04-05"
+    "stars": 90947,
+    "dateAdded": "2023-04-05",
+    "forks": 10682,
+    "avatar": "https://avatars.githubusercontent.com/u/48293496?v=4",
+    "author": "sherlock-project"
   },
   {
     "slug": "awesome-chatgpt-prompts",
@@ -194,9 +227,12 @@
       "prompts",
       "curated-list"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-04-12"
+    "language": "HTML",
+    "stars": 169348,
+    "dateAdded": "2023-04-12",
+    "forks": 21787,
+    "avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
+    "author": "f"
   },
   {
     "slug": "stable-diffusion-webui",
@@ -211,8 +247,11 @@
       "image-generation"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-04-15"
+    "stars": 164815,
+    "dateAdded": "2023-04-15",
+    "forks": 30554,
+    "avatar": "https://avatars.githubusercontent.com/u/20920490?v=4",
+    "author": "AUTOMATIC1111"
   },
   {
     "slug": "invokeai",
@@ -226,8 +265,11 @@
       "creative-tools"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-04-18"
+    "stars": 28136,
+    "dateAdded": "2023-04-18",
+    "forks": 2968,
+    "avatar": "https://avatars.githubusercontent.com/u/113954515?v=4",
+    "author": "invoke-ai"
   },
   {
     "slug": "civitai",
@@ -241,8 +283,11 @@
       "platform"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2023-04-20"
+    "stars": 7239,
+    "dateAdded": "2023-04-20",
+    "forks": 734,
+    "avatar": "https://avatars.githubusercontent.com/u/117393426?v=4",
+    "author": "civitai"
   },
   {
     "slug": "text-generation-webui",
@@ -257,8 +302,11 @@
       "gradio"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-04-25"
+    "stars": 47617,
+    "dateAdded": "2023-04-25",
+    "forks": 5983,
+    "avatar": "https://avatars.githubusercontent.com/u/112222186?v=4",
+    "author": "oobabooga"
   },
   {
     "slug": "autogpt",
@@ -273,8 +321,11 @@
       "automation"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-04-28"
+    "stars": 187136,
+    "dateAdded": "2023-04-28",
+    "forks": 46044,
+    "avatar": "https://avatars.githubusercontent.com/u/130738209?v=4",
+    "author": "Significant-Gravitas"
   },
   {
     "slug": "whisper-cpp",
@@ -288,8 +339,11 @@
       "cpp"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2023-05-01"
+    "stars": 53453,
+    "dateAdded": "2023-05-01",
+    "forks": 6128,
+    "avatar": "https://avatars.githubusercontent.com/u/134263123?v=4",
+    "author": "ggml-org"
   },
   {
     "slug": "tldraw",
@@ -304,8 +358,11 @@
       "frontend"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2023-05-03"
+    "stars": 50143,
+    "dateAdded": "2023-05-03",
+    "forks": 3499,
+    "avatar": "https://avatars.githubusercontent.com/u/86724562?v=4",
+    "author": "tldraw"
   },
   {
     "slug": "screenshot-to-code",
@@ -320,8 +377,11 @@
       "frontend"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-05-06"
+    "stars": 77716,
+    "dateAdded": "2023-05-06",
+    "forks": 9459,
+    "avatar": "https://avatars.githubusercontent.com/u/23818?v=4",
+    "author": "abi"
   },
   {
     "slug": "privategpt",
@@ -336,8 +396,11 @@
       "documents"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-05-08"
+    "stars": 57492,
+    "dateAdded": "2023-05-08",
+    "forks": 7612,
+    "avatar": "https://avatars.githubusercontent.com/u/143802295?v=4",
+    "author": "zylon-ai"
   },
   {
     "slug": "swe-agent",
@@ -352,8 +415,11 @@
       "automation"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-05-10"
+    "stars": 20223,
+    "dateAdded": "2023-05-10",
+    "forks": 2211,
+    "avatar": "https://avatars.githubusercontent.com/u/166046056?v=4",
+    "author": "SWE-agent"
   },
   {
     "slug": "openshot-qt",
@@ -367,8 +433,11 @@
       "desktop"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-05-15"
+    "stars": 6437,
+    "dateAdded": "2023-05-15",
+    "forks": 789,
+    "avatar": "https://avatars.githubusercontent.com/u/5551888?v=4",
+    "author": "OpenShot"
   },
   {
     "slug": "hashcat",
@@ -382,8 +451,11 @@
       "cracking"
     ],
     "language": "C",
-    "stars": null,
-    "dateAdded": "2023-05-18"
+    "stars": 26705,
+    "dateAdded": "2023-05-18",
+    "forks": 3547,
+    "avatar": "https://avatars.githubusercontent.com/u/15949799?v=4",
+    "author": "hashcat"
   },
   {
     "slug": "keepassxc",
@@ -397,8 +469,11 @@
       "cross-platform"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2023-05-25"
+    "stars": 28685,
+    "dateAdded": "2023-05-25",
+    "forks": 1905,
+    "avatar": "https://avatars.githubusercontent.com/u/22534815?v=4",
+    "author": "keepassxreboot"
   },
   {
     "slug": "upscayl",
@@ -412,8 +487,11 @@
       "desktop"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2023-05-28"
+    "stars": 48991,
+    "dateAdded": "2023-05-28",
+    "forks": 2458,
+    "avatar": "https://avatars.githubusercontent.com/u/112148288?v=4",
+    "author": "upscayl"
   },
   {
     "slug": "scrcpy",
@@ -427,8 +505,11 @@
       "cli"
     ],
     "language": "C",
-    "stars": null,
-    "dateAdded": "2023-06-01"
+    "stars": 148910,
+    "dateAdded": "2023-06-01",
+    "forks": 13687,
+    "avatar": "https://avatars.githubusercontent.com/u/3427627?v=4",
+    "author": "Genymobile"
   },
   {
     "slug": "powertoys",
@@ -441,9 +522,12 @@
       "utilities",
       "productivity"
     ],
-    "language": "C#",
-    "stars": null,
-    "dateAdded": "2023-06-08"
+    "language": "C",
+    "stars": 138394,
+    "dateAdded": "2023-06-08",
+    "forks": 8551,
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "author": "microsoft"
   },
   {
     "slug": "lossless-cut",
@@ -456,9 +540,12 @@
       "desktop",
       "ffmpeg"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-06-10"
+    "language": "TypeScript",
+    "stars": 43458,
+    "dateAdded": "2023-06-10",
+    "forks": 2148,
+    "avatar": "https://avatars.githubusercontent.com/u/402547?v=4",
+    "author": "mifi"
   },
   {
     "slug": "rectangle",
@@ -472,8 +559,11 @@
       "productivity"
     ],
     "language": "Swift",
-    "stars": null,
-    "dateAdded": "2023-06-12"
+    "stars": 29825,
+    "dateAdded": "2023-06-12",
+    "forks": 985,
+    "avatar": "https://avatars.githubusercontent.com/u/13651296?v=4",
+    "author": "rxhanson"
   },
   {
     "slug": "hoppscotch",
@@ -487,9 +577,12 @@
       "developer-tools",
       "open-source"
     ],
-    "language": "Vue",
-    "stars": null,
-    "dateAdded": "2023-06-15"
+    "language": "TypeScript",
+    "stars": 80205,
+    "dateAdded": "2023-06-15",
+    "forks": 6083,
+    "avatar": "https://avatars.githubusercontent.com/u/56705483?v=4",
+    "author": "hoppscotch"
   },
   {
     "slug": "rembg",
@@ -503,8 +596,11 @@
       "python"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-06-18"
+    "stars": 24623,
+    "dateAdded": "2023-06-18",
+    "forks": 2408,
+    "avatar": "https://avatars.githubusercontent.com/u/7380?v=4",
+    "author": "danielgatis"
   },
   {
     "slug": "public-apis",
@@ -517,9 +613,12 @@
       "curated-list",
       "development"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-06-20"
+    "language": "Python",
+    "stars": 475375,
+    "dateAdded": "2023-06-20",
+    "forks": 52524,
+    "avatar": "https://avatars.githubusercontent.com/u/51121562?v=4",
+    "author": "public-apis"
   },
   {
     "slug": "vencord",
@@ -533,8 +632,11 @@
       "desktop"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2023-06-22"
+    "stars": 14044,
+    "dateAdded": "2023-06-22",
+    "forks": 2549,
+    "avatar": "https://avatars.githubusercontent.com/u/45497981?v=4",
+    "author": "Vendicated"
   },
   {
     "slug": "open-interpreter",
@@ -548,9 +650,12 @@
       "code-execution",
       "agents"
     ],
-    "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-06-25"
+    "language": "Rust",
+    "stars": 68240,
+    "dateAdded": "2023-06-25",
+    "forks": 5876,
+    "avatar": "https://avatars.githubusercontent.com/u/163192481?v=4",
+    "author": "openinterpreter"
   },
   {
     "slug": "starship",
@@ -565,8 +670,11 @@
       "developer-tools"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2023-07-01"
+    "stars": 59781,
+    "dateAdded": "2023-07-01",
+    "forks": 2652,
+    "avatar": "https://avatars.githubusercontent.com/u/49654870?v=4",
+    "author": "starship"
   },
   {
     "slug": "lapce",
@@ -580,8 +688,11 @@
       "developer-tools"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2023-07-05"
+    "stars": 38821,
+    "dateAdded": "2023-07-05",
+    "forks": 1321,
+    "avatar": "https://avatars.githubusercontent.com/u/43668847?v=4",
+    "author": "lapce"
   },
   {
     "slug": "penpot",
@@ -595,8 +706,11 @@
       "prototyping"
     ],
     "language": "Clojure",
-    "stars": null,
-    "dateAdded": "2023-07-08"
+    "stars": 59594,
+    "dateAdded": "2023-07-08",
+    "forks": 4057,
+    "avatar": "https://avatars.githubusercontent.com/u/30179644?v=4",
+    "author": "penpot"
   },
   {
     "slug": "cobalt",
@@ -609,9 +723,12 @@
       "web",
       "self-hosted"
     ],
-    "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2023-07-15"
+    "language": "Svelte",
+    "stars": 42627,
+    "dateAdded": "2023-07-15",
+    "forks": 3717,
+    "avatar": "https://avatars.githubusercontent.com/u/152056268?v=4",
+    "author": "imputnet"
   },
   {
     "slug": "winapps",
@@ -625,8 +742,11 @@
       "windows-apps"
     ],
     "language": "Shell",
-    "stars": null,
-    "dateAdded": "2023-07-20"
+    "stars": 15898,
+    "dateAdded": "2023-07-20",
+    "forks": 502,
+    "avatar": "https://avatars.githubusercontent.com/u/138696776?v=4",
+    "author": "winapps-org"
   },
   {
     "slug": "zen-browser",
@@ -639,9 +759,12 @@
       "privacy",
       "desktop"
     ],
-    "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2023-08-01"
+    "language": "C++",
+    "stars": 44268,
+    "dateAdded": "2023-08-01",
+    "forks": 1736,
+    "avatar": "https://avatars.githubusercontent.com/u/165225155?v=4",
+    "author": "zen-browser"
   },
   {
     "slug": "ente",
@@ -656,8 +779,11 @@
       "encryption"
     ],
     "language": "Dart",
-    "stars": null,
-    "dateAdded": "2023-08-10"
+    "stars": 28661,
+    "dateAdded": "2023-08-10",
+    "forks": 1783,
+    "avatar": "https://avatars.githubusercontent.com/u/64603161?v=4",
+    "author": "ente"
   },
   {
     "slug": "devtoys",
@@ -671,8 +797,11 @@
       "windows"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2023-08-15"
+    "stars": 31924,
+    "dateAdded": "2023-08-15",
+    "forks": 1748,
+    "avatar": "https://avatars.githubusercontent.com/u/161959666?v=4",
+    "author": "DevToys-app"
   },
   {
     "slug": "fabric",
@@ -687,8 +816,11 @@
       "cli"
     ],
     "language": "Go",
-    "stars": null,
-    "dateAdded": "2023-09-01"
+    "stars": 43820,
+    "dateAdded": "2023-09-01",
+    "forks": 4254,
+    "avatar": "https://avatars.githubusercontent.com/u/50654?v=4",
+    "author": "danielmiessler"
   },
   {
     "slug": "puter",
@@ -701,9 +833,12 @@
       "javascript",
       "open-source"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-09-10"
+    "language": "TypeScript",
+    "stars": 43393,
+    "dateAdded": "2023-09-10",
+    "forks": 4042,
+    "avatar": "https://avatars.githubusercontent.com/u/103972607?v=4",
+    "author": "HeyPuter"
   },
   {
     "slug": "openrecall",
@@ -717,8 +852,11 @@
       "search"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-09-15"
+    "stars": 2937,
+    "dateAdded": "2023-09-15",
+    "forks": 194,
+    "avatar": "https://avatars.githubusercontent.com/u/170944222?v=4",
+    "author": "openrecall"
   },
   {
     "slug": "freetube",
@@ -731,9 +869,12 @@
       "youtube",
       "desktop"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-10-05"
+    "language": "Vue",
+    "stars": 21849,
+    "dateAdded": "2023-10-05",
+    "forks": 1502,
+    "avatar": "https://avatars.githubusercontent.com/u/35975737?v=4",
+    "author": "FreeTubeApp"
   },
   {
     "slug": "repomix",
@@ -748,8 +889,11 @@
       "llm"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2025-04-10"
+    "stars": 28194,
+    "dateAdded": "2025-04-10",
+    "forks": 1511,
+    "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
+    "author": "yamadashy"
   },
   {
     "slug": "n8n-workflows",
@@ -762,9 +906,12 @@
       "n8n",
       "workflows"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2025-06-15"
+    "language": "Python",
+    "stars": 56434,
+    "dateAdded": "2025-06-15",
+    "forks": 7585,
+    "avatar": "https://avatars.githubusercontent.com/u/54673680?v=4",
+    "author": "Zie619"
   },
   {
     "slug": "videolingo",
@@ -779,8 +926,11 @@
       "dubbing"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2025-06-19"
+    "stars": 18363,
+    "dateAdded": "2025-06-19",
+    "forks": 2022,
+    "avatar": "https://avatars.githubusercontent.com/u/147359634?v=4",
+    "author": "Huanshere"
   },
   {
     "slug": "yasb",
@@ -794,8 +944,11 @@
       "customization"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2025-06-20"
+    "stars": 5430,
+    "dateAdded": "2025-06-20",
+    "forks": 212,
+    "avatar": "https://avatars.githubusercontent.com/u/16545063?v=4",
+    "author": "amnweb"
   },
   {
     "slug": "linutil",
@@ -809,9 +962,12 @@
       "cli",
       "toolbox"
     ],
-    "language": "Rust",
-    "stars": null,
-    "dateAdded": "2025-07-29"
+    "language": "Shell",
+    "stars": 5248,
+    "dateAdded": "2025-07-29",
+    "forks": 422,
+    "avatar": "https://avatars.githubusercontent.com/u/7896101?v=4",
+    "author": "ChrisTitusTech"
   },
   {
     "slug": "copyparty",
@@ -825,8 +981,11 @@
       "python"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2025-08-02"
+    "stars": 46515,
+    "dateAdded": "2025-08-02",
+    "forks": 1897,
+    "avatar": "https://avatars.githubusercontent.com/u/241032?v=4",
+    "author": "9001"
   },
   {
     "slug": "bauh",
@@ -840,8 +999,11 @@
       "gui"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2025-08-09"
+    "stars": 1401,
+    "dateAdded": "2025-08-09",
+    "forks": 93,
+    "avatar": "https://avatars.githubusercontent.com/u/4312414?v=4",
+    "author": "vinifmor"
   },
   {
     "slug": "luci-mobile",
@@ -855,8 +1017,11 @@
       "self-hosted"
     ],
     "language": "Dart",
-    "stars": null,
-    "dateAdded": "2025-08-09"
+    "stars": 592,
+    "dateAdded": "2025-08-09",
+    "forks": 52,
+    "avatar": "https://avatars.githubusercontent.com/u/172976095?v=4",
+    "author": "cogwheel0"
   },
   {
     "slug": "faststream",
@@ -870,8 +1035,11 @@
       "streaming"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2025-10-07"
+    "stars": 982,
+    "dateAdded": "2025-10-07",
+    "forks": 78,
+    "avatar": "https://avatars.githubusercontent.com/u/13282284?v=4",
+    "author": "Andrews54757"
   },
   {
     "slug": "shadps4",
@@ -885,8 +1053,11 @@
       "gaming"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2025-08-26"
+    "stars": 32730,
+    "dateAdded": "2025-08-26",
+    "forks": 2495,
+    "avatar": "https://avatars.githubusercontent.com/u/152868421?v=4",
+    "author": "shadps4-emu"
   },
   {
     "slug": "numi",
@@ -899,9 +1070,12 @@
       "productivity",
       "macos"
     ],
-    "language": "Swift",
-    "stars": null,
-    "dateAdded": "2025-07-30"
+    "language": "JavaScript",
+    "stars": 6494,
+    "dateAdded": "2025-07-30",
+    "forks": 257,
+    "avatar": "https://avatars.githubusercontent.com/u/9416836?v=4",
+    "author": "nikolaeu"
   },
   {
     "slug": "runcat365",
@@ -915,8 +1089,11 @@
       "fun"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2025-08-09"
+    "stars": 10289,
+    "dateAdded": "2025-08-09",
+    "forks": 848,
+    "avatar": "https://avatars.githubusercontent.com/u/285729047?v=4",
+    "author": "runcat-dev"
   },
   {
     "slug": "edu-pulse",
@@ -929,9 +1106,12 @@
       "education",
       "open-source"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-02-26"
+    "language": "Python",
+    "stars": 27,
+    "dateAdded": "2026-02-26",
+    "forks": 6,
+    "avatar": "https://avatars.githubusercontent.com/u/15651792?v=4",
+    "author": "manjurulhoque"
   },
   {
     "slug": "ramadan-cli",
@@ -944,9 +1124,12 @@
       "productivity",
       "prayer-times"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2026-02-26"
+    "language": "TypeScript",
+    "stars": 602,
+    "dateAdded": "2026-02-26",
+    "forks": 55,
+    "avatar": "https://avatars.githubusercontent.com/u/960133?v=4",
+    "author": "ahmadawais"
   },
   {
     "slug": "discord-quest-completer",
@@ -959,9 +1142,12 @@
       "discord",
       "windows"
     ],
-    "language": "C#",
-    "stars": null,
-    "dateAdded": "2026-02-26"
+    "language": "Vue",
+    "stars": 852,
+    "dateAdded": "2026-02-26",
+    "forks": 83,
+    "avatar": "https://avatars.githubusercontent.com/u/2003215?v=4",
+    "author": "markterence"
   },
   {
     "slug": "prayer-time",
@@ -974,9 +1160,12 @@
       "privacy",
       "prayer-times"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2026-02-26"
+    "language": "TypeScript",
+    "stars": 3,
+    "dateAdded": "2026-02-26",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/53966395?v=4",
+    "author": "helix-77"
   },
   {
     "slug": "ytfzf",
@@ -990,8 +1179,11 @@
       "shell"
     ],
     "language": "Shell",
-    "stars": null,
-    "dateAdded": "2026-03-05"
+    "stars": 4149,
+    "dateAdded": "2026-03-05",
+    "forks": 448,
+    "avatar": "https://avatars.githubusercontent.com/u/79201151?v=4",
+    "author": "pystardust"
   },
   {
     "slug": "drive-pool",
@@ -1004,9 +1196,12 @@
       "storage",
       "google-drive"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-05-07"
+    "language": "TypeScript",
+    "stars": 132,
+    "dateAdded": "2026-05-07",
+    "forks": 41,
+    "avatar": "https://avatars.githubusercontent.com/u/120123701?v=4",
+    "author": "saimon4u"
   },
   {
     "slug": "betterfox",
@@ -1019,9 +1214,12 @@
       "privacy",
       "security"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-05-07"
+    "language": "JavaScript",
+    "stars": 10836,
+    "dateAdded": "2026-05-07",
+    "forks": 258,
+    "avatar": "https://avatars.githubusercontent.com/u/11689349?v=4",
+    "author": "yokoffing"
   },
   {
     "slug": "autoresearchclaw",
@@ -1036,8 +1234,11 @@
       "automation"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2026-05-07"
+    "stars": 14335,
+    "dateAdded": "2026-05-07",
+    "forks": 1666,
+    "avatar": "https://avatars.githubusercontent.com/u/186755503?v=4",
+    "author": "aiming-lab"
   },
   {
     "slug": "navi",
@@ -1051,8 +1252,11 @@
       "terminal"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2026-03-18"
+    "stars": 17508,
+    "dateAdded": "2026-03-18",
+    "forks": 561,
+    "avatar": "https://avatars.githubusercontent.com/u/3226564?v=4",
+    "author": "denisidoro"
   },
   {
     "slug": "yazi",
@@ -1067,8 +1271,11 @@
       "tui"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2026-03-18"
+    "stars": 41946,
+    "dateAdded": "2026-03-18",
+    "forks": 1007,
+    "avatar": "https://avatars.githubusercontent.com/u/17523360?v=4",
+    "author": "sxyazi"
   },
   {
     "slug": "fluentflyout",
@@ -1082,8 +1289,11 @@
       "desktop"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2026-03-19"
+    "stars": 4298,
+    "dateAdded": "2026-03-19",
+    "forks": 212,
+    "avatar": "https://avatars.githubusercontent.com/u/43926158?v=4",
+    "author": "unchihugo"
   },
   {
     "slug": "claude-code-templates",
@@ -1097,9 +1307,12 @@
       "templates",
       "developer-tools"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-04-15"
+    "language": "Python",
+    "stars": 30533,
+    "dateAdded": "2026-04-15",
+    "forks": 3459,
+    "avatar": "https://avatars.githubusercontent.com/u/6216945?v=4",
+    "author": "davila7"
   },
   {
     "slug": "dyad",
@@ -1113,8 +1326,11 @@
       "open-source"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2026-05-01"
+    "stars": 21384,
+    "dateAdded": "2026-05-01",
+    "forks": 2610,
+    "avatar": "https://avatars.githubusercontent.com/u/183970190?v=4",
+    "author": "dyad-sh"
   },
   {
     "slug": "fmhy",
@@ -1128,8 +1344,11 @@
       "resources"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2026-06-01"
+    "stars": 14345,
+    "dateAdded": "2026-06-01",
+    "forks": 1045,
+    "avatar": "https://avatars.githubusercontent.com/u/102311293?v=4",
+    "author": "fmhy"
   },
   {
     "slug": "stevenblack-hosts",
@@ -1143,8 +1362,11 @@
       "privacy"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2026-02-01"
+    "stars": 30996,
+    "dateAdded": "2026-02-01",
+    "forks": 2441,
+    "avatar": "https://avatars.githubusercontent.com/u/80144?v=4",
+    "author": "StevenBlack"
   },
   {
     "slug": "harper",
@@ -1158,8 +1380,11 @@
       "writing-tools"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2026-01-15"
+    "stars": 14967,
+    "dateAdded": "2026-01-15",
+    "forks": 597,
+    "avatar": "https://avatars.githubusercontent.com/u/887802?v=4",
+    "author": "Automattic"
   },
   {
     "slug": "strawberry",
@@ -1173,8 +1398,11 @@
       "cross-platform"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2026-02-10"
+    "stars": 3942,
+    "dateAdded": "2026-02-10",
+    "forks": 337,
+    "avatar": "https://avatars.githubusercontent.com/u/60241412?v=4",
+    "author": "strawberrymusicplayer"
   },
   {
     "slug": "spotify-downloader",
@@ -1188,8 +1416,11 @@
       "cli"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-11-01"
+    "stars": 26001,
+    "dateAdded": "2023-11-01",
+    "forks": 2240,
+    "avatar": "https://avatars.githubusercontent.com/u/71949218?v=4",
+    "author": "spotDL"
   },
   {
     "slug": "wttr-in",
@@ -1202,9 +1433,12 @@
       "weather",
       "self-hosted"
     ],
-    "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-11-05"
+    "language": "Go",
+    "stars": 30487,
+    "dateAdded": "2023-11-05",
+    "forks": 1266,
+    "avatar": "https://avatars.githubusercontent.com/u/3875145?v=4",
+    "author": "chubin"
   },
   {
     "slug": "mihon",
@@ -1219,8 +1453,11 @@
       "open-source"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-01-08"
+    "stars": 23369,
+    "dateAdded": "2024-01-08",
+    "forks": 1472,
+    "avatar": "https://avatars.githubusercontent.com/u/156513628?v=4",
+    "author": "mihonapp"
   },
   {
     "slug": "floccus",
@@ -1234,8 +1471,11 @@
       "sync"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2024-02-01"
+    "stars": 8422,
+    "dateAdded": "2024-02-01",
+    "forks": 325,
+    "avatar": "https://avatars.githubusercontent.com/u/78930063?v=4",
+    "author": "floccusaddon"
   },
   {
     "slug": "spotube",
@@ -1249,8 +1489,11 @@
       "cross-platform"
     ],
     "language": "Dart",
-    "stars": null,
-    "dateAdded": "2024-02-10"
+    "stars": 48912,
+    "dateAdded": "2024-02-10",
+    "forks": 2270,
+    "avatar": "https://avatars.githubusercontent.com/u/61944859?v=4",
+    "author": "KRTirtho"
   },
   {
     "slug": "lightnovel-crawler",
@@ -1264,8 +1507,11 @@
       "ebooks"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2024-03-10"
+    "stars": 2583,
+    "dateAdded": "2024-03-10",
+    "forks": 492,
+    "avatar": "https://avatars.githubusercontent.com/u/251429248?v=4",
+    "author": "lncrawl"
   },
   {
     "slug": "imagetoolbox",
@@ -1279,8 +1525,11 @@
       "open-source"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-05-10"
+    "stars": 14469,
+    "dateAdded": "2024-05-10",
+    "forks": 631,
+    "avatar": "https://avatars.githubusercontent.com/u/52178347?v=4",
+    "author": "T8RIN"
   },
   {
     "slug": "vert",
@@ -1293,9 +1542,12 @@
       "web",
       "open-source"
     ],
-    "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2025-06-01"
+    "language": "Svelte",
+    "stars": 15520,
+    "dateAdded": "2025-06-01",
+    "forks": 826,
+    "avatar": "https://avatars.githubusercontent.com/u/198117259?v=4",
+    "author": "VERT-sh"
   },
   {
     "slug": "anyflare",
@@ -1308,9 +1560,12 @@
       "cloudflare",
       "downloader"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2025-06-07"
+    "language": "HTML",
+    "stars": 42,
+    "dateAdded": "2025-06-07",
+    "forks": 16,
+    "avatar": "https://avatars.githubusercontent.com/u/61104583?v=4",
+    "author": "ajshovon"
   },
   {
     "slug": "fadcam",
@@ -1323,9 +1578,12 @@
       "video-recording",
       "open-source"
     ],
-    "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2025-06-12"
+    "language": "Java",
+    "stars": 2749,
+    "dateAdded": "2025-06-12",
+    "forks": 229,
+    "avatar": "https://avatars.githubusercontent.com/u/124708903?v=4",
+    "author": "anonfaded"
   },
   {
     "slug": "quicknovel",
@@ -1339,8 +1597,11 @@
       "reader"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2025-06-16"
+    "stars": 1800,
+    "dateAdded": "2025-06-16",
+    "forks": 154,
+    "avatar": "https://avatars.githubusercontent.com/u/11805592?v=4",
+    "author": "LagradOst"
   },
   {
     "slug": "kizzy",
@@ -1354,8 +1615,11 @@
       "customization"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2025-06-18"
+    "stars": 1232,
+    "dateAdded": "2025-06-18",
+    "forks": 119,
+    "avatar": "https://avatars.githubusercontent.com/u/68665948?v=4",
+    "author": "dead8309"
   },
   {
     "slug": "android-file-transfer-linux",
@@ -1369,8 +1633,11 @@
       "file-transfer"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2025-06-19"
+    "stars": 1689,
+    "dateAdded": "2025-06-19",
+    "forks": 132,
+    "avatar": "https://avatars.githubusercontent.com/u/480115?v=4",
+    "author": "whoozle"
   },
   {
     "slug": "edge-tts-extension",
@@ -1383,9 +1650,12 @@
       "text-to-speech",
       "accessibility"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2025-08-26"
+    "language": "TypeScript",
+    "stars": 78,
+    "dateAdded": "2025-08-26",
+    "forks": 23,
+    "avatar": "https://avatars.githubusercontent.com/u/2686415?v=4",
+    "author": "travisvn"
   },
   {
     "slug": "echo",
@@ -1399,8 +1669,11 @@
       "streaming"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2025-09-01"
+    "stars": 3508,
+    "dateAdded": "2025-09-01",
+    "forks": 235,
+    "avatar": "https://avatars.githubusercontent.com/u/69040506?v=4",
+    "author": "brahmkshatriya"
   },
   {
     "slug": "omarchy",
@@ -1414,8 +1687,11 @@
       "developer-setup"
     ],
     "language": "Shell",
-    "stars": null,
-    "dateAdded": "2025-10-01"
+    "stars": 38080,
+    "dateAdded": "2025-10-01",
+    "forks": 4049,
+    "avatar": "https://avatars.githubusercontent.com/u/219015873?v=4",
+    "author": "omacom"
   },
   {
     "slug": "winboat",
@@ -1429,8 +1705,11 @@
       "virtualization"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2025-10-20"
+    "stars": 22658,
+    "dateAdded": "2025-10-20",
+    "forks": 718,
+    "avatar": "https://avatars.githubusercontent.com/u/313567933?v=4",
+    "author": "winboat-org"
   },
   {
     "slug": "berty",
@@ -1443,9 +1722,12 @@
       "p2p",
       "privacy"
     ],
-    "language": "Go",
-    "stars": null,
-    "dateAdded": "2025-11-01"
+    "language": "TypeScript",
+    "stars": 9290,
+    "dateAdded": "2025-11-01",
+    "forks": 503,
+    "avatar": "https://avatars.githubusercontent.com/u/22157871?v=4",
+    "author": "berty"
   },
   {
     "slug": "librepods",
@@ -1459,8 +1741,11 @@
       "reverse-engineering"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2025-11-15"
+    "stars": 29709,
+    "dateAdded": "2025-11-15",
+    "forks": 1722,
+    "avatar": "https://avatars.githubusercontent.com/u/296429189?v=4",
+    "author": "librepods-org"
   },
   {
     "slug": "cashew",
@@ -1474,8 +1759,11 @@
       "open-source"
     ],
     "language": "Dart",
-    "stars": null,
-    "dateAdded": "2026-01-15"
+    "stars": 4597,
+    "dateAdded": "2026-01-15",
+    "forks": 769,
+    "avatar": "https://avatars.githubusercontent.com/u/50821962?v=4",
+    "author": "jameskokoska"
   },
   {
     "slug": "tizentube",
@@ -1489,8 +1777,11 @@
       "youtube"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2026-02-05"
+    "stars": 2063,
+    "dateAdded": "2026-02-05",
+    "forks": 179,
+    "avatar": "https://avatars.githubusercontent.com/u/29177546?v=4",
+    "author": "reisxd"
   },
   {
     "slug": "rise-media-player",
@@ -1504,8 +1795,11 @@
       "open-source"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2025-05-05"
+    "stars": 16,
+    "dateAdded": "2025-05-05",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/108976204?v=4",
+    "author": "RiversideValley"
   },
   {
     "slug": "cloudstream",
@@ -1519,8 +1813,11 @@
       "open-source"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 10586,
+    "dateAdded": "2023-03-15",
+    "forks": 1036,
+    "avatar": "https://avatars.githubusercontent.com/u/110591699?v=4",
+    "author": "recloudstream"
   },
   {
     "slug": "cloudstream-extensions-hexated",
@@ -1533,9 +1830,12 @@
       "streaming",
       "extension"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "Kotlin",
+    "stars": 392,
+    "dateAdded": "2023-03-15",
+    "forks": 222,
+    "avatar": "https://avatars.githubusercontent.com/u/37908684?v=4",
+    "author": "hexated"
   },
   {
     "slug": "spotx",
@@ -1548,9 +1848,12 @@
       "mod",
       "desktop"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "PowerShell",
+    "stars": 22256,
+    "dateAdded": "2023-03-15",
+    "forks": 1117,
+    "avatar": "https://avatars.githubusercontent.com/u/146193339?v=4",
+    "author": "SpotX-Official"
   },
   {
     "slug": "udemy-downloader-gui",
@@ -1563,9 +1866,12 @@
       "downloader",
       "gui"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "JavaScript",
+    "stars": 6318,
+    "dateAdded": "2023-03-15",
+    "forks": 1995,
+    "avatar": "https://avatars.githubusercontent.com/u/18553256?v=4",
+    "author": "FaisalUmair"
   },
   {
     "slug": "udemy-downloader-gui-fork",
@@ -1578,9 +1884,12 @@
       "downloader",
       "gui"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "JavaScript",
+    "stars": 2797,
+    "dateAdded": "2023-03-15",
+    "forks": 456,
+    "avatar": "https://avatars.githubusercontent.com/u/13087389?v=4",
+    "author": "heliomarpm"
   },
   {
     "slug": "debloat-windows-10",
@@ -1594,8 +1903,11 @@
       "debloat"
     ],
     "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 6142,
+    "dateAdded": "2023-03-15",
+    "forks": 793,
+    "avatar": "https://avatars.githubusercontent.com/u/328798?v=4",
+    "author": "W4RH4WK"
   },
   {
     "slug": "windows-10-sophia-script",
@@ -1609,8 +1921,11 @@
       "debloat"
     ],
     "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 9693,
+    "dateAdded": "2023-03-15",
+    "forks": 643,
+    "avatar": "https://avatars.githubusercontent.com/u/10544660?v=4",
+    "author": "farag2"
   },
   {
     "slug": "stream-detector",
@@ -1623,9 +1938,12 @@
       "streaming",
       "firefox"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "JavaScript",
+    "stars": 721,
+    "dateAdded": "2023-03-15",
+    "forks": 116,
+    "avatar": "https://avatars.githubusercontent.com/u/6372741?v=4",
+    "author": "54ac"
   },
   {
     "slug": "noto-fonts",
@@ -1638,9 +1956,12 @@
       "open-source",
       "typography"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "Python",
+    "stars": 2501,
+    "dateAdded": "2023-03-15",
+    "forks": 204,
+    "avatar": "https://avatars.githubusercontent.com/u/64653636?v=4",
+    "author": "notofonts"
   },
   {
     "slug": "n-m3u8dl-cli",
@@ -1654,8 +1975,11 @@
       "video"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 16079,
+    "dateAdded": "2023-03-15",
+    "forks": 2283,
+    "avatar": "https://avatars.githubusercontent.com/u/20772925?v=4",
+    "author": "nilaoda"
   },
   {
     "slug": "awesome-youtubers",
@@ -1667,9 +1991,12 @@
       "curated-list",
       "youtube"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "Markdown",
+    "stars": 7774,
+    "dateAdded": "2023-03-15",
+    "forks": 501,
+    "avatar": "https://avatars.githubusercontent.com/u/37962411?v=4",
+    "author": "JoseDeFreitas"
   },
   {
     "slug": "warp-plus-cloudflare",
@@ -1698,8 +2025,11 @@
       "privacy"
     ],
     "language": "C",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 28616,
+    "dateAdded": "2023-03-15",
+    "forks": 2214,
+    "avatar": "https://avatars.githubusercontent.com/u/3054729?v=4",
+    "author": "ValdikSS"
   },
   {
     "slug": "xdm",
@@ -1711,9 +2041,12 @@
       "download-manager",
       "desktop"
     ],
-    "language": "Java",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "C#",
+    "stars": 7906,
+    "dateAdded": "2023-03-15",
+    "forks": 1182,
+    "avatar": "https://avatars.githubusercontent.com/u/8403090?v=4",
+    "author": "subhra74"
   },
   {
     "slug": "pimpmystremio",
@@ -1726,9 +2059,12 @@
       "streaming",
       "customization"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "JavaScript",
+    "stars": 500,
+    "dateAdded": "2023-03-15",
+    "forks": 60,
+    "avatar": "https://avatars.githubusercontent.com/u/49482512?v=4",
+    "author": "sungshon"
   },
   {
     "slug": "mpv-net",
@@ -1741,8 +2077,11 @@
       "desktop"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 5374,
+    "dateAdded": "2023-03-15",
+    "forks": 222,
+    "avatar": "https://avatars.githubusercontent.com/u/100841561?v=4",
+    "author": "mpvnet-player"
   },
   {
     "slug": "imdb-scout-mod",
@@ -1754,9 +2093,12 @@
       "browser-extension",
       "imdb"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "JavaScript",
+    "stars": 577,
+    "dateAdded": "2023-03-15",
+    "forks": 80,
+    "avatar": "https://avatars.githubusercontent.com/u/69023953?v=4",
+    "author": "Purfview"
   },
   {
     "slug": "bangla-fonts",
@@ -1785,8 +2127,11 @@
       "system"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 46036,
+    "dateAdded": "2023-03-15",
+    "forks": 3788,
+    "avatar": "https://avatars.githubusercontent.com/u/30562462?v=4",
+    "author": "zhongyang219"
   },
   {
     "slug": "emusak-ui",
@@ -1814,8 +2159,11 @@
       "virtualization"
     ],
     "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 5590,
+    "dateAdded": "2023-03-15",
+    "forks": 558,
+    "avatar": "https://avatars.githubusercontent.com/u/38541878?v=4",
+    "author": "jamesstringer90"
   },
   {
     "slug": "fileconverter",
@@ -1828,8 +2176,11 @@
       "windows"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 15154,
+    "dateAdded": "2023-03-15",
+    "forks": 917,
+    "avatar": "https://avatars.githubusercontent.com/u/3792144?v=4",
+    "author": "Tichau"
   },
   {
     "slug": "blockthespot",
@@ -1842,8 +2193,11 @@
       "ad-blocking"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 12489,
+    "dateAdded": "2023-03-15",
+    "forks": 777,
+    "avatar": "https://avatars.githubusercontent.com/u/18654771?v=4",
+    "author": "mrpond"
   },
   {
     "slug": "megabasterd",
@@ -1857,8 +2211,11 @@
       "mega"
     ],
     "language": "Java",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 5738,
+    "dateAdded": "2023-03-15",
+    "forks": 649,
+    "avatar": "https://avatars.githubusercontent.com/u/1344008?v=4",
+    "author": "tonikelope"
   },
   {
     "slug": "mpv-android",
@@ -1870,9 +2227,12 @@
       "android",
       "media-player"
     ],
-    "language": "C",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "Kotlin",
+    "stars": 3521,
+    "dateAdded": "2023-03-15",
+    "forks": 485,
+    "avatar": "https://avatars.githubusercontent.com/u/18583292?v=4",
+    "author": "mpv-android"
   },
   {
     "slug": "goindex-extended",
@@ -1885,8 +2245,11 @@
       "self-hosted"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 494,
+    "dateAdded": "2023-03-15",
+    "forks": 259,
+    "avatar": "https://avatars.githubusercontent.com/u/28010975?v=4",
+    "author": "menukaonline"
   },
   {
     "slug": "lively",
@@ -1900,8 +2263,11 @@
       "desktop"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 19549,
+    "dateAdded": "2023-03-15",
+    "forks": 1344,
+    "avatar": "https://avatars.githubusercontent.com/u/17554161?v=4",
+    "author": "rocksdanister"
   },
   {
     "slug": "blackhole",
@@ -1930,8 +2296,11 @@
       "windows"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 2800,
+    "dateAdded": "2023-03-15",
+    "forks": 423,
+    "avatar": "https://avatars.githubusercontent.com/u/16655101?v=4",
+    "author": "Franiac"
   },
   {
     "slug": "awesome",
@@ -1944,8 +2313,11 @@
       "awesome"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 503073,
+    "dateAdded": "2023-03-15",
+    "forks": 36716,
+    "avatar": "https://avatars.githubusercontent.com/u/170270?v=4",
+    "author": "sindresorhus"
   },
   {
     "slug": "nerd-fonts",
@@ -1957,9 +2329,12 @@
       "fonts",
       "developer-tools"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "CSS",
+    "stars": 64517,
+    "dateAdded": "2023-03-15",
+    "forks": 3956,
+    "avatar": "https://avatars.githubusercontent.com/u/8083459?v=4",
+    "author": "ryanoasis"
   },
   {
     "slug": "legacygwent",
@@ -1971,9 +2346,12 @@
       "game",
       "gwent"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "C#",
+    "stars": 187,
+    "dateAdded": "2023-03-15",
+    "forks": 38,
+    "avatar": "https://avatars.githubusercontent.com/u/51793987?v=4",
+    "author": "LegacyGwent"
   },
   {
     "slug": "pairdrop",
@@ -1986,8 +2364,11 @@
       "networking"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 11311,
+    "dateAdded": "2023-03-15",
+    "forks": 685,
+    "avatar": "https://avatars.githubusercontent.com/u/52242352?v=4",
+    "author": "schlagmichdoch"
   },
   {
     "slug": "snapdrop",
@@ -2000,8 +2381,11 @@
       "web"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 19702,
+    "dateAdded": "2023-03-15",
+    "forks": 1865,
+    "avatar": "https://avatars.githubusercontent.com/u/88061056?v=4",
+    "author": "SnapDrop"
   },
   {
     "slug": "private-trackers-spreadsheet",
@@ -2013,9 +2397,12 @@
       "torrent",
       "spreadsheet"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "HTML",
+    "stars": 495,
+    "dateAdded": "2023-03-15",
+    "forks": 106,
+    "avatar": "https://avatars.githubusercontent.com/u/12850699?v=4",
+    "author": "HDVinnie"
   },
   {
     "slug": "anyme",
@@ -2028,8 +2415,11 @@
       "anime"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 1149,
+    "dateAdded": "2023-03-15",
+    "forks": 63,
+    "avatar": "https://avatars.githubusercontent.com/u/9930542?v=4",
+    "author": "zunjae"
   },
   {
     "slug": "mimikatz",
@@ -2043,8 +2433,11 @@
       "pentest"
     ],
     "language": "C",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 21816,
+    "dateAdded": "2023-03-15",
+    "forks": 4160,
+    "avatar": "https://avatars.githubusercontent.com/u/2307945?v=4",
+    "author": "gentilkiwi"
   },
   {
     "slug": "adnauseam",
@@ -2058,8 +2451,11 @@
       "ad-blocking"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 6729,
+    "dateAdded": "2023-03-15",
+    "forks": 248,
+    "avatar": "https://avatars.githubusercontent.com/u/737638?v=4",
+    "author": "dhowe"
   },
   {
     "slug": "illustrator-scripts-alex",
@@ -2073,8 +2469,11 @@
       "design"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 1493,
+    "dateAdded": "2023-03-15",
+    "forks": 373,
+    "avatar": "https://avatars.githubusercontent.com/u/29593338?v=4",
+    "author": "alexander-ladygin"
   },
   {
     "slug": "illustrator-scripts-creold",
@@ -2088,8 +2487,11 @@
       "design"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 1104,
+    "dateAdded": "2023-03-15",
+    "forks": 160,
+    "avatar": "https://avatars.githubusercontent.com/u/32217031?v=4",
+    "author": "creold"
   },
   {
     "slug": "js4ai",
@@ -2103,8 +2505,11 @@
       "design"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 583,
+    "dateAdded": "2023-03-15",
+    "forks": 180,
+    "avatar": "https://avatars.githubusercontent.com/u/1103112?v=4",
+    "author": "johnwun"
   },
   {
     "slug": "photoshop-scripts-creold",
@@ -2118,8 +2523,11 @@
       "design"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 144,
+    "dateAdded": "2023-03-15",
+    "forks": 15,
+    "avatar": "https://avatars.githubusercontent.com/u/32217031?v=4",
+    "author": "creold"
   },
   {
     "slug": "steamautocracker",
@@ -2132,9 +2540,12 @@
       "drm",
       "gaming"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "Python",
+    "stars": 1662,
+    "dateAdded": "2023-03-15",
+    "forks": 115,
+    "avatar": "https://avatars.githubusercontent.com/u/101492671?v=4",
+    "author": "BigBoiCJ"
   },
   {
     "slug": "vcredist",
@@ -2146,9 +2557,12 @@
       "windows",
       "runtime"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "VBScript",
+    "stars": 8088,
+    "dateAdded": "2023-03-15",
+    "forks": 430,
+    "avatar": "https://avatars.githubusercontent.com/u/33669284?v=4",
+    "author": "abbodi1406"
   },
   {
     "slug": "generateme",
@@ -2160,9 +2574,12 @@
       "generative-art",
       "processing"
     ],
-    "language": "Java",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "Processing",
+    "stars": 1026,
+    "dateAdded": "2023-03-15",
+    "forks": 226,
+    "avatar": "https://avatars.githubusercontent.com/u/1256957?v=4",
+    "author": "tsulej"
   },
   {
     "slug": "node-chatgpt-api",
@@ -2176,8 +2593,11 @@
       "api"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 4151,
+    "dateAdded": "2023-03-15",
+    "forks": 715,
+    "avatar": "https://avatars.githubusercontent.com/u/2882110?v=4",
+    "author": "waylaidwanderer"
   },
   {
     "slug": "deep-blueberry",
@@ -2190,8 +2610,11 @@
       "education"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 25,
+    "dateAdded": "2023-03-15",
+    "forks": 6,
+    "avatar": "https://avatars.githubusercontent.com/u/1670421?v=4",
+    "author": "mithi"
   },
   {
     "slug": "styleclip",
@@ -2203,9 +2626,12 @@
       "ai",
       "text-to-image"
     ],
-    "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "HTML",
+    "stars": 4119,
+    "dateAdded": "2023-03-15",
+    "forks": 565,
+    "avatar": "https://avatars.githubusercontent.com/u/24733041?v=4",
+    "author": "orpatashnik"
   },
   {
     "slug": "controlnet",
@@ -2218,8 +2644,11 @@
       "stable-diffusion"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 34110,
+    "dateAdded": "2023-03-15",
+    "forks": 3016,
+    "avatar": "https://avatars.githubusercontent.com/u/19834515?v=4",
+    "author": "lllyasviel"
   },
   {
     "slug": "sd-civitai-extension",
@@ -2233,8 +2662,11 @@
       "civitai"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 2357,
+    "dateAdded": "2023-03-15",
+    "forks": 440,
+    "avatar": "https://avatars.githubusercontent.com/u/117393426?v=4",
+    "author": "civitai"
   },
   {
     "slug": "sd-webui-controlnet",
@@ -2248,8 +2680,11 @@
       "webui"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 17841,
+    "dateAdded": "2023-03-15",
+    "forks": 2009,
+    "avatar": "https://avatars.githubusercontent.com/u/31246794?v=4",
+    "author": "Mikubill"
   },
   {
     "slug": "llama-dl",
@@ -2263,8 +2698,11 @@
       "downloader"
     ],
     "language": "Shell",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 4113,
+    "dateAdded": "2023-03-15",
+    "forks": 393,
+    "avatar": "https://avatars.githubusercontent.com/u/59632?v=4",
+    "author": "shawwn"
   },
   {
     "slug": "coding-interview-university",
@@ -2278,8 +2716,11 @@
       "curated-list"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 360368,
+    "dateAdded": "2023-03-15",
+    "forks": 84800,
+    "avatar": "https://avatars.githubusercontent.com/u/3771963?v=4",
+    "author": "jwasham"
   },
   {
     "slug": "dreambooth-stable-diffusion-tweaked",
@@ -2292,9 +2733,12 @@
       "stable-diffusion",
       "dreambooth"
     ],
-    "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "Jupyter Notebook",
+    "stars": 84,
+    "dateAdded": "2023-03-15",
+    "forks": 12,
+    "avatar": "https://avatars.githubusercontent.com/u/138986?v=4",
+    "author": "cantrell"
   },
   {
     "slug": "lora",
@@ -2307,9 +2751,12 @@
       "machine-learning",
       "lora"
     ],
-    "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "Jupyter Notebook",
+    "stars": 7554,
+    "dateAdded": "2023-03-15",
+    "forks": 495,
+    "avatar": "https://avatars.githubusercontent.com/u/35953539?v=4",
+    "author": "cloneofsimo"
   },
   {
     "slug": "auto-photoshop-stablediffusion-plugin",
@@ -2322,9 +2769,12 @@
       "photoshop",
       "stable-diffusion"
     ],
-    "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "TypeScript",
+    "stars": 7299,
+    "dateAdded": "2023-03-15",
+    "forks": 527,
+    "avatar": "https://avatars.githubusercontent.com/u/7842232?v=4",
+    "author": "AbdullahAlfaraj"
   },
   {
     "slug": "deepfacelab",
@@ -2338,8 +2788,11 @@
       "video"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 19286,
+    "dateAdded": "2023-03-15",
+    "forks": 936,
+    "avatar": "https://avatars.githubusercontent.com/u/8076202?v=4",
+    "author": "iperov"
   },
   {
     "slug": "stable-diffusion-ui",
@@ -2353,8 +2806,11 @@
       "webui"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 10461,
+    "dateAdded": "2023-03-15",
+    "forks": 862,
+    "avatar": "https://avatars.githubusercontent.com/u/118806966?v=4",
+    "author": "easydiffusion"
   },
   {
     "slug": "stable-diffusion-klms-gui",
@@ -2367,9 +2823,12 @@
       "stable-diffusion",
       "docker"
     ],
-    "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "Jupyter Notebook",
+    "stars": 673,
+    "dateAdded": "2023-03-15",
+    "forks": 81,
+    "avatar": "https://avatars.githubusercontent.com/u/39721523?v=4",
+    "author": "mallorbc"
   },
   {
     "slug": "big-sleep",
@@ -2383,8 +2842,11 @@
       "cli"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 2573,
+    "dateAdded": "2023-03-15",
+    "forks": 301,
+    "avatar": "https://avatars.githubusercontent.com/u/108653?v=4",
+    "author": "lucidrains"
   },
   {
     "slug": "dreambooth-stable-diffusion",
@@ -2397,9 +2859,12 @@
       "stable-diffusion",
       "fine-tuning"
     ],
-    "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "Jupyter Notebook",
+    "stars": 3212,
+    "dateAdded": "2023-03-15",
+    "forks": 525,
+    "avatar": "https://avatars.githubusercontent.com/u/100188076?v=4",
+    "author": "JoePenna"
   },
   {
     "slug": "tortoise-tts",
@@ -2411,9 +2876,12 @@
       "ai",
       "text-to-speech"
     ],
-    "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "Jupyter Notebook",
+    "stars": 14873,
+    "dateAdded": "2023-03-15",
+    "forks": 2039,
+    "avatar": "https://avatars.githubusercontent.com/u/833082?v=4",
+    "author": "neonbjb"
   },
   {
     "slug": "real-time-voice-cloning",
@@ -2426,8 +2894,11 @@
       "voice-cloning"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 60124,
+    "dateAdded": "2023-03-15",
+    "forks": 9389,
+    "avatar": "https://avatars.githubusercontent.com/u/12038136?v=4",
+    "author": "CorentinJ"
   },
   {
     "slug": "faceswap",
@@ -2441,8 +2912,11 @@
       "video"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 57522,
+    "dateAdded": "2023-03-15",
+    "forks": 13481,
+    "avatar": "https://avatars.githubusercontent.com/u/34667098?v=4",
+    "author": "deepfakes"
   },
   {
     "slug": "deepvoice3-pytorch",
@@ -2456,8 +2930,11 @@
       "pytorch"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 1975,
+    "dateAdded": "2023-03-15",
+    "forks": 481,
+    "avatar": "https://avatars.githubusercontent.com/u/1220272?v=4",
+    "author": "r9y9"
   },
   {
     "slug": "midjourney-styles-and-keywords-reference",
@@ -2471,8 +2948,11 @@
       "reference"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 12292,
+    "dateAdded": "2023-03-15",
+    "forks": 1613,
+    "avatar": "https://avatars.githubusercontent.com/u/6042799?v=4",
+    "author": "willwulfken"
   },
   {
     "slug": "fastchat",
@@ -2486,8 +2966,11 @@
       "chatbot"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 39523,
+    "dateAdded": "2023-03-15",
+    "forks": 4777,
+    "avatar": "https://avatars.githubusercontent.com/u/126381704?v=4",
+    "author": "lm-sys"
   },
   {
     "slug": "gpt4free",
@@ -2501,8 +2984,11 @@
       "llm"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 66639,
+    "dateAdded": "2023-03-15",
+    "forks": 13508,
+    "avatar": "https://avatars.githubusercontent.com/u/98614666?v=4",
+    "author": "xtekky"
   },
   {
     "slug": "gpt-author",
@@ -2515,9 +3001,12 @@
       "gpt-4",
       "writing"
     ],
-    "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "language": "Jupyter Notebook",
+    "stars": 2531,
+    "dateAdded": "2023-03-15",
+    "forks": 349,
+    "avatar": "https://avatars.githubusercontent.com/u/41550495?v=4",
+    "author": "mshumer"
   },
   {
     "slug": "animateanyone",
@@ -2531,8 +3020,11 @@
       "animation"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 14785,
+    "dateAdded": "2023-03-15",
+    "forks": 1004,
+    "avatar": "https://avatars.githubusercontent.com/u/151895533?v=4",
+    "author": "HumanAIGC"
   },
   {
     "slug": "localgpt",
@@ -2546,8 +3038,11 @@
       "privacy"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 22204,
+    "dateAdded": "2023-03-15",
+    "forks": 2461,
+    "avatar": "https://avatars.githubusercontent.com/u/134474669?v=4",
+    "author": "PromtEngineer"
   },
   {
     "slug": "auto-code-rover",
@@ -2561,8 +3056,11 @@
       "software-engineering"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 3100,
+    "dateAdded": "2023-03-15",
+    "forks": 332,
+    "avatar": "https://avatars.githubusercontent.com/u/171129773?v=4",
+    "author": "AutoCodeRoverSG"
   },
   {
     "slug": "alphacodium",
@@ -2575,8 +3073,11 @@
       "code-generation"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 3963,
+    "dateAdded": "2023-03-15",
+    "forks": 299,
+    "avatar": "https://avatars.githubusercontent.com/u/108689340?v=4",
+    "author": "Codium-ai"
   },
   {
     "slug": "iopaint",
@@ -2590,8 +3091,11 @@
       "inpainting"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 23342,
+    "dateAdded": "2023-03-15",
+    "forks": 2523,
+    "avatar": "https://avatars.githubusercontent.com/u/3998421?v=4",
+    "author": "Sanster"
   },
   {
     "slug": "open-animateanyone",
@@ -2605,8 +3109,11 @@
       "animation"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 2921,
+    "dateAdded": "2023-03-15",
+    "forks": 238,
+    "avatar": "https://avatars.githubusercontent.com/u/55274489?v=4",
+    "author": "guoqincode"
   },
   {
     "slug": "promptoftheyear",
@@ -2620,8 +3127,11 @@
       "curated-list"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2023-03-15"
+    "stars": 1485,
+    "dateAdded": "2023-03-15",
+    "forks": 75,
+    "avatar": "https://avatars.githubusercontent.com/u/153582687?v=4",
+    "author": "successfulstudy"
   },
   {
     "slug": "map-of-github",
@@ -2634,8 +3144,11 @@
       "visualization"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-10-01"
+    "stars": 2871,
+    "dateAdded": "2023-10-01",
+    "forks": 85,
+    "avatar": "https://avatars.githubusercontent.com/u/225407?v=4",
+    "author": "anvaka"
   },
   {
     "slug": "captura",
@@ -2648,8 +3161,11 @@
       "windows"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2023-10-01"
+    "stars": 10819,
+    "dateAdded": "2023-10-01",
+    "forks": 1975,
+    "avatar": "https://avatars.githubusercontent.com/u/10654537?v=4",
+    "author": "MathewSachin"
   },
   {
     "slug": "sdmaid-se",
@@ -2662,8 +3178,11 @@
       "cache-cleaner"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2023-10-01"
+    "stars": 7453,
+    "dateAdded": "2023-10-01",
+    "forks": 818,
+    "avatar": "https://avatars.githubusercontent.com/u/109539113?v=4",
+    "author": "d4rken-org"
   },
   {
     "slug": "xmanager",
@@ -2676,9 +3195,12 @@
       "spotify",
       "mod"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-10-01"
+    "language": "Java",
+    "stars": 12167,
+    "dateAdded": "2023-10-01",
+    "forks": 329,
+    "avatar": "https://avatars.githubusercontent.com/u/78732598?v=4",
+    "author": "Team-xManager"
   },
   {
     "slug": "engine",
@@ -2690,9 +3212,12 @@
       "gaming",
       "controller"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-10-01"
+    "language": "Kotlin",
+    "stars": 109,
+    "dateAdded": "2023-10-01",
+    "forks": 1,
+    "avatar": "https://avatars.githubusercontent.com/u/31311826?v=4",
+    "author": "totoneei"
   },
   {
     "slug": "nanazip",
@@ -2705,8 +3230,11 @@
       "archiver"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2023-09-01"
+    "stars": 15432,
+    "dateAdded": "2023-09-01",
+    "forks": 399,
+    "avatar": "https://avatars.githubusercontent.com/u/19967653?v=4",
+    "author": "M2Team"
   },
   {
     "slug": "win10script",
@@ -2719,8 +3247,11 @@
       "debloat"
     ],
     "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2023-07-20"
+    "stars": 3487,
+    "dateAdded": "2023-07-20",
+    "forks": 998,
+    "avatar": "https://avatars.githubusercontent.com/u/7896101?v=4",
+    "author": "ChrisTitusTech"
   },
   {
     "slug": "digitalwellbeingforwindows",
@@ -2732,9 +3263,12 @@
       "windows",
       "digital-wellbeing"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-07-20"
+    "language": "C#",
+    "stars": 192,
+    "dateAdded": "2023-07-20",
+    "forks": 15,
+    "avatar": "https://avatars.githubusercontent.com/u/57316283?v=4",
+    "author": "christiankyle-ching"
   },
   {
     "slug": "youtube-music",
@@ -2747,9 +3281,12 @@
       "ad-blocking",
       "desktop"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-08-04"
+    "language": "TypeScript",
+    "stars": 33369,
+    "dateAdded": "2023-08-04",
+    "forks": 1973,
+    "avatar": "https://avatars.githubusercontent.com/u/232770603?v=4",
+    "author": "pear-devs"
   },
   {
     "slug": "kms-vl-all-aio",
@@ -2777,8 +3314,11 @@
       "launcher"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2023-09-22"
+    "stars": 928,
+    "dateAdded": "2023-09-22",
+    "forks": 41,
+    "avatar": "https://avatars.githubusercontent.com/u/152214760?v=4",
+    "author": "RareDevs"
   },
   {
     "slug": "idm-activation-script",
@@ -2791,9 +3331,12 @@
       "activation",
       "windows"
     ],
-    "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2023-09-22"
+    "language": "Batchfile",
+    "stars": 7691,
+    "dateAdded": "2023-09-22",
+    "forks": 952,
+    "avatar": "https://avatars.githubusercontent.com/u/40813939?v=4",
+    "author": "WindowsAddict"
   },
   {
     "slug": "droid-ify",
@@ -2807,8 +3350,11 @@
       "app-store"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2023-09-22"
+    "stars": 7365,
+    "dateAdded": "2023-09-22",
+    "forks": 212,
+    "avatar": "https://avatars.githubusercontent.com/u/123971387?v=4",
+    "author": "Droid-ify"
   },
   {
     "slug": "shizuku",
@@ -2820,9 +3366,12 @@
       "android",
       "system-tools"
     ],
-    "language": "Java",
-    "stars": null,
-    "dateAdded": "2023-09-22"
+    "language": "Kotlin",
+    "stars": 29754,
+    "dateAdded": "2023-09-22",
+    "forks": 3004,
+    "avatar": "https://avatars.githubusercontent.com/u/31959043?v=4",
+    "author": "RikkaApps"
   },
   {
     "slug": "libretube",
@@ -2836,8 +3385,11 @@
       "privacy"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2023-09-30"
+    "stars": 12603,
+    "dateAdded": "2023-09-30",
+    "forks": 656,
+    "avatar": "https://avatars.githubusercontent.com/u/96022078?v=4",
+    "author": "libre-tube"
   },
   {
     "slug": "betterdiscord",
@@ -2850,9 +3402,12 @@
       "mod",
       "desktop"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-09-30"
+    "language": "TypeScript",
+    "stars": 9219,
+    "dateAdded": "2023-09-30",
+    "forks": 1027,
+    "avatar": "https://avatars.githubusercontent.com/u/72631062?v=4",
+    "author": "BetterDiscord"
   },
   {
     "slug": "mediacreationtool-bat",
@@ -2865,8 +3420,11 @@
       "installer"
     ],
     "language": "Batchfile",
-    "stars": null,
-    "dateAdded": "2023-09-30"
+    "stars": 10283,
+    "dateAdded": "2023-09-30",
+    "forks": 3136,
+    "avatar": "https://avatars.githubusercontent.com/u/12874843?v=4",
+    "author": "AveYo"
   },
   {
     "slug": "elevenclock",
@@ -2878,9 +3436,12 @@
       "windows",
       "taskbar"
     ],
-    "language": "C#",
-    "stars": null,
-    "dateAdded": "2023-09-30"
+    "language": "Python",
+    "stars": 2549,
+    "dateAdded": "2023-09-30",
+    "forks": 186,
+    "avatar": "https://avatars.githubusercontent.com/u/53119851?v=4",
+    "author": "marticliment"
   },
   {
     "slug": "taskbarxi",
@@ -2893,9 +3454,12 @@
       "taskbar",
       "dock"
     ],
-    "language": "C#",
-    "stars": null,
-    "dateAdded": "2023-09-30"
+    "language": "C++",
+    "stars": 1593,
+    "dateAdded": "2023-09-30",
+    "forks": 162,
+    "avatar": "https://avatars.githubusercontent.com/u/50437199?v=4",
+    "author": "ChrisAnd1998"
   },
   {
     "slug": "protecc",
@@ -2909,8 +3473,11 @@
       "authenticator"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2023-09-30"
+    "stars": 391,
+    "dateAdded": "2023-09-30",
+    "forks": 42,
+    "avatar": "https://avatars.githubusercontent.com/u/40955345?v=4",
+    "author": "FireCubeStudios"
   },
   {
     "slug": "translucenttb",
@@ -2924,8 +3491,11 @@
       "customization"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2023-09-30"
+    "stars": 20262,
+    "dateAdded": "2023-09-30",
+    "forks": 1251,
+    "avatar": "https://avatars.githubusercontent.com/u/25557326?v=4",
+    "author": "TranslucentTB"
   },
   {
     "slug": "caprine",
@@ -2937,9 +3507,12 @@
       "messenger",
       "desktop"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2023-09-30"
+    "language": "TypeScript",
+    "stars": 7388,
+    "dateAdded": "2023-09-30",
+    "forks": 616,
+    "avatar": "https://avatars.githubusercontent.com/u/170270?v=4",
+    "author": "sindresorhus"
   },
   {
     "slug": "dopamine",
@@ -2952,8 +3525,11 @@
       "desktop"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2023-10-26"
+    "stars": 2339,
+    "dateAdded": "2023-10-26",
+    "forks": 152,
+    "avatar": "https://avatars.githubusercontent.com/u/11945339?v=4",
+    "author": "digimezzo"
   },
   {
     "slug": "thorium",
@@ -2966,8 +3542,11 @@
       "chromium"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2024-05-30"
+    "stars": 7484,
+    "dateAdded": "2024-05-30",
+    "forks": 283,
+    "avatar": "https://avatars.githubusercontent.com/u/45863095?v=4",
+    "author": "Alex313031"
   },
   {
     "slug": "mercury-browser",
@@ -2979,9 +3558,12 @@
       "browser",
       "firefox"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2023-11-11"
+    "language": "JavaScript",
+    "stars": 1542,
+    "dateAdded": "2023-11-11",
+    "forks": 42,
+    "avatar": "https://avatars.githubusercontent.com/u/45863095?v=4",
+    "author": "Alex313031"
   },
   {
     "slug": "ic-template",
@@ -2994,8 +3576,11 @@
       "logic-gates"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2024-09-05"
+    "stars": 16,
+    "dateAdded": "2024-09-05",
+    "forks": 1,
+    "avatar": "https://avatars.githubusercontent.com/u/85196971?v=4",
+    "author": "shawonsaha15"
   },
   {
     "slug": "wsabuilds",
@@ -3008,9 +3593,12 @@
       "windows",
       "wsa"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2024-09-05"
+    "language": "Python",
+    "stars": 18314,
+    "dateAdded": "2024-09-05",
+    "forks": 2445,
+    "avatar": "https://avatars.githubusercontent.com/u/68516357?v=4",
+    "author": "MustardChef"
   },
   {
     "slug": "colemakcamp-github-io",
@@ -3022,9 +3610,12 @@
       "keyboard-layout",
       "education"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2024-09-05"
+    "language": "JavaScript",
+    "stars": 18,
+    "dateAdded": "2024-09-05",
+    "forks": 7,
+    "avatar": "https://avatars.githubusercontent.com/u/149968498?v=4",
+    "author": "ColemakCamp"
   },
   {
     "slug": "colemakclub",
@@ -3036,9 +3627,12 @@
       "keyboard-layout",
       "education"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2024-09-05"
+    "language": "JavaScript",
+    "stars": 177,
+    "dateAdded": "2024-09-05",
+    "forks": 60,
+    "avatar": "https://avatars.githubusercontent.com/u/7277686?v=4",
+    "author": "gnusenpai"
   },
   {
     "slug": "kotatsu",
@@ -3052,8 +3646,11 @@
       "reader"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-02-05"
+    "stars": 8839,
+    "dateAdded": "2024-02-05",
+    "forks": 905,
+    "avatar": "https://avatars.githubusercontent.com/u/107866656?v=4",
+    "author": "KotatsuApp"
   },
   {
     "slug": "winmemorycleaner",
@@ -3067,8 +3664,11 @@
       "utility"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2024-02-05"
+    "stars": 4996,
+    "dateAdded": "2024-02-05",
+    "forks": 305,
+    "avatar": "https://avatars.githubusercontent.com/u/3512138?v=4",
+    "author": "IgorMundstein"
   },
   {
     "slug": "ani-cli",
@@ -3082,8 +3682,11 @@
       "streaming"
     ],
     "language": "Shell",
-    "stars": null,
-    "dateAdded": "2024-03-21"
+    "stars": 13716,
+    "dateAdded": "2024-03-21",
+    "forks": 874,
+    "avatar": "https://avatars.githubusercontent.com/u/79201151?v=4",
+    "author": "pystardust"
   },
   {
     "slug": "mov-cli",
@@ -3097,8 +3700,11 @@
       "streaming"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2024-03-21"
+    "stars": 1298,
+    "dateAdded": "2024-03-21",
+    "forks": 66,
+    "avatar": "https://avatars.githubusercontent.com/u/101891621?v=4",
+    "author": "mov-cli"
   },
   {
     "slug": "android-appcachecleaner",
@@ -3111,8 +3717,11 @@
       "cache-cleaner"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-04-05"
+    "stars": 541,
+    "dateAdded": "2024-04-05",
+    "forks": 42,
+    "avatar": "https://avatars.githubusercontent.com/u/2761506?v=4",
+    "author": "bmx666"
   },
   {
     "slug": "copyfoldertool",
@@ -3125,8 +3734,11 @@
       "file-copy"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2024-04-06"
+    "stars": 37,
+    "dateAdded": "2024-04-06",
+    "forks": 4,
+    "avatar": "https://avatars.githubusercontent.com/u/22855132?v=4",
+    "author": "biteworks"
   },
   {
     "slug": "keepassdx",
@@ -3139,8 +3751,11 @@
       "password-manager"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-04-06"
+    "stars": 7234,
+    "dateAdded": "2024-04-06",
+    "forks": 403,
+    "avatar": "https://avatars.githubusercontent.com/u/22522604?v=4",
+    "author": "Kunzisoft"
   },
   {
     "slug": "audiogpt",
@@ -3154,8 +3769,11 @@
       "speech"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2024-04-06"
+    "stars": 10166,
+    "dateAdded": "2024-04-06",
+    "forks": 851,
+    "avatar": "https://avatars.githubusercontent.com/u/128504843?v=4",
+    "author": "AIGC-Audio"
   },
   {
     "slug": "tron",
@@ -3169,8 +3787,11 @@
       "repair"
     ],
     "language": "Batchfile",
-    "stars": null,
-    "dateAdded": "2024-04-28"
+    "stars": 6546,
+    "dateAdded": "2024-04-28",
+    "forks": 416,
+    "avatar": "https://avatars.githubusercontent.com/u/8095340?v=4",
+    "author": "bmrf"
   },
   {
     "slug": "slsk-batchdl",
@@ -3184,8 +3805,11 @@
       "soulseek"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2024-05-16"
+    "stars": 1071,
+    "dateAdded": "2024-05-16",
+    "forks": 66,
+    "avatar": "https://avatars.githubusercontent.com/u/64778819?v=4",
+    "author": "fiso64"
   },
   {
     "slug": "appmanager",
@@ -3199,8 +3823,11 @@
       "security"
     ],
     "language": "Java",
-    "stars": null,
-    "dateAdded": "2024-05-16"
+    "stars": 8890,
+    "dateAdded": "2024-05-16",
+    "forks": 515,
+    "avatar": "https://avatars.githubusercontent.com/u/8176128?v=4",
+    "author": "MuntashirAkon"
   },
   {
     "slug": "lsposed-mod",
@@ -3213,9 +3840,12 @@
       "xposed",
       "root"
     ],
-    "language": "C++",
-    "stars": null,
-    "dateAdded": "2024-05-13"
+    "language": "Java",
+    "stars": 4318,
+    "dateAdded": "2024-05-13",
+    "forks": 267,
+    "avatar": "https://avatars.githubusercontent.com/u/66966897?v=4",
+    "author": "mywalkb"
   },
   {
     "slug": "telegram-animated-emojis",
@@ -3227,9 +3857,12 @@
       "emoji",
       "telegram"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2024-05-24"
+    "language": "TypeScript",
+    "stars": 287,
+    "dateAdded": "2024-05-24",
+    "forks": 57,
+    "avatar": "https://avatars.githubusercontent.com/u/29859619?v=4",
+    "author": "Tarikul-Islam-Anik"
   },
   {
     "slug": "pyrobox",
@@ -3243,8 +3876,11 @@
       "self-hosted"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2024-06-05"
+    "stars": 53,
+    "dateAdded": "2024-06-05",
+    "forks": 9,
+    "avatar": "https://avatars.githubusercontent.com/u/34002411?v=4",
+    "author": "RaSan147"
   },
   {
     "slug": "universal-android-debloater-next-generation",
@@ -3257,8 +3893,11 @@
       "debloat"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2024-06-05"
+    "stars": 9045,
+    "dateAdded": "2024-06-05",
+    "forks": 385,
+    "avatar": "https://avatars.githubusercontent.com/u/149629021?v=4",
+    "author": "Universal-Debloater-Alliance"
   },
   {
     "slug": "rimusic",
@@ -3271,8 +3910,11 @@
       "music-player"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-06-06"
+    "stars": 3901,
+    "dateAdded": "2024-06-06",
+    "forks": 277,
+    "avatar": "https://avatars.githubusercontent.com/u/1484476?v=4",
+    "author": "fast4x"
   },
   {
     "slug": "wsa-windows-10",
@@ -3285,9 +3927,12 @@
       "windows",
       "wsa"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2024-06-06"
+    "language": "HTML",
+    "stars": 240,
+    "dateAdded": "2024-06-06",
+    "forks": 18,
+    "avatar": "https://avatars.githubusercontent.com/u/67085206?v=4",
+    "author": "JimDude7404"
   },
   {
     "slug": "design-resources-for-developers",
@@ -3301,8 +3946,11 @@
       "resources"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2024-06-09"
+    "stars": 66833,
+    "dateAdded": "2024-06-09",
+    "forks": 12171,
+    "avatar": "https://avatars.githubusercontent.com/u/5550850?v=4",
+    "author": "bradtraversy"
   },
   {
     "slug": "rectify11-installer",
@@ -3314,9 +3962,12 @@
       "windows",
       "customization"
     ],
-    "language": "C#",
-    "stars": null,
-    "dateAdded": "2024-06-12"
+    "language": "JavaScript",
+    "stars": 3486,
+    "dateAdded": "2024-06-12",
+    "forks": 215,
+    "avatar": "https://avatars.githubusercontent.com/u/131543110?v=4",
+    "author": "Rectify11"
   },
   {
     "slug": "animdl",
@@ -3330,8 +3981,11 @@
       "downloader"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2024-06-12"
+    "stars": 1522,
+    "dateAdded": "2024-06-12",
+    "forks": 113,
+    "avatar": "https://avatars.githubusercontent.com/u/79979949?v=4",
+    "author": "justfoolingaround"
   },
   {
     "slug": "dra-cla",
@@ -3360,8 +4014,11 @@
       "open-source"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2024-06-21"
+    "stars": 4386,
+    "dateAdded": "2024-06-21",
+    "forks": 413,
+    "avatar": "https://avatars.githubusercontent.com/u/1051772?v=4",
+    "author": "CalcProgrammer1"
   },
   {
     "slug": "nextdnsmanager",
@@ -3374,9 +4031,12 @@
       "dns",
       "privacy"
     ],
-    "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-06-30"
+    "language": "Java",
+    "stars": 672,
+    "dateAdded": "2024-06-30",
+    "forks": 43,
+    "avatar": "https://avatars.githubusercontent.com/u/9072542?v=4",
+    "author": "doubleangels"
   },
   {
     "slug": "wifilist",
@@ -3389,8 +4049,11 @@
       "wifi"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-06-30"
+    "stars": 176,
+    "dateAdded": "2024-06-30",
+    "forks": 7,
+    "avatar": "https://avatars.githubusercontent.com/u/3268576?v=4",
+    "author": "jaredcat"
   },
   {
     "slug": "dnschanger-desktop",
@@ -3403,9 +4066,12 @@
       "privacy",
       "desktop"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2024-06-30"
+    "language": "TypeScript",
+    "stars": 1275,
+    "dateAdded": "2024-06-30",
+    "forks": 107,
+    "avatar": "https://avatars.githubusercontent.com/u/126006054?v=4",
+    "author": "DnsChanger"
   },
   {
     "slug": "dantotsu",
@@ -3434,8 +4100,11 @@
       "python"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2024-06-30"
+    "stars": 122,
+    "dateAdded": "2024-06-30",
+    "forks": 7,
+    "avatar": "https://avatars.githubusercontent.com/u/24675403?v=4",
+    "author": "noembryo"
   },
   {
     "slug": "winfetch-lptstr",
@@ -3449,8 +4118,11 @@
       "system-info"
     ],
     "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2024-06-30"
+    "stars": 1792,
+    "dateAdded": "2024-06-30",
+    "forks": 92,
+    "avatar": "https://avatars.githubusercontent.com/u/46721106?v=4",
+    "author": "lptstr"
   },
   {
     "slug": "winfetch-m4cs",
@@ -3463,9 +4135,12 @@
       "windows",
       "system-info"
     ],
-    "language": "Rust",
-    "stars": null,
-    "dateAdded": "2024-06-30"
+    "language": "Go",
+    "stars": 152,
+    "dateAdded": "2024-06-30",
+    "forks": 9,
+    "avatar": "https://avatars.githubusercontent.com/u/34947910?v=4",
+    "author": "M4cs"
   },
   {
     "slug": "canta",
@@ -3478,8 +4153,11 @@
       "uninstaller"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-08-25"
+    "stars": 5771,
+    "dateAdded": "2024-08-25",
+    "forks": 136,
+    "avatar": "https://avatars.githubusercontent.com/u/34912839?v=4",
+    "author": "samolego"
   },
   {
     "slug": "namida",
@@ -3493,8 +4171,11 @@
       "android"
     ],
     "language": "Dart",
-    "stars": null,
-    "dateAdded": "2024-09-01"
+    "stars": 6340,
+    "dateAdded": "2024-09-01",
+    "forks": 344,
+    "avatar": "https://avatars.githubusercontent.com/u/125698776?v=4",
+    "author": "namidaco"
   },
   {
     "slug": "malwarebytes-premium-bypass",
@@ -3522,8 +4203,11 @@
       "wireguard"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-07-30"
+    "stars": 3106,
+    "dateAdded": "2024-07-30",
+    "forks": 184,
+    "avatar": "https://avatars.githubusercontent.com/u/207392975?v=4",
+    "author": "wgtunnel"
   },
   {
     "slug": "notification-listener-android",
@@ -3536,8 +4220,11 @@
       "notifications"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-08-01"
+    "stars": 218,
+    "dateAdded": "2024-08-01",
+    "forks": 12,
+    "avatar": "https://avatars.githubusercontent.com/u/102170101?v=4",
+    "author": "Alfio010"
   },
   {
     "slug": "ab-download-manager",
@@ -3550,8 +4237,11 @@
       "cross-platform"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-08-01"
+    "stars": 17689,
+    "dateAdded": "2024-08-01",
+    "forks": 909,
+    "avatar": "https://avatars.githubusercontent.com/u/38394888?v=4",
+    "author": "amir1376"
   },
   {
     "slug": "shinkro",
@@ -3565,8 +4255,11 @@
       "sync"
     ],
     "language": "Go",
-    "stars": null,
-    "dateAdded": "2024-08-25"
+    "stars": 79,
+    "dateAdded": "2024-08-25",
+    "forks": 4,
+    "avatar": "https://avatars.githubusercontent.com/u/131490595?v=4",
+    "author": "shinkro"
   },
   {
     "slug": "manga-tui",
@@ -3580,8 +4273,11 @@
       "tui"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2024-08-25"
+    "stars": 929,
+    "dateAdded": "2024-08-25",
+    "forks": 32,
+    "avatar": "https://avatars.githubusercontent.com/u/144196149?v=4",
+    "author": "josueBarretogit"
   },
   {
     "slug": "vscode-on-steroid",
@@ -3594,8 +4290,11 @@
       "dotfiles"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2024-08-25"
+    "stars": 5,
+    "dateAdded": "2024-08-25",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/138004078?v=4",
+    "author": "Evren-os"
   },
   {
     "slug": "awesome-emulators",
@@ -3608,8 +4307,11 @@
       "curated-list"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2024-08-25"
+    "stars": 672,
+    "dateAdded": "2024-08-25",
+    "forks": 42,
+    "avatar": "https://avatars.githubusercontent.com/u/3183676?v=4",
+    "author": "DerekTurtleRoe"
   },
   {
     "slug": "island",
@@ -3623,8 +4325,11 @@
       "sandbox"
     ],
     "language": "Java",
-    "stars": null,
-    "dateAdded": "2024-09-02"
+    "stars": 3901,
+    "dateAdded": "2024-09-02",
+    "forks": 288,
+    "avatar": "https://avatars.githubusercontent.com/u/181213?v=4",
+    "author": "oasisfeng"
   },
   {
     "slug": "dopamine-windows",
@@ -3637,8 +4342,11 @@
       "windows"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2024-09-02"
+    "stars": 2052,
+    "dateAdded": "2024-09-02",
+    "forks": 274,
+    "avatar": "https://avatars.githubusercontent.com/u/11945339?v=4",
+    "author": "digimezzo"
   },
   {
     "slug": "stargate",
@@ -3651,8 +4359,11 @@
       "daw"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2024-09-05"
+    "stars": 874,
+    "dateAdded": "2024-09-05",
+    "forks": 42,
+    "avatar": "https://avatars.githubusercontent.com/u/93949110?v=4",
+    "author": "stargatedaw"
   },
   {
     "slug": "ytmdl",
@@ -3665,8 +4376,11 @@
       "music-downloader"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2024-09-05"
+    "stars": 3528,
+    "dateAdded": "2024-09-05",
+    "forks": 178,
+    "avatar": "https://avatars.githubusercontent.com/u/33604454?v=4",
+    "author": "deepjyoti30"
   },
   {
     "slug": "google-sans-font",
@@ -3679,8 +4393,11 @@
       "typography"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2024-09-05"
+    "stars": 287,
+    "dateAdded": "2024-09-05",
+    "forks": 50,
+    "avatar": "https://avatars.githubusercontent.com/u/5791885?v=4",
+    "author": "hprobotic"
   },
   {
     "slug": "jitsi-meet",
@@ -3692,9 +4409,12 @@
       "video-conferencing",
       "self-hosted"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2024-09-05"
+    "language": "TypeScript",
+    "stars": 29869,
+    "dateAdded": "2024-09-05",
+    "forks": 8022,
+    "avatar": "https://avatars.githubusercontent.com/u/3671647?v=4",
+    "author": "jitsi"
   },
   {
     "slug": "winutil",
@@ -3707,8 +4427,11 @@
       "utility"
     ],
     "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2024-09-05"
+    "stars": 61904,
+    "dateAdded": "2024-09-05",
+    "forks": 3625,
+    "avatar": "https://avatars.githubusercontent.com/u/7896101?v=4",
+    "author": "ChrisTitusTech"
   },
   {
     "slug": "iptvnator",
@@ -3721,8 +4444,11 @@
       "electron"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2024-09-05"
+    "stars": 6992,
+    "dateAdded": "2024-09-05",
+    "forks": 901,
+    "avatar": "https://avatars.githubusercontent.com/u/1503032?v=4",
+    "author": "4gray"
   },
   {
     "slug": "bibata-cursor",
@@ -3734,9 +4460,12 @@
       "cursor",
       "theme"
     ],
-    "language": "Python",
-    "stars": null,
-    "dateAdded": "2024-09-10"
+    "language": "Shell",
+    "stars": 3997,
+    "dateAdded": "2024-09-10",
+    "forks": 134,
+    "avatar": "https://avatars.githubusercontent.com/u/24286590?v=4",
+    "author": "ful1e5"
   },
   {
     "slug": "openbangla-keyboard",
@@ -3750,8 +4479,11 @@
       "keyboard"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2024-09-13"
+    "stars": 613,
+    "dateAdded": "2024-09-13",
+    "forks": 87,
+    "avatar": "https://avatars.githubusercontent.com/u/15926951?v=4",
+    "author": "OpenBangla"
   },
   {
     "slug": "manga-downloader",
@@ -3764,9 +4496,12 @@
       "downloader",
       "java"
     ],
-    "language": "Java",
-    "stars": null,
-    "dateAdded": "2024-09-13"
+    "language": null,
+    "stars": 82,
+    "dateAdded": "2024-09-13",
+    "forks": 4,
+    "avatar": "https://avatars.githubusercontent.com/u/1155596?v=4",
+    "author": "RedSquirrel87"
   },
   {
     "slug": "free-games-claimer",
@@ -3779,8 +4514,11 @@
       "gaming"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2024-09-13"
+    "stars": 4205,
+    "dateAdded": "2024-09-13",
+    "forks": 283,
+    "avatar": "https://avatars.githubusercontent.com/u/493741?v=4",
+    "author": "vogler"
   },
   {
     "slug": "hdo-box",
@@ -3807,8 +4545,11 @@
       "browser-extension"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2024-09-14"
+    "stars": 1020,
+    "dateAdded": "2024-09-14",
+    "forks": 87,
+    "avatar": "https://avatars.githubusercontent.com/u/13716661?v=4",
+    "author": "Robbendebiene"
   },
   {
     "slug": "readyou",
@@ -3821,8 +4562,11 @@
       "rss-reader"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-09-14"
+    "stars": 7492,
+    "dateAdded": "2024-09-14",
+    "forks": 326,
+    "avatar": "https://avatars.githubusercontent.com/u/221981456?v=4",
+    "author": "ReadYouApp"
   },
   {
     "slug": "flashpoint-launcher",
@@ -3836,8 +4580,11 @@
       "archive"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2024-09-14"
+    "stars": 1262,
+    "dateAdded": "2024-09-14",
+    "forks": 70,
+    "avatar": "https://avatars.githubusercontent.com/u/43827920?v=4",
+    "author": "FlashpointProject"
   },
   {
     "slug": "sniffnet",
@@ -3850,8 +4597,11 @@
       "privacy"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2024-09-14"
+    "stars": 41027,
+    "dateAdded": "2024-09-14",
+    "forks": 1968,
+    "avatar": "https://avatars.githubusercontent.com/u/100347457?v=4",
+    "author": "GyulyVGC"
   },
   {
     "slug": "unattendedwinstall",
@@ -3865,8 +4615,11 @@
       "installer"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2024-09-14"
+    "stars": 5972,
+    "dateAdded": "2024-09-14",
+    "forks": 559,
+    "avatar": "https://avatars.githubusercontent.com/u/172593213?v=4",
+    "author": "memstechtips"
   },
   {
     "slug": "rootlessjamesdsp",
@@ -3879,9 +4632,12 @@
       "audio",
       "dsp"
     ],
-    "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2024-09-14"
+    "language": "C",
+    "stars": 1656,
+    "dateAdded": "2024-09-14",
+    "forks": 86,
+    "avatar": "https://avatars.githubusercontent.com/u/38386967?v=4",
+    "author": "timschneeb"
   },
   {
     "slug": "autoeq",
@@ -3894,8 +4650,11 @@
       "equalizer"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2024-09-14"
+    "stars": 16189,
+    "dateAdded": "2024-09-14",
+    "forks": 2557,
+    "avatar": "https://avatars.githubusercontent.com/u/8393524?v=4",
+    "author": "jaakkopasanen"
   },
   {
     "slug": "heicconverter",
@@ -3907,9 +4666,12 @@
       "image-conversion",
       "gui"
     ],
-    "language": "C#",
-    "stars": null,
-    "dateAdded": "2024-09-14"
+    "language": "Python",
+    "stars": 380,
+    "dateAdded": "2024-09-14",
+    "forks": 48,
+    "avatar": "https://avatars.githubusercontent.com/u/12509764?v=4",
+    "author": "saschiwy"
   },
   {
     "slug": "web-syncplay",
@@ -3921,9 +4683,12 @@
       "watch-party",
       "sync"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2024-10-23"
+    "language": "TypeScript",
+    "stars": 88,
+    "dateAdded": "2024-10-23",
+    "forks": 15,
+    "avatar": "https://avatars.githubusercontent.com/u/83919492?v=4",
+    "author": "Web-SyncPlay"
   },
   {
     "slug": "unigetui",
@@ -3936,8 +4701,11 @@
       "package-manager"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2024-10-23"
+    "stars": 25994,
+    "dateAdded": "2024-10-23",
+    "forks": 917,
+    "avatar": "https://avatars.githubusercontent.com/u/6097418?v=4",
+    "author": "Devolutions"
   },
   {
     "slug": "revenge-bundle",
@@ -3951,8 +4719,11 @@
       "android"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2024-10-23"
+    "stars": 1672,
+    "dateAdded": "2024-10-23",
+    "forks": 46,
+    "avatar": "https://avatars.githubusercontent.com/u/159218871?v=4",
+    "author": "revenge-mod"
   },
   {
     "slug": "aunlocker",
@@ -3965,9 +4736,12 @@
       "mod",
       "gaming"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2024-10-30"
+    "language": "C#",
+    "stars": 178,
+    "dateAdded": "2024-10-30",
+    "forks": 25,
+    "avatar": "https://avatars.githubusercontent.com/u/90265231?v=4",
+    "author": "astra1dev"
   },
   {
     "slug": "mrt-buddy",
@@ -3979,9 +4753,12 @@
       "nfc",
       "transit"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2024-11-04"
+    "language": "Kotlin",
+    "stars": 388,
+    "dateAdded": "2024-11-04",
+    "forks": 122,
+    "avatar": "https://avatars.githubusercontent.com/u/932949?v=4",
+    "author": "aniruddha-adhikary"
   },
   {
     "slug": "pandora-qshield",
@@ -3994,8 +4771,11 @@
       "backup"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2024-11-04"
+    "stars": 9,
+    "dateAdded": "2024-11-04",
+    "forks": 1,
+    "avatar": "https://avatars.githubusercontent.com/u/85478032?v=4",
+    "author": "ryancantrell321"
   },
   {
     "slug": "seedbox-tutorial",
@@ -4024,8 +4804,11 @@
       "browser-extension"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2024-12-24"
+    "stars": 225,
+    "dateAdded": "2024-12-24",
+    "forks": 32,
+    "avatar": "https://avatars.githubusercontent.com/u/5081253?v=4",
+    "author": "Mika-"
   },
   {
     "slug": "remote-torrent-adder",
@@ -4038,9 +4821,12 @@
       "torrent",
       "browser-extension"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2024-12-24"
+    "language": "TypeScript",
+    "stars": 307,
+    "dateAdded": "2024-12-24",
+    "forks": 93,
+    "avatar": "https://avatars.githubusercontent.com/u/1835496?v=4",
+    "author": "bogenpirat"
   },
   {
     "slug": "awesome-awesomeness",
@@ -4052,9 +4838,12 @@
       "curated-list",
       "awesome"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2024-12-27"
+    "language": "Ruby",
+    "stars": 33654,
+    "dateAdded": "2024-12-27",
+    "forks": 3603,
+    "avatar": "https://avatars.githubusercontent.com/u/864213?v=4",
+    "author": "bayandin"
   },
   {
     "slug": "micts",
@@ -4066,9 +4855,12 @@
       "android",
       "circle-to-search"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2024-12-30"
+    "language": "Kotlin",
+    "stars": 1596,
+    "dateAdded": "2024-12-30",
+    "forks": 88,
+    "avatar": "https://avatars.githubusercontent.com/u/19646812?v=4",
+    "author": "parallelcc"
   },
   {
     "slug": "brisk",
@@ -4081,8 +4873,11 @@
       "desktop"
     ],
     "language": "Dart",
-    "stars": null,
-    "dateAdded": "2024-12-30"
+    "stars": 1534,
+    "dateAdded": "2024-12-30",
+    "forks": 59,
+    "avatar": "https://avatars.githubusercontent.com/u/211107432?v=4",
+    "author": "BrisklyDev"
   },
   {
     "slug": "acover",
@@ -4095,8 +4890,11 @@
       "education"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2024-12-27"
+    "stars": 11,
+    "dateAdded": "2024-12-27",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/42773187?v=4",
+    "author": "NaeemBolchhi"
   },
   {
     "slug": "rclone-wizard",
@@ -4109,9 +4907,12 @@
       "cloud-storage",
       "cli"
     ],
-    "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2025-01-26"
+    "language": "Batchfile",
+    "stars": 7,
+    "dateAdded": "2025-01-26",
+    "forks": 3,
+    "avatar": "https://avatars.githubusercontent.com/u/42773187?v=4",
+    "author": "NaeemBolchhi"
   },
   {
     "slug": "qshield-cli",
@@ -4124,9 +4925,12 @@
       "backup",
       "cli"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2025-01-26"
+    "language": "Python",
+    "stars": 9,
+    "dateAdded": "2025-01-26",
+    "forks": 1,
+    "avatar": "https://avatars.githubusercontent.com/u/85478032?v=4",
+    "author": "ryancantrell321"
   },
   {
     "slug": "dlss-swapper",
@@ -4140,8 +4944,11 @@
       "gaming"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2025-01-26"
+    "stars": 7121,
+    "dateAdded": "2025-01-26",
+    "forks": 198,
+    "avatar": "https://avatars.githubusercontent.com/u/904737?v=4",
+    "author": "beeradmoore"
   },
   {
     "slug": "updateme-mobile",
@@ -4154,8 +4961,11 @@
       "app-store"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2025-02-07"
+    "stars": 1561,
+    "dateAdded": "2025-02-07",
+    "forks": 70,
+    "avatar": "https://avatars.githubusercontent.com/u/100360644?v=4",
+    "author": "anfreire"
   },
   {
     "slug": "winhance",
@@ -4168,9 +4978,12 @@
       "optimization",
       "gui"
     ],
-    "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2025-02-07"
+    "language": "C#",
+    "stars": 12857,
+    "dateAdded": "2025-02-07",
+    "forks": 628,
+    "avatar": "https://avatars.githubusercontent.com/u/172593213?v=4",
+    "author": "memstechtips"
   },
   {
     "slug": "windows95-electron",
@@ -4183,9 +4996,12 @@
       "emulation",
       "fun"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2025-02-07"
+    "language": "TypeScript",
+    "stars": 24227,
+    "dateAdded": "2025-02-07",
+    "forks": 1346,
+    "avatar": "https://avatars.githubusercontent.com/u/1426799?v=4",
+    "author": "felixrieseberg"
   },
   {
     "slug": "llplayer",
@@ -4199,8 +5015,11 @@
       "language-learning"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2025-03-13"
+    "stars": 4101,
+    "dateAdded": "2025-03-13",
+    "forks": 239,
+    "avatar": "https://avatars.githubusercontent.com/u/20206121?v=4",
+    "author": "umlx5h"
   },
   {
     "slug": "dhara-streaming",
@@ -4228,8 +5047,11 @@
       "powershell"
     ],
     "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2025-03-13"
+    "stars": 5,
+    "dateAdded": "2025-03-13",
+    "forks": 2,
+    "avatar": "https://avatars.githubusercontent.com/u/64983290?v=4",
+    "author": "darthdemono"
   },
   {
     "slug": "intersubs",
@@ -4241,9 +5063,12 @@
       "mpv",
       "subtitles"
     ],
-    "language": "Lua",
-    "stars": null,
-    "dateAdded": "2025-03-13"
+    "language": "Python",
+    "stars": 264,
+    "dateAdded": "2025-03-13",
+    "forks": 24,
+    "avatar": "https://avatars.githubusercontent.com/u/10230453?v=4",
+    "author": "oltodosel"
   },
   {
     "slug": "spendlow",
@@ -4257,8 +5082,11 @@
       "privacy"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2025-03-13"
+    "stars": 5,
+    "dateAdded": "2025-03-13",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/142242019?v=4",
+    "author": "marufx86"
   },
   {
     "slug": "tcno-acc-switcher",
@@ -4270,9 +5098,12 @@
       "gaming",
       "account-switcher"
     ],
-    "language": "C#",
-    "stars": null,
-    "dateAdded": "2025-03-13"
+    "language": "Go",
+    "stars": 2347,
+    "dateAdded": "2025-03-13",
+    "forks": 157,
+    "avatar": "https://avatars.githubusercontent.com/u/10319195?v=4",
+    "author": "TCNOco"
   },
   {
     "slug": "ludusavi",
@@ -4286,8 +5117,11 @@
       "gaming"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2025-03-13"
+    "stars": 6236,
+    "dateAdded": "2025-03-13",
+    "forks": 136,
+    "avatar": "https://avatars.githubusercontent.com/u/4934192?v=4",
+    "author": "mtkennerly"
   },
   {
     "slug": "fluent-search",
@@ -4300,8 +5134,11 @@
       "search"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2025-03-13"
+    "stars": 2196,
+    "dateAdded": "2025-03-13",
+    "forks": 50,
+    "avatar": "https://avatars.githubusercontent.com/u/27368554?v=4",
+    "author": "adirh3"
   },
   {
     "slug": "pricepoka",
@@ -4313,9 +5150,12 @@
       "price-comparison",
       "bangladesh"
     ],
-    "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2025-03-13"
+    "language": "JavaScript",
+    "stars": 85,
+    "dateAdded": "2025-03-13",
+    "forks": 29,
+    "avatar": "https://avatars.githubusercontent.com/u/108421593?v=4",
+    "author": "HasanC14"
   },
   {
     "slug": "codeblock-colorful-themes",
@@ -4328,8 +5168,11 @@
       "code-editor"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2025-03-13"
+    "stars": 2,
+    "dateAdded": "2025-03-13",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/71395891?v=4",
+    "author": "HridoyHazard"
   },
   {
     "slug": "quik",
@@ -4343,8 +5186,11 @@
       "messenger"
     ],
     "language": "Java",
-    "stars": null,
-    "dateAdded": "2025-03-13"
+    "stars": 2735,
+    "dateAdded": "2025-03-13",
+    "forks": 176,
+    "avatar": "https://avatars.githubusercontent.com/u/264272747?v=4",
+    "author": "quik-sms"
   },
   {
     "slug": "hydra",
@@ -4358,8 +5204,11 @@
       "torrent"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2025-05-05"
+    "stars": 16821,
+    "dateAdded": "2025-05-05",
+    "forks": 4006,
+    "avatar": "https://avatars.githubusercontent.com/u/164102380?v=4",
+    "author": "hydralauncher"
   },
   {
     "slug": "winscript",
@@ -4371,9 +5220,12 @@
       "windows",
       "debloat"
     ],
-    "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2025-06-17"
+    "language": "CSS",
+    "stars": 2842,
+    "dateAdded": "2025-06-17",
+    "forks": 178,
+    "avatar": "https://avatars.githubusercontent.com/u/137506210?v=4",
+    "author": "flick9000"
   },
   {
     "slug": "czkawka",
@@ -4386,9 +5238,12 @@
       "file-management",
       "duplicates"
     ],
-    "language": "Rust",
-    "stars": null,
-    "dateAdded": "2025-04-26"
+    "language": "Fluent",
+    "stars": 33230,
+    "dateAdded": "2025-04-26",
+    "forks": 1155,
+    "avatar": "https://avatars.githubusercontent.com/u/41945903?v=4",
+    "author": "qarmin"
   },
   {
     "slug": "winlator",
@@ -4401,9 +5256,12 @@
       "windows",
       "wine"
     ],
-    "language": "Java",
-    "stars": null,
-    "dateAdded": "2025-06-01"
+    "language": "C",
+    "stars": 18919,
+    "dateAdded": "2025-06-01",
+    "forks": 1710,
+    "avatar": "https://avatars.githubusercontent.com/u/11407071?v=4",
+    "author": "brunodev85"
   },
   {
     "slug": "spotx-shortcut",
@@ -4417,8 +5275,11 @@
       "windows"
     ],
     "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2025-06-01"
+    "stars": 2,
+    "dateAdded": "2025-06-01",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/42773187?v=4",
+    "author": "NaeemBolchhi"
   },
   {
     "slug": "free-apis-github-io",
@@ -4430,9 +5291,12 @@
       "apis",
       "curated-list"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2025-06-01"
+    "language": "JavaScript",
+    "stars": 1301,
+    "dateAdded": "2025-06-01",
+    "forks": 145,
+    "avatar": "https://avatars.githubusercontent.com/u/133475766?v=4",
+    "author": "Free-APIs"
   },
   {
     "slug": "householdnomore",
@@ -4445,8 +5309,11 @@
       "netflix"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2025-06-01"
+    "stars": 333,
+    "dateAdded": "2025-06-01",
+    "forks": 34,
+    "avatar": "https://avatars.githubusercontent.com/u/37242088?v=4",
+    "author": "Amachik"
   },
   {
     "slug": "useful-lists",
@@ -4459,8 +5326,11 @@
       "tools"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2025-06-07"
+    "stars": 43,
+    "dateAdded": "2025-06-07",
+    "forks": 5,
+    "avatar": "https://avatars.githubusercontent.com/u/13126441?v=4",
+    "author": "almahmudbd"
   },
   {
     "slug": "sidebardiagnostics",
@@ -4473,8 +5343,11 @@
       "system-monitor"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2025-06-19"
+    "stars": 2567,
+    "dateAdded": "2025-06-19",
+    "forks": 224,
+    "avatar": "https://avatars.githubusercontent.com/u/13874898?v=4",
+    "author": "ArcadeRenegade"
   },
   {
     "slug": "cybersources",
@@ -4487,8 +5360,11 @@
       "curated-list"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2025-06-19"
+    "stars": 2413,
+    "dateAdded": "2025-06-19",
+    "forks": 257,
+    "avatar": "https://avatars.githubusercontent.com/u/75524846?v=4",
+    "author": "bst04"
   },
   {
     "slug": "sparkle-optimizer",
@@ -4501,8 +5377,11 @@
       "optimization"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2025-06-19"
+    "stars": 2097,
+    "dateAdded": "2025-06-19",
+    "forks": 69,
+    "avatar": "https://avatars.githubusercontent.com/u/97050087?v=4",
+    "author": "thedogecraft"
   },
   {
     "slug": "anitail",
@@ -4515,8 +5394,11 @@
       "music"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2025-06-19"
+    "stars": 72,
+    "dateAdded": "2025-06-19",
+    "forks": 5,
+    "avatar": "https://avatars.githubusercontent.com/u/112197610?v=4",
+    "author": "Animetailapp"
   },
   {
     "slug": "anikku",
@@ -4529,8 +5411,11 @@
       "anime"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2025-08-02"
+    "stars": 1003,
+    "dateAdded": "2025-08-02",
+    "forks": 66,
+    "avatar": "https://avatars.githubusercontent.com/u/160299335?v=4",
+    "author": "komikku-app"
   },
   {
     "slug": "opencut",
@@ -4543,8 +5428,11 @@
       "capcut-alternative"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2025-08-02"
+    "stars": 88692,
+    "dateAdded": "2025-08-02",
+    "forks": 8746,
+    "avatar": "https://avatars.githubusercontent.com/u/217499887?v=4",
+    "author": "OpenCut-app"
   },
   {
     "slug": "hotspot-limit",
@@ -4556,9 +5444,12 @@
       "windows",
       "hotspot"
     ],
-    "language": "PowerShell",
-    "stars": null,
-    "dateAdded": "2025-08-04"
+    "language": "Batchfile",
+    "stars": 5,
+    "dateAdded": "2025-08-04",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/42773187?v=4",
+    "author": "NaeemBolchhi"
   },
   {
     "slug": "codeforces-submission-fetcher-extension",
@@ -4571,8 +5462,11 @@
       "browser-extension"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2025-08-09"
+    "stars": 20,
+    "dateAdded": "2025-08-09",
+    "forks": 1,
+    "avatar": "https://avatars.githubusercontent.com/u/99073463?v=4",
+    "author": "Andrew-Velox"
   },
   {
     "slug": "edge-tts-android",
@@ -4584,9 +5478,12 @@
       "android",
       "text-to-speech"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2025-08-26"
+    "language": "Kotlin",
+    "stars": 128,
+    "dateAdded": "2025-08-26",
+    "forks": 13,
+    "avatar": "https://avatars.githubusercontent.com/u/67993732?v=4",
+    "author": "yynag"
   },
   {
     "slug": "obsidian-edge-tts",
@@ -4599,8 +5496,11 @@
       "text-to-speech"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2025-08-26"
+    "stars": 316,
+    "dateAdded": "2025-08-26",
+    "forks": 35,
+    "avatar": "https://avatars.githubusercontent.com/u/2686415?v=4",
+    "author": "travisvn"
   },
   {
     "slug": "xed-editor",
@@ -4613,8 +5513,11 @@
       "code-editor"
     ],
     "language": "Kotlin",
-    "stars": null,
-    "dateAdded": "2025-09-10"
+    "stars": 2265,
+    "dateAdded": "2025-09-10",
+    "forks": 156,
+    "avatar": "https://avatars.githubusercontent.com/u/184326269?v=4",
+    "author": "Xed-Editor"
   },
   {
     "slug": "course-piracy-index",
@@ -4627,8 +5530,11 @@
       "curated-list"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2025-09-11"
+    "stars": 4045,
+    "dateAdded": "2025-09-11",
+    "forks": 407,
+    "avatar": "https://avatars.githubusercontent.com/u/76810020?v=4",
+    "author": "ItIsMeCall911"
   },
   {
     "slug": "fb-mobile-clean-my-feeds-ext",
@@ -4640,9 +5546,12 @@
       "browser-extension",
       "facebook"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2025-09-10"
+    "language": "TypeScript",
+    "stars": 13,
+    "dateAdded": "2025-09-10",
+    "forks": 1,
+    "avatar": "https://avatars.githubusercontent.com/u/72684302?v=4",
+    "author": "webdevsk"
   },
   {
     "slug": "awesome-nano-banana-images",
@@ -4656,8 +5565,11 @@
       "curated-list"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2025-09-10"
+    "stars": 23644,
+    "dateAdded": "2025-09-10",
+    "forks": 2397,
+    "avatar": "https://avatars.githubusercontent.com/u/190918837?v=4",
+    "author": "PicoTrex"
   },
   {
     "slug": "autocrop-vertical",
@@ -4671,8 +5583,11 @@
       "ai"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2025-09-10"
+    "stars": 339,
+    "dateAdded": "2025-09-10",
+    "forks": 1066,
+    "avatar": "https://avatars.githubusercontent.com/u/6312252?v=4",
+    "author": "kamilstanuch"
   },
   {
     "slug": "adobe-alternatives",
@@ -4685,8 +5600,11 @@
       "adobe-alternatives"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2025-09-10"
+    "stars": 9448,
+    "dateAdded": "2025-09-10",
+    "forks": 361,
+    "avatar": "https://avatars.githubusercontent.com/u/6953026?v=4",
+    "author": "KenneyNL"
   },
   {
     "slug": "l1b3rt4s",
@@ -4700,8 +5618,11 @@
       "prompts"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2025-09-10"
+    "stars": 21335,
+    "dateAdded": "2025-09-10",
+    "forks": 2626,
+    "avatar": "https://avatars.githubusercontent.com/u/133052465?v=4",
+    "author": "elder-plinius"
   },
   {
     "slug": "hyde",
@@ -4715,8 +5636,11 @@
       "hyprland"
     ],
     "language": "Shell",
-    "stars": null,
-    "dateAdded": "2025-10-01"
+    "stars": 9565,
+    "dateAdded": "2025-10-01",
+    "forks": 639,
+    "avatar": "https://avatars.githubusercontent.com/u/181690790?v=4",
+    "author": "HyDE-Project"
   },
   {
     "slug": "waybar-lyric",
@@ -4730,8 +5654,11 @@
       "music"
     ],
     "language": "Go",
-    "stars": null,
-    "dateAdded": "2025-10-01"
+    "stars": 46,
+    "dateAdded": "2025-10-01",
+    "forks": 7,
+    "avatar": "https://avatars.githubusercontent.com/u/90786729?v=4",
+    "author": "Nadim147c"
   },
   {
     "slug": "millennium",
@@ -4744,8 +5671,11 @@
       "customization"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2025-10-20"
+    "stars": 4275,
+    "dateAdded": "2025-10-20",
+    "forks": 156,
+    "avatar": "https://avatars.githubusercontent.com/u/161794947?v=4",
+    "author": "SteamClientHomebrew"
   },
   {
     "slug": "seedbox-lite",
@@ -4759,8 +5689,11 @@
       "self-hosted"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2025-10-20"
+    "stars": 4538,
+    "dateAdded": "2025-10-20",
+    "forks": 349,
+    "avatar": "https://avatars.githubusercontent.com/u/18418340?v=4",
+    "author": "hotheadhacker"
   },
   {
     "slug": "eartrumpet",
@@ -4773,8 +5706,11 @@
       "audio"
     ],
     "language": "C#",
-    "stars": null,
-    "dateAdded": "2025-11-01"
+    "stars": 11344,
+    "dateAdded": "2025-11-01",
+    "forks": 601,
+    "avatar": "https://avatars.githubusercontent.com/u/13286252?v=4",
+    "author": "File-New-Project"
   },
   {
     "slug": "komorebi",
@@ -4787,8 +5723,11 @@
       "window-manager"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2025-11-08"
+    "stars": 15132,
+    "dateAdded": "2025-11-08",
+    "forks": 350,
+    "avatar": "https://avatars.githubusercontent.com/u/13164844?v=4",
+    "author": "LGUG2Z"
   },
   {
     "slug": "facebook-clean-my-feeds",
@@ -4801,8 +5740,11 @@
       "facebook"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2025-11-28"
+    "stars": 15,
+    "dateAdded": "2025-11-28",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/9828732?v=4",
+    "author": "trinhquocviet"
   },
   {
     "slug": "iptv-org",
@@ -4814,9 +5756,12 @@
       "iptv",
       "streaming"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2025-12-25"
+    "language": "TypeScript",
+    "stars": 137624,
+    "dateAdded": "2025-12-25",
+    "forks": 7989,
+    "avatar": "https://avatars.githubusercontent.com/u/55937028?v=4",
+    "author": "iptv-org"
   },
   {
     "slug": "heroicgameslauncher",
@@ -4829,8 +5774,11 @@
       "launcher"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2026-01-04"
+    "stars": 12140,
+    "dateAdded": "2026-01-04",
+    "forks": 671,
+    "avatar": "https://avatars.githubusercontent.com/u/77549103?v=4",
+    "author": "Heroic-Games-Launcher"
   },
   {
     "slug": "nozo",
@@ -4842,9 +5790,12 @@
       "browser-extension",
       "productivity"
     ],
-    "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2026-01-05"
+    "language": "JavaScript",
+    "stars": 92,
+    "dateAdded": "2026-01-05",
+    "forks": 5,
+    "avatar": "https://avatars.githubusercontent.com/u/69317757?v=4",
+    "author": "RayZ3R0"
   },
   {
     "slug": "antigravity-kit",
@@ -4857,9 +5808,12 @@
       "google-antigravity",
       "developer-tools"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-02-20"
+    "language": "TypeScript",
+    "stars": 8170,
+    "dateAdded": "2026-02-20",
+    "forks": 1517,
+    "avatar": "https://avatars.githubusercontent.com/u/116963762?v=4",
+    "author": "vudovn"
   },
   {
     "slug": "slim",
@@ -4872,8 +5826,11 @@
       "developer-tools"
     ],
     "language": "Go",
-    "stars": null,
-    "dateAdded": "2026-05-07"
+    "stars": 2094,
+    "dateAdded": "2026-05-07",
+    "forks": 136,
+    "avatar": "https://avatars.githubusercontent.com/u/4921183?v=4",
+    "author": "nilbuild"
   },
   {
     "slug": "crw-extension",
@@ -4885,9 +5842,12 @@
       "browser-extension",
       "consumer-rights"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2026-05-07"
+    "language": "TypeScript",
+    "stars": 932,
+    "dateAdded": "2026-05-07",
+    "forks": 40,
+    "avatar": "https://avatars.githubusercontent.com/u/223959643?v=4",
+    "author": "FULU-Foundation"
   },
   {
     "slug": "gopher-tube",
@@ -4901,8 +5861,11 @@
       "tui"
     ],
     "language": "Go",
-    "stars": null,
-    "dateAdded": "2026-03-18"
+    "stars": 427,
+    "dateAdded": "2026-03-18",
+    "forks": 24,
+    "avatar": "https://avatars.githubusercontent.com/u/125943937?v=4",
+    "author": "KrishnaSSH"
   },
   {
     "slug": "viu-media",
@@ -4916,8 +5879,11 @@
       "tui"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2026-03-18"
+    "stars": 1079,
+    "dateAdded": "2026-03-18",
+    "forks": 83,
+    "avatar": "https://avatars.githubusercontent.com/u/227997202?v=4",
+    "author": "viu-media"
   },
   {
     "slug": "nyaa-tui",
@@ -4931,8 +5897,11 @@
       "anime"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2026-03-18"
+    "stars": 694,
+    "dateAdded": "2026-03-18",
+    "forks": 15,
+    "avatar": "https://avatars.githubusercontent.com/u/13501575?v=4",
+    "author": "Beastwick18"
   },
   {
     "slug": "jrnl",
@@ -4945,8 +5914,11 @@
       "journaling"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2026-03-18"
+    "stars": 7308,
+    "dateAdded": "2026-03-18",
+    "forks": 562,
+    "avatar": "https://avatars.githubusercontent.com/u/52506239?v=4",
+    "author": "jrnl-org"
   },
   {
     "slug": "asciinema",
@@ -4959,8 +5931,11 @@
       "terminal-recording"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2026-03-18"
+    "stars": 17768,
+    "dateAdded": "2026-03-18",
+    "forks": 1037,
+    "avatar": "https://avatars.githubusercontent.com/u/6506055?v=4",
+    "author": "asciinema"
   },
   {
     "slug": "pacseek",
@@ -4974,8 +5949,11 @@
       "tui"
     ],
     "language": "Go",
-    "stars": null,
-    "dateAdded": "2026-03-18"
+    "stars": 656,
+    "dateAdded": "2026-03-18",
+    "forks": 17,
+    "avatar": "https://avatars.githubusercontent.com/u/13588013?v=4",
+    "author": "moson-mo"
   },
   {
     "slug": "trakt-tv-userscript-collection",
@@ -4988,8 +5966,11 @@
       "trakt"
     ],
     "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2026-03-19"
+    "stars": 41,
+    "dateAdded": "2026-03-19",
+    "forks": 1,
+    "avatar": "https://avatars.githubusercontent.com/u/230925697?v=4",
+    "author": "Fenn3c401"
   },
   {
     "slug": "just-the-browser",
@@ -5001,9 +5982,12 @@
       "privacy",
       "browser-config"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-03-19"
+    "language": "Shell",
+    "stars": 2972,
+    "dateAdded": "2026-03-19",
+    "forks": 92,
+    "avatar": "https://avatars.githubusercontent.com/u/3879063?v=4",
+    "author": "corbindavenport"
   },
   {
     "slug": "corridorkey",
@@ -5017,8 +6001,11 @@
       "green-screen"
     ],
     "language": "Python",
-    "stars": null,
-    "dateAdded": "2026-04-28"
+    "stars": 14635,
+    "dateAdded": "2026-04-28",
+    "forks": 892,
+    "avatar": "https://avatars.githubusercontent.com/u/52174106?v=4",
+    "author": "nikopueringer"
   },
   {
     "slug": "mailhog",
@@ -5031,8 +6018,11 @@
       "smtp"
     ],
     "language": "Go",
-    "stars": null,
-    "dateAdded": "2026-05-01"
+    "stars": 16144,
+    "dateAdded": "2026-05-01",
+    "forks": 1181,
+    "avatar": "https://avatars.githubusercontent.com/u/10258541?v=4",
+    "author": "mailhog"
   },
   {
     "slug": "search-hit-hider",
@@ -5045,9 +6035,12 @@
       "browser-extension",
       "search"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2026-05-07"
+    "language": "TypeScript",
+    "stars": 8,
+    "dateAdded": "2026-05-07",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/154349099?v=4",
+    "author": "Istiaq-Edu"
   },
   {
     "slug": "impeccable",
@@ -5060,9 +6053,12 @@
       "design",
       "frontend"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-05-31"
+    "language": "JavaScript",
+    "stars": 65643,
+    "dateAdded": "2026-05-31",
+    "forks": 4037,
+    "avatar": "https://avatars.githubusercontent.com/u/43004?v=4",
+    "author": "pbakaus"
   },
   {
     "slug": "at-a-glance",
@@ -5074,9 +6070,12 @@
       "browser-extension",
       "zen-browser"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2026-05-30"
+    "language": "HTML",
+    "stars": 4,
+    "dateAdded": "2026-05-30",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/186850573?v=4",
+    "author": "DarkDreamWiz"
   },
   {
     "slug": "open-remark",
@@ -5089,8 +6088,11 @@
       "widget"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2026-06-01"
+    "stars": 41,
+    "dateAdded": "2026-06-01",
+    "forks": 7,
+    "avatar": "https://avatars.githubusercontent.com/u/122345747?v=4",
+    "author": "zeon-studio"
   },
   {
     "slug": "clypra",
@@ -5104,8 +6106,11 @@
       "react"
     ],
     "language": "TypeScript",
-    "stars": null,
-    "dateAdded": "2026-06-09"
+    "stars": 3171,
+    "dateAdded": "2026-06-09",
+    "forks": 312,
+    "avatar": "https://avatars.githubusercontent.com/u/80651195?v=4",
+    "author": "AIEraDev"
   },
   {
     "slug": "kopuz",
@@ -5118,8 +6123,11 @@
       "music-player"
     ],
     "language": "Rust",
-    "stars": null,
-    "dateAdded": "2026-06-01"
+    "stars": 1830,
+    "dateAdded": "2026-06-01",
+    "forks": 102,
+    "avatar": "https://avatars.githubusercontent.com/u/283358886?v=4",
+    "author": "Kopuz-org"
   },
   {
     "slug": "deskflow",
@@ -5132,8 +6140,11 @@
       "desktop"
     ],
     "language": "C++",
-    "stars": null,
-    "dateAdded": "2026-06-15"
+    "stars": 28579,
+    "dateAdded": "2026-06-15",
+    "forks": 4838,
+    "avatar": "https://avatars.githubusercontent.com/u/181782356?v=4",
+    "author": "deskflow"
   },
   {
     "slug": "torlink",
@@ -5145,9 +6156,12 @@
       "cli",
       "torrent"
     ],
-    "language": "Go",
-    "stars": null,
-    "dateAdded": "2026-07-01"
+    "language": "TypeScript",
+    "stars": 5565,
+    "dateAdded": "2026-07-01",
+    "forks": 376,
+    "avatar": "https://avatars.githubusercontent.com/u/97924486?v=4",
+    "author": "baairon"
   },
   {
     "slug": "komi-store",
@@ -5159,9 +6173,12 @@
       "app-store",
       "self-hosted"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-07-01"
+    "language": "Kotlin",
+    "stars": 18239,
+    "dateAdded": "2026-07-01",
+    "forks": 687,
+    "avatar": "https://avatars.githubusercontent.com/u/323530639?v=4",
+    "author": "komi-store"
   },
   {
     "slug": "fcksignups",
@@ -5173,9 +6190,12 @@
       "privacy",
       "tools"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-07-21"
+    "language": "TypeScript",
+    "stars": 2619,
+    "dateAdded": "2026-07-21",
+    "forks": 189,
+    "avatar": "https://avatars.githubusercontent.com/u/57965732?v=4",
+    "author": "BraveOPotato"
   },
   {
     "slug": "ventoid",
@@ -5187,9 +6207,12 @@
       "android",
       "bootable-usb"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-07-21"
+    "language": "Kotlin",
+    "stars": 334,
+    "dateAdded": "2026-07-21",
+    "forks": 10,
+    "avatar": "https://avatars.githubusercontent.com/u/221012486?v=4",
+    "author": "GPLaider"
   },
   {
     "slug": "pulsedeck",
@@ -5201,9 +6224,12 @@
       "monitoring",
       "android"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-07-22"
+    "language": "C++",
+    "stars": 2,
+    "dateAdded": "2026-07-22",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/65078964?v=4",
+    "author": "CodeWithYusufAhmed"
   },
   {
     "slug": "kudu",
@@ -5215,9 +6241,12 @@
       "system-cleaner",
       "security"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-07-27"
+    "language": "TypeScript",
+    "stars": 2444,
+    "dateAdded": "2026-07-27",
+    "forks": 193,
+    "avatar": "https://avatars.githubusercontent.com/u/85504311?v=4",
+    "author": "AdventDevInc"
   },
   {
     "slug": "tizentubecobalt",
@@ -5230,9 +6259,12 @@
       "youtube",
       "ad-blocking"
     ],
-    "language": "JavaScript",
-    "stars": null,
-    "dateAdded": "2026-07-27"
+    "language": null,
+    "stars": 2981,
+    "dateAdded": "2026-07-27",
+    "forks": 148,
+    "avatar": "https://avatars.githubusercontent.com/u/29177546?v=4",
+    "author": "reisxd"
   },
   {
     "slug": "every-app-open-seo",
@@ -5244,9 +6276,12 @@
       "seo",
       "developer-tools"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-07-28"
+    "language": "TypeScript",
+    "stars": 17059,
+    "dateAdded": "2026-07-28",
+    "forks": 2128,
+    "avatar": "https://avatars.githubusercontent.com/u/240383020?v=4",
+    "author": "every-app"
   },
   {
     "slug": "linkmap",
@@ -5274,8 +6309,11 @@
       "privacy"
     ],
     "language": null,
-    "stars": null,
-    "dateAdded": "2026-07-28"
+    "stars": 56,
+    "dateAdded": "2026-07-28",
+    "forks": 1,
+    "avatar": "https://avatars.githubusercontent.com/u/302420857?v=4",
+    "author": "sun-lite"
   },
   {
     "slug": "windows-performance-tweaks",
@@ -5287,9 +6325,12 @@
       "windows",
       "performance"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-07-28"
+    "language": "Batchfile",
+    "stars": 2,
+    "dateAdded": "2026-07-28",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/92600270?v=4",
+    "author": "dev-fahim-code"
   },
   {
     "slug": "flow-desktop",
@@ -5302,9 +6343,12 @@
       "youtube-music",
       "desktop-app"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "TypeScript",
+    "stars": 67,
+    "dateAdded": "2026-08-23",
+    "forks": 1,
+    "avatar": "https://avatars.githubusercontent.com/u/295878367?v=4",
+    "author": "Flow-Tube"
   },
   {
     "slug": "kudu-cleaner",
@@ -5317,9 +6361,12 @@
       "security-scanner",
       "cross-platform"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "TypeScript",
+    "stars": 2444,
+    "dateAdded": "2026-08-23",
+    "forks": 193,
+    "avatar": "https://avatars.githubusercontent.com/u/85504311?v=4",
+    "author": "AdventDevInc"
   },
   {
     "slug": "morphe-manager",
@@ -5332,9 +6379,12 @@
       "patching",
       "revanced"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Kotlin",
+    "stars": 7777,
+    "dateAdded": "2026-08-23",
+    "forks": 181,
+    "avatar": "https://avatars.githubusercontent.com/u/246280111?v=4",
+    "author": "MorpheApp"
   },
   {
     "slug": "readest",
@@ -5346,9 +6396,12 @@
       "ebook-reader",
       "cross-platform"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "TypeScript",
+    "stars": 24076,
+    "dateAdded": "2026-08-23",
+    "forks": 1538,
+    "avatar": "https://avatars.githubusercontent.com/u/190965649?v=4",
+    "author": "readest"
   },
   {
     "slug": "quick-search",
@@ -5361,9 +6414,12 @@
       "search",
       "launcher"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Kotlin",
+    "stars": 502,
+    "dateAdded": "2026-08-23",
+    "forks": 35,
+    "avatar": "https://avatars.githubusercontent.com/u/28596758?v=4",
+    "author": "teja2495"
   },
   {
     "slug": "leantype",
@@ -5376,9 +6432,12 @@
       "keyboard",
       "open-source"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Kotlin",
+    "stars": 900,
+    "dateAdded": "2026-08-23",
+    "forks": 49,
+    "avatar": "https://avatars.githubusercontent.com/u/245915690?v=4",
+    "author": "LeanBitLab"
   },
   {
     "slug": "shevery",
@@ -5391,9 +6450,12 @@
       "shizuku",
       "utility"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Kotlin",
+    "stars": 964,
+    "dateAdded": "2026-08-23",
+    "forks": 30,
+    "avatar": "https://avatars.githubusercontent.com/u/256042304?v=4",
+    "author": "HmnDev-Tech"
   },
   {
     "slug": "ytdlnis",
@@ -5406,9 +6468,12 @@
       "downloader",
       "youtube-dl"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Kotlin",
+    "stars": 9922,
+    "dateAdded": "2026-08-23",
+    "forks": 443,
+    "avatar": "https://avatars.githubusercontent.com/u/64997243?v=4",
+    "author": "deniscerri"
   },
   {
     "slug": "unlimited-ocr",
@@ -5420,9 +6485,12 @@
       "ocr",
       "text-recognition"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Python",
+    "stars": 25205,
+    "dateAdded": "2026-08-23",
+    "forks": 2613,
+    "avatar": "https://avatars.githubusercontent.com/u/13245940?v=4",
+    "author": "baidu"
   },
   {
     "slug": "ai-job-search",
@@ -5435,9 +6503,12 @@
       "job-search",
       "claude-code"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Python",
+    "stars": 40786,
+    "dateAdded": "2026-08-23",
+    "forks": 13873,
+    "avatar": "https://avatars.githubusercontent.com/u/50207393?v=4",
+    "author": "MadsLorentzen"
   },
   {
     "slug": "opencut-editor",
@@ -5450,9 +6521,12 @@
       "open-source",
       "cross-platform"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "TypeScript",
+    "stars": 88692,
+    "dateAdded": "2026-08-23",
+    "forks": 8746,
+    "avatar": "https://avatars.githubusercontent.com/u/217499887?v=4",
+    "author": "OpenCut-app"
   },
   {
     "slug": "rm-bg-watermark",
@@ -5465,9 +6539,12 @@
       "watermark-removal",
       "on-device"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "JavaScript",
+    "stars": 87,
+    "dateAdded": "2026-08-23",
+    "forks": 22,
+    "avatar": "https://avatars.githubusercontent.com/u/139356517?v=4",
+    "author": "Curzyori"
   },
   {
     "slug": "ai-for-beginners",
@@ -5480,9 +6557,12 @@
       "curriculum",
       "education"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Jupyter Notebook",
+    "stars": 68078,
+    "dateAdded": "2026-08-23",
+    "forks": 13130,
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "author": "microsoft"
   },
   {
     "slug": "netwatch",
@@ -5495,9 +6575,12 @@
       "terminal",
       "diagnostics"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Rust",
+    "stars": 2892,
+    "dateAdded": "2026-08-23",
+    "forks": 130,
+    "avatar": "https://avatars.githubusercontent.com/u/13101478?v=4",
+    "author": "matthart1983"
   },
   {
     "slug": "bengal-download-manager",
@@ -5509,9 +6592,12 @@
       "download-manager",
       "linux"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Python",
+    "stars": 19,
+    "dateAdded": "2026-08-23",
+    "forks": 1,
+    "avatar": "https://avatars.githubusercontent.com/u/19417232?v=4",
+    "author": "tazihad"
   },
   {
     "slug": "locreminder",
@@ -5524,9 +6610,12 @@
       "location",
       "alarm"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Dart",
+    "stars": 15,
+    "dateAdded": "2026-08-23",
+    "forks": 1,
+    "avatar": "https://avatars.githubusercontent.com/u/220813088?v=4",
+    "author": "zaifears"
   },
   {
     "slug": "fastfetch",
@@ -5539,9 +6628,12 @@
       "terminal",
       "fast"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "C",
+    "stars": 24523,
+    "dateAdded": "2026-08-23",
+    "forks": 874,
+    "avatar": "https://avatars.githubusercontent.com/u/136235211?v=4",
+    "author": "fastfetch-cli"
   },
   {
     "slug": "useful-batch-files",
@@ -5554,9 +6646,12 @@
       "batch-scripts",
       "automation"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Batchfile",
+    "stars": 13,
+    "dateAdded": "2026-08-23",
+    "forks": 2,
+    "avatar": "https://avatars.githubusercontent.com/u/237421650?v=4",
+    "author": "aonexyz"
   },
   {
     "slug": "bluevein",
@@ -5569,9 +6664,12 @@
       "dual-boot",
       "windows"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Rust",
+    "stars": 79,
+    "dateAdded": "2026-08-23",
+    "forks": 5,
+    "avatar": "https://avatars.githubusercontent.com/u/179010218?v=4",
+    "author": "meowrch"
   },
   {
     "slug": "ghost-downloader-3",
@@ -5583,9 +6681,12 @@
       "download-manager",
       "cross-platform"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Python",
+    "stars": 8866,
+    "dateAdded": "2026-08-23",
+    "forks": 560,
+    "avatar": "https://avatars.githubusercontent.com/u/87308195?v=4",
+    "author": "XiaoYouChR"
   },
   {
     "slug": "upload-assistant-fork",
@@ -5597,9 +6698,12 @@
       "upload",
       "automation"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Python",
+    "stars": 74,
+    "dateAdded": "2026-08-23",
+    "forks": 22,
+    "avatar": "https://avatars.githubusercontent.com/u/46319635?v=4",
+    "author": "wastaken7"
   },
   {
     "slug": "qmplay2",
@@ -5611,9 +6715,12 @@
       "media-player",
       "ffmpeg"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "C++",
+    "stars": 1178,
+    "dateAdded": "2026-08-23",
+    "forks": 198,
+    "avatar": "https://avatars.githubusercontent.com/u/6239090?v=4",
+    "author": "zaps166"
   },
   {
     "slug": "watermarks-remover",
@@ -5626,9 +6733,12 @@
       "ai",
       "privacy"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Python",
+    "stars": 20625,
+    "dateAdded": "2026-08-23",
+    "forks": 2383,
+    "avatar": "https://avatars.githubusercontent.com/u/1385518?v=4",
+    "author": "guillaumemeyer"
   },
   {
     "slug": "aonexyz-idm-lifetime-activation",
@@ -5641,9 +6751,12 @@
       "activation",
       "utility"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-08-23"
+    "language": "Batchfile",
+    "stars": 33,
+    "dateAdded": "2026-08-23",
+    "forks": 7,
+    "avatar": "https://avatars.githubusercontent.com/u/237421650?v=4",
+    "author": "aonexyz"
   },
   {
     "slug": "drakonis96-nodus",
@@ -5658,9 +6771,12 @@
       "zotero",
       "knowledge-management"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-09-04"
+    "language": "TypeScript",
+    "stars": 126,
+    "dateAdded": "2026-09-04",
+    "forks": 10,
+    "avatar": "https://avatars.githubusercontent.com/u/41027003?v=4",
+    "author": "Drakonis96"
   },
   {
     "slug": "1j01-tracky-mouse",
@@ -5674,9 +6790,12 @@
       "assistive-technology",
       "desktop"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-09-04"
+    "language": "JavaScript",
+    "stars": 90,
+    "dateAdded": "2026-09-04",
+    "forks": 15,
+    "avatar": "https://avatars.githubusercontent.com/u/3630663?v=4",
+    "author": "1j01"
   },
   {
     "slug": "nousresearch-hermes-agent",
@@ -5690,9 +6809,12 @@
       "self-improving",
       "automation"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-09-04"
+    "language": "Python",
+    "stars": 241575,
+    "dateAdded": "2026-09-04",
+    "forks": 49580,
+    "avatar": "https://avatars.githubusercontent.com/u/134168893?v=4",
+    "author": "NousResearch"
   },
   {
     "slug": "westpoint-io-mimik",
@@ -5706,9 +6828,12 @@
       "screenshots",
       "workflow"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-09-04"
+    "language": "TypeScript",
+    "stars": 673,
+    "dateAdded": "2026-09-04",
+    "forks": 88,
+    "avatar": "https://avatars.githubusercontent.com/u/48803318?v=4",
+    "author": "westpoint-io"
   },
   {
     "slug": "diegosouzapw-omniroute",
@@ -5722,8 +6847,11 @@
       "self-hosted",
       "developer-tools"
     ],
-    "language": null,
-    "stars": null,
-    "dateAdded": "2026-09-04"
+    "language": "TypeScript",
+    "stars": 61303,
+    "dateAdded": "2026-09-04",
+    "forks": 8535,
+    "avatar": "https://avatars.githubusercontent.com/u/8016841?v=4",
+    "author": "diegosouzapw"
   }
 ]

@@ -1,42 +1,44 @@
 "use client";
 
-import { useState } from "react";
-import { ArrowUpRight, Check, Copy, Star } from "lucide-react";
+import Image from "next/image";
+import { GitFork, Star } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 import type { Project } from "@/types/project";
+import { LANGUAGE_COLORS } from "@/lib/language-colors";
 
 export function ProjectCard({ project }: { project: Project }) {
-  const [copied, setCopied] = useState(false);
-
-  async function handleCopy(e: React.MouseEvent) {
-    e.preventDefault();
-    e.stopPropagation();
-    await navigator.clipboard.writeText(project.url);
-    setCopied(true);
-    setTimeout(() => setCopied(false), 1500);
-  }
+  const [owner, repoName] = project.name.split("/");
+  const displayAuthor = project.author ?? owner;
+  const displayName = repoName ?? project.name;
 
   return (
-    <div className="group relative flex h-full flex-col rounded-2xl border border-border bg-card p-5 transition-colors hover:border-accent/40">
-      <div className="flex items-start justify-between gap-3">
-        <a
-          href={project.url}
-          target="_blank"
-          rel="noreferrer"
-          className="min-w-0 flex-1 font-semibold tracking-tight hover:text-accent"
-        >
-          <span className="truncate block">{project.name}</span>
-        </a>
-        {project.stars !== null && (
-          <span className="flex shrink-0 items-center gap-1 text-xs text-muted-foreground">
-            <Star className="size-3.5" />
-            {formatStars(project.stars)}
-          </span>
-        )}
+    <a
+      href={project.url}
+      target="_blank"
+      rel="noreferrer"
+      className="group flex h-full flex-col rounded-2xl border border-border bg-card p-5 transition-colors hover:border-accent/40"
+    >
+      <div className="flex items-start gap-3">
+        <div className="size-9 shrink-0 overflow-hidden rounded-full bg-muted">
+          {project.avatar && (
+            <Image
+              src={project.avatar}
+              alt=""
+              width={36}
+              height={36}
+              className="size-9 object-cover"
+            />
+          )}
+        </div>
+        <div className="min-w-0">
+          <p className="truncate font-semibold tracking-tight group-hover:text-accent">
+            {displayName}
+          </p>
+          <p className="truncate text-xs text-muted-foreground">by {displayAuthor}</p>
+        </div>
       </div>
 
-      <p className="mt-2 line-clamp-2 flex-1 text-sm text-muted-foreground">
+      <p className="mt-3 line-clamp-2 flex-1 text-sm text-muted-foreground">
         {project.description}
       </p>
 
@@ -44,43 +46,54 @@ export function ProjectCard({ project }: { project: Project }) {
         <Badge variant="secondary" className="rounded-full">
           {project.category}
         </Badge>
-        {project.language && (
-          <Badge variant="outline" className="rounded-full">
-            {project.language}
-          </Badge>
-        )}
         {project.tags.slice(0, 2).map((tag) => (
           <Badge key={tag} variant="outline" className="rounded-full text-muted-foreground">
             {tag}
           </Badge>
         ))}
+        {project.tags.length > 2 && (
+          <Badge variant="outline" className="rounded-full text-muted-foreground">
+            +{project.tags.length - 2}
+          </Badge>
+        )}
       </div>
 
-      <div className="mt-5 flex items-center justify-between border-t border-border pt-4">
-        <a
-          href={project.url}
-          target="_blank"
-          rel="noreferrer"
-          className="inline-flex items-center gap-1 text-sm font-medium transition-colors hover:text-accent"
-        >
-          Open Repository
-          <ArrowUpRight className="size-3.5" />
-        </a>
-        <Button
-          variant="ghost"
-          size="icon"
-          className="size-8"
-          aria-label="Copy repository link"
-          onClick={handleCopy}
-        >
-          {copied ? <Check className="size-3.5" /> : <Copy className="size-3.5" />}
-        </Button>
+      <div className="mt-5 flex items-center justify-between border-t border-border pt-4 text-xs text-muted-foreground">
+        {project.language ? (
+          <span className="flex items-center gap-1.5">
+            <span
+              className="size-2.5 rounded-full"
+              style={{ background: languageColor(project.language) }}
+            />
+            {project.language}
+          </span>
+        ) : (
+          <span />
+        )}
+        <div className="flex items-center gap-3">
+          {project.stars !== null && (
+            <span className="flex items-center gap-1">
+              <Star className="size-3.5" />
+              {formatCount(project.stars)}
+            </span>
+          )}
+          {project.forks !== null && (
+            <span className="flex items-center gap-1">
+              <GitFork className="size-3.5" />
+              {formatCount(project.forks)}
+            </span>
+          )}
+        </div>
       </div>
-    </div>
+    </a>
   );
 }
 
-function formatStars(stars: number): string {
-  if (stars >= 1000) return `${(stars / 1000).toFixed(1)}k`;
-  return String(stars);
+function languageColor(language: string): string {
+  return LANGUAGE_COLORS[language] ?? "var(--muted-foreground)";
+}
+
+function formatCount(count: number): string {
+  if (count >= 1000) return `${(count / 1000).toFixed(1)}k`;
+  return String(count);
 }
