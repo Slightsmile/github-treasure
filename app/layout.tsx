@@ -14,32 +14,58 @@ const inter = Inter({
 });
 
 const siteUrl = "https://github-treasures.vercel.app";
+const description =
+  "Discover underrated GitHub projects and hidden open-source gems — a hand-curated, searchable directory of the best overlooked repositories worth knowing.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "GitHub Treasures — Discover Hidden GitHub Goldmines",
+    default: "GitHub Treasures — Discover Underrated GitHub Projects & Hidden Gems",
     template: "%s | GitHub Treasures",
   },
-  description:
-    "A curated collection of underrated open-source GitHub projects worth knowing.",
+  description,
+  keywords: [
+    "underrated github projects",
+    "hidden github gems",
+    "best open source projects",
+    "underrated open source",
+    "github goldmines",
+    "open source directory",
+    "github discovery",
+  ],
+  alternates: {
+    canonical: siteUrl,
+  },
   openGraph: {
-    title: "GitHub Treasures",
-    description:
-      "A curated collection of underrated open-source GitHub projects worth knowing.",
+    title: "GitHub Treasures — Discover Underrated GitHub Projects & Hidden Gems",
+    description,
     url: siteUrl,
     siteName: "GitHub Treasures",
     type: "website",
+    images: [
+      {
+        url: "/opengraph-image",
+        width: 1200,
+        height: 630,
+        alt: "GitHub Treasures — Discover Underrated GitHub Projects & Hidden Gems",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "GitHub Treasures",
-    description:
-      "A curated collection of underrated open-source GitHub projects worth knowing.",
+    title: "GitHub Treasures — Discover Underrated GitHub Projects & Hidden Gems",
+    description,
+    images: ["/opengraph-image"],
   },
   robots: {
     index: true,
     follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
   },
 };
 

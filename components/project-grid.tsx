@@ -111,6 +111,7 @@ export function ProjectGrid({ projects, categories }: ProjectGridProps) {
 
   return (
     <section id="projects" className="mx-auto max-w-6xl px-4 pb-24 sm:px-6">
+      <h2 className="sr-only">Underrated GitHub Projects</h2>
       <div className="flex flex-col gap-6">
         <SearchBar value={query} onChange={handleQueryChange} />
 

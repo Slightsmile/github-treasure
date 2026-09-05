@@ -5,7 +5,10 @@ import { GithubIcon } from "@/components/icons/github";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "About GitHub Treasures — a curated directory of underrated open-source GitHub projects.",
+    "About GitHub Treasures — a curated directory of underrated open-source GitHub projects and hidden gems.",
+  alternates: {
+    canonical: "https://github-treasures.vercel.app/about",
+  },
 };
 
 const features = [
