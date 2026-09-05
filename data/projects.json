@@ -6873,5 +6873,228 @@
     "forks": 2613,
     "avatar": "https://avatars.githubusercontent.com/u/108547162?v=4",
     "author": "vercel-labs"
+  },
+  {
+    "slug": "anthropics-skills",
+    "name": "anthropics/skills",
+    "description": "Anthropic's official public repository for Agent Skills — reusable capabilities Claude can load to perform specialized tasks.",
+    "url": "https://github.com/anthropics/skills",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "claude",
+      "anthropic",
+      "agent-tools"
+    ],
+    "language": "Python",
+    "stars": 174468,
+    "dateAdded": "2026-09-05",
+    "forks": 20666,
+    "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "author": "anthropics"
+  },
+  {
+    "slug": "dietrichgebert-ponytail",
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room — a decision-ladder skill for minimal, efficient code generation.",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "claude",
+      "code-generation",
+      "agent-tools"
+    ],
+    "language": "JavaScript",
+    "stars": 127588,
+    "dateAdded": "2026-09-05",
+    "forks": 6826,
+    "avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
+    "author": "DietrichGebert"
+  },
+  {
+    "slug": "blader-humanizer",
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text.",
+    "url": "https://github.com/blader/humanizer",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "writing",
+      "claude",
+      "agent-tools"
+    ],
+    "language": "Python",
+    "stars": 43309,
+    "dateAdded": "2026-09-05",
+    "forks": 3636,
+    "avatar": "https://avatars.githubusercontent.com/u/1672?v=4",
+    "author": "blader"
+  },
+  {
+    "slug": "voltagent-awesome-agent-skills",
+    "name": "VoltAgent/awesome-agent-skills",
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "awesome-list",
+      "claude",
+      "agent-tools"
+    ],
+    "language": null,
+    "stars": 33782,
+    "dateAdded": "2026-09-05",
+    "forks": 3573,
+    "avatar": "https://avatars.githubusercontent.com/u/201282378?v=4",
+    "author": "VoltAgent"
+  },
+  {
+    "slug": "composiohq-awesome-claude-skills",
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows.",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "claude",
+      "awesome-list"
+    ],
+    "language": "Python",
+    "stars": 74522,
+    "dateAdded": "2026-09-05",
+    "forks": 8576,
+    "avatar": "https://avatars.githubusercontent.com/u/128464815?v=4",
+    "author": "ComposioHQ"
+  },
+  {
+    "slug": "minimax-ai-skills",
+    "name": "MiniMax-AI/skills",
+    "description": "MiniMax AI's official collection of agent skills.",
+    "url": "https://github.com/MiniMax-AI/skills",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "agent-tools"
+    ],
+    "language": "C#",
+    "stars": 13513,
+    "dateAdded": "2026-09-05",
+    "forks": 1159,
+    "avatar": "https://avatars.githubusercontent.com/u/194880281?v=4",
+    "author": "MiniMax-AI"
+  },
+  {
+    "slug": "addyosmani-agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents, covering the full development lifecycle from spec to deployment.",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "claude",
+      "cursor",
+      "agent-tools"
+    ],
+    "language": "JavaScript",
+    "stars": 92403,
+    "dateAdded": "2026-09-05",
+    "forks": 9846,
+    "avatar": "https://avatars.githubusercontent.com/u/110953?v=4",
+    "author": "addyosmani"
+  },
+  {
+    "slug": "rebelytics-one-skill-to-rule-them-all",
+    "name": "rebelytics/one-skill-to-rule-them-all",
+    "description": "The meta-skill that builds and improves all your skills, including itself, by watching your work sessions and turning patterns into skill improvements.",
+    "url": "https://github.com/rebelytics/one-skill-to-rule-them-all",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "claude",
+      "meta-skill",
+      "agent-tools"
+    ],
+    "language": "Python",
+    "stars": 2384,
+    "dateAdded": "2026-09-05",
+    "forks": 237,
+    "avatar": "https://avatars.githubusercontent.com/u/261660926?v=4",
+    "author": "rebelytics"
+  },
+  {
+    "slug": "wondelai-skills",
+    "name": "wondelai/skills",
+    "description": "Wondel.ai agent skills — business, marketing, UX and coding frameworks from bestselling books, 50 skills plus 12 guided journeys for Claude Code, Codex, Cursor and other agentskills.io agents.",
+    "url": "https://github.com/wondelai/skills",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "claude",
+      "cursor",
+      "business"
+    ],
+    "language": "Shell",
+    "stars": 2103,
+    "dateAdded": "2026-09-05",
+    "forks": 217,
+    "avatar": "https://avatars.githubusercontent.com/u/138923546?v=4",
+    "author": "wondelai"
+  },
+  {
+    "slug": "etiennelescot-n8n-as-code",
+    "name": "EtienneLescot/n8n-as-code",
+    "description": "Gives your AI agent n8n superpowers — 537 nodes with full schemas, 7,700+ templates, Git-like sync, and TypeScript workflows.",
+    "url": "https://github.com/EtienneLescot/n8n-as-code",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "n8n",
+      "automation",
+      "agent-tools"
+    ],
+    "language": "TypeScript",
+    "stars": 1554,
+    "dateAdded": "2026-09-05",
+    "forks": 182,
+    "avatar": "https://avatars.githubusercontent.com/u/215859519?v=4",
+    "author": "EtienneLescot"
+  },
+  {
+    "slug": "mvanhorn-last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web, then synthesizes a grounded summary.",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "research",
+      "agent-tools"
+    ],
+    "language": "Python",
+    "stars": 61302,
+    "dateAdded": "2026-09-05",
+    "forks": 5356,
+    "avatar": "https://avatars.githubusercontent.com/u/455140?v=4",
+    "author": "mvanhorn"
+  },
+  {
+    "slug": "dreambigou-eli5",
+    "name": "DreambigOu/ELI5",
+    "description": "A Claude Code skill that explains anything to anyone — kids, managers, engineers, parents — adapting tone, vocabulary, and analogies to the audience.",
+    "url": "https://github.com/DreambigOu/ELI5",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "claude",
+      "education"
+    ],
+    "language": "Python",
+    "stars": 911,
+    "dateAdded": "2026-09-05",
+    "forks": 37,
+    "avatar": "https://avatars.githubusercontent.com/u/1847166?v=4",
+    "author": "DreambigOu"
   }
 ]
