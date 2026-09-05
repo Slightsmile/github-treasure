@@ -1300,7 +1300,7 @@
     "name": "davila7/claude-code-templates",
     "description": "A collection of templates and configurations to bootstrap projects with Claude Code.",
     "url": "https://github.com/davila7/claude-code-templates",
-    "category": "AI",
+    "category": "AI Skills",
     "tags": [
       "ai",
       "claude",
@@ -5802,7 +5802,7 @@
     "name": "vudovn/antigravity-kit",
     "description": "A collection of templates, skills, and workflows extending Google Antigravity's agent-first IDE capabilities.",
     "url": "https://github.com/vudovn/antigravity-kit",
-    "category": "AI",
+    "category": "AI Skills",
     "tags": [
       "ai",
       "google-antigravity",
@@ -6047,7 +6047,7 @@
     "name": "pbakaus/impeccable",
     "description": "Design guidance for AI coding agents with deterministic detector rules for AI-generated frontend design.",
     "url": "https://github.com/pbakaus/impeccable",
-    "category": "AI",
+    "category": "AI Skills",
     "tags": [
       "ai",
       "design",
@@ -6853,5 +6853,25 @@
     "forks": 8535,
     "avatar": "https://avatars.githubusercontent.com/u/8016841?v=4",
     "author": "diegosouzapw"
+  },
+  {
+    "slug": "vercel-labs-skills",
+    "name": "vercel-labs/skills",
+    "description": "The open agent skills tool — install reusable skills into Claude, ChatGPT, Cursor, and 77+ other AI coding agents via a single CLI.",
+    "url": "https://github.com/vercel-labs/skills",
+    "category": "AI Skills",
+    "tags": [
+      "ai-skills",
+      "claude",
+      "chatgpt",
+      "agent-tools",
+      "cli"
+    ],
+    "language": "TypeScript",
+    "stars": 30452,
+    "dateAdded": "2026-09-05",
+    "forks": 2613,
+    "avatar": "https://avatars.githubusercontent.com/u/108547162?v=4",
+    "author": "vercel-labs"
   }
 ]
