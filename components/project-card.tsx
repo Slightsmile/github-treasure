@@ -22,10 +22,11 @@ export function ProjectCard({ project }: { project: Project }) {
         <div className="size-9 shrink-0 overflow-hidden rounded-full bg-muted">
           {project.avatar && (
             <Image
-              src={project.avatar}
+              src={avatarSrc(project.avatar)}
               alt=""
               width={36}
               height={36}
+              unoptimized
               className="size-9 object-cover"
             />
           )}
@@ -87,6 +88,19 @@ export function ProjectCard({ project }: { project: Project }) {
       </div>
     </a>
   );
+}
+
+// GitHub serves resized avatars directly via ?s=; requesting them pre-sized
+// avoids running every avatar through Vercel's Image Optimization pipeline
+// (which bills per unique src/width/quality "transformation").
+function avatarSrc(url: string): string {
+  try {
+    const u = new URL(url);
+    u.searchParams.set("s", "72"); // 36px display size * 2 for retina
+    return u.toString();
+  } catch {
+    return url;
+  }
 }
 
 function languageColor(language: string): string {
