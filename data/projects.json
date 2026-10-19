@@ -7096,5 +7096,347 @@
     "forks": 37,
     "avatar": "https://avatars.githubusercontent.com/u/1847166?v=4",
     "author": "DreambigOu"
+  },
+  {
+    "slug": "alienator88-pearcleaner",
+    "name": "alienator88/Pearcleaner",
+    "description": "A free, source-available Mac app cleaner and uninstaller that removes leftover files and orphaned data.",
+    "url": "https://github.com/alienator88/Pearcleaner",
+    "category": "Productivity",
+    "tags": [
+      "macos",
+      "app-cleaner",
+      "uninstaller"
+    ],
+    "language": "Swift",
+    "stars": 14906,
+    "dateAdded": "2026-10-19",
+    "forks": 394,
+    "avatar": "https://avatars.githubusercontent.com/u/6263626?v=4",
+    "author": "alienator88"
+  },
+  {
+    "slug": "me-shaon-devtools",
+    "name": "me-shaon/devtools",
+    "description": "An ultimate developers toolkit desktop app bundling a collection of handy utilities in one native interface.",
+    "url": "https://github.com/me-shaon/devtools",
+    "category": "Developer Tools",
+    "tags": [
+      "developer-tools",
+      "desktop",
+      "toolkit"
+    ],
+    "language": "TypeScript",
+    "stars": 150,
+    "dateAdded": "2026-10-19",
+    "forks": 59,
+    "avatar": "https://avatars.githubusercontent.com/u/831997?v=4",
+    "author": "me-shaon"
+  },
+  {
+    "slug": "jub0t-concat",
+    "name": "jub0t/Concat",
+    "description": "A free, local-first, cross-platform CapCut alternative for multi-track video editing with on-device captions, TTS, and background removal.",
+    "url": "https://github.com/jub0t/Concat",
+    "category": "Open Source",
+    "tags": [
+      "video-editor",
+      "rust",
+      "open-source"
+    ],
+    "language": "Rust",
+    "stars": 9367,
+    "dateAdded": "2026-10-19",
+    "forks": 1117,
+    "avatar": "https://avatars.githubusercontent.com/u/57962439?v=4",
+    "author": "jub0t"
+  },
+  {
+    "slug": "bilawalsidhu-gods-eye-view",
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy-satellite simulator in your browser with a photorealistic 3D globe showing live aircraft, ships, satellites, and more from public data.",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "category": "Security",
+    "tags": [
+      "osint",
+      "geospatial",
+      "3d-globe"
+    ],
+    "language": "JavaScript",
+    "stars": 58178,
+    "dateAdded": "2026-10-19",
+    "forks": 11339,
+    "avatar": "https://avatars.githubusercontent.com/u/106619546?v=4",
+    "author": "bilawalsidhu"
+  },
+  {
+    "slug": "codeforreal1-compresso",
+    "name": "codeforreal1/compressO",
+    "description": "Compress any video or image into a tiny size with a free and open-source desktop app for Mac, Windows, and Linux.",
+    "url": "https://github.com/codeforreal1/compressO",
+    "category": "Open Source",
+    "tags": [
+      "video-compression",
+      "image-processing",
+      "desktop"
+    ],
+    "language": "TypeScript",
+    "stars": 4780,
+    "dateAdded": "2026-10-19",
+    "forks": 384,
+    "avatar": "https://avatars.githubusercontent.com/u/112261845?v=4",
+    "author": "codeforreal1"
+  },
+  {
+    "slug": "naeembolchhi-better-brave-browser",
+    "name": "NaeemBolchhi/better-brave-browser",
+    "description": "Opinionated policy changes to Brave Browser that debloat unnecessary features and preconfigure essential privacy add-ons.",
+    "url": "https://github.com/NaeemBolchhi/better-brave-browser",
+    "category": "Security",
+    "tags": [
+      "browser",
+      "debloat",
+      "privacy"
+    ],
+    "language": "Python",
+    "stars": 3,
+    "dateAdded": "2026-10-19",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/42773187?v=4",
+    "author": "NaeemBolchhi"
+  },
+  {
+    "slug": "appwrite-appwrite",
+    "name": "appwrite/appwrite",
+    "description": "The open-source backend-as-a-service platform providing auth, databases, storage, functions, messaging, and hosting for agents and developers.",
+    "url": "https://github.com/appwrite/appwrite",
+    "category": "Backend",
+    "tags": [
+      "backend-as-a-service",
+      "self-hosted",
+      "cloud"
+    ],
+    "language": "TypeScript",
+    "stars": 57729,
+    "dateAdded": "2026-10-19",
+    "forks": 5804,
+    "avatar": "https://avatars.githubusercontent.com/u/25003669?v=4",
+    "author": "appwrite"
+  },
+  {
+    "slug": "zaifears-tapo-viewer",
+    "name": "zaifears/tapo-viewer",
+    "description": "A free open-source Windows app for TP-Link Tapo cameras with live viewing, SD card recording downloads, and a motion event timeline.",
+    "url": "https://github.com/zaifears/tapo-viewer",
+    "category": "Open Source",
+    "tags": [
+      "windows",
+      "camera",
+      "python"
+    ],
+    "language": "Python",
+    "stars": 3,
+    "dateAdded": "2026-10-19",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/220813088?v=4",
+    "author": "zaifears"
+  },
+  {
+    "slug": "w-okada-voice-changer",
+    "name": "w-okada/voice-changer",
+    "description": "A local real-time voice changer that applies AI voice models to live microphone audio.",
+    "url": "https://github.com/w-okada/voice-changer",
+    "category": "AI",
+    "tags": [
+      "ai",
+      "voice-changer",
+      "real-time"
+    ],
+    "language": "Python",
+    "stars": 21205,
+    "dateAdded": "2026-10-19",
+    "forks": 2437,
+    "avatar": "https://avatars.githubusercontent.com/u/48346627?v=4",
+    "author": "w-okada"
+  },
+  {
+    "slug": "xevrion-gyotaku",
+    "name": "xevrion/gyotaku",
+    "description": "A fast, fully offline desktop tool that monitors your screenshot folders and uses local OCR to make screenshots searchable by their text.",
+    "url": "https://github.com/xevrion/gyotaku",
+    "category": "Rust",
+    "tags": [
+      "rust",
+      "ocr",
+      "screenshots"
+    ],
+    "language": "Rust",
+    "stars": 346,
+    "dateAdded": "2026-10-19",
+    "forks": 19,
+    "avatar": "https://avatars.githubusercontent.com/u/77008538?v=4",
+    "author": "xevrion"
+  },
+  {
+    "slug": "andradeatdev-auto-continue-shortlinks",
+    "name": "andradeatdev/auto-continue-shortlinks",
+    "description": "A userscript that automatically continues and bypasses supported shortlink hosts with instant cache bypass.",
+    "url": "https://github.com/andradeatdev/auto-continue-shortlinks",
+    "category": "Automation",
+    "tags": [
+      "userscript",
+      "automation",
+      "browser"
+    ],
+    "language": "JavaScript",
+    "stars": 9,
+    "dateAdded": "2026-10-19",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/207363278?v=4",
+    "author": "andradeatdev"
+  },
+  {
+    "slug": "morluto-rea",
+    "name": "morluto/rea",
+    "description": "Gives your AI agent the tools to inspect and reverse engineer a program, from app behavior down to native binaries.",
+    "url": "https://github.com/morluto/rea",
+    "category": "AI Skills",
+    "tags": [
+      "ai-agents",
+      "reverse-engineering",
+      "mcp"
+    ],
+    "language": "TypeScript",
+    "stars": 332985,
+    "dateAdded": "2026-10-19",
+    "forks": 84167,
+    "avatar": "https://avatars.githubusercontent.com/u/76467478?v=4",
+    "author": "morluto"
+  },
+  {
+    "slug": "jqssun-android-titanium-browser",
+    "name": "jqssun/android-titanium-browser",
+    "description": "A secure, fully open-source Chromium-based Android browser with extension support, based on Vanadium by GrapheneOS.",
+    "url": "https://github.com/jqssun/android-titanium-browser",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "browser",
+      "privacy"
+    ],
+    "language": "Shell",
+    "stars": 2949,
+    "dateAdded": "2026-10-19",
+    "forks": 147,
+    "avatar": "https://avatars.githubusercontent.com/u/195176069?v=4",
+    "author": "jqssun"
+  },
+  {
+    "slug": "mahmud0808-teledrive",
+    "name": "Mahmud0808/TeleDrive",
+    "description": "Turn your private Telegram channel into a personal cloud drive with automatic backup, optional E2E encryption, and a built-in file manager.",
+    "url": "https://github.com/Mahmud0808/TeleDrive",
+    "category": "Mobile",
+    "tags": [
+      "telegram",
+      "cloud-storage",
+      "android"
+    ],
+    "language": "Kotlin",
+    "stars": 318,
+    "dateAdded": "2026-10-19",
+    "forks": 30,
+    "avatar": "https://avatars.githubusercontent.com/u/29881338?v=4",
+    "author": "Mahmud0808"
+  },
+  {
+    "slug": "jhaiian-clintgecko",
+    "name": "jhaiian/ClintGecko",
+    "description": "An open-source Firefox-based Android browser with a built-in download manager, media capture, and deep customization.",
+    "url": "https://github.com/jhaiian/ClintGecko",
+    "category": "Mobile",
+    "tags": [
+      "android",
+      "browser",
+      "firefox"
+    ],
+    "language": "Kotlin",
+    "stars": 124,
+    "dateAdded": "2026-10-19",
+    "forks": 2,
+    "avatar": "https://avatars.githubusercontent.com/u/233434694?v=4",
+    "author": "jhaiian"
+  },
+  {
+    "slug": "sakfi-taskman-ultimate",
+    "name": "sakfi/TaskMan-Ultimate",
+    "description": "An ultra-high-performance Windows task manager, security forensics suite, and real-time hardware telemetry dashboard built with Flutter.",
+    "url": "https://github.com/sakfi/TaskMan-Ultimate",
+    "category": "Productivity",
+    "tags": [
+      "windows",
+      "task-manager",
+      "telemetry"
+    ],
+    "language": "Dart",
+    "stars": 4,
+    "dateAdded": "2026-10-19",
+    "forks": 0,
+    "avatar": "https://avatars.githubusercontent.com/u/42506020?v=4",
+    "author": "sakfi"
+  },
+  {
+    "slug": "genspark-ai-genoffice",
+    "name": "genspark-ai/genoffice",
+    "description": "A free, open-source AI office suite with Docs, Sheets, Slides, PDF, and Markdown editors plus a built-in AI agent.",
+    "url": "https://github.com/genspark-ai/genoffice",
+    "category": "Productivity",
+    "tags": [
+      "office-suite",
+      "ai",
+      "open-source"
+    ],
+    "language": "TypeScript",
+    "stars": 10024,
+    "dateAdded": "2026-10-19",
+    "forks": 1274,
+    "avatar": "https://avatars.githubusercontent.com/u/242390443?v=4",
+    "author": "genspark-ai"
+  },
+  {
+    "slug": "sonorahq-sonora",
+    "name": "sonorahq/sonora",
+    "description": "A native music streaming client built with Rust and GPUI that streams from popular services and plays local files.",
+    "url": "https://github.com/sonorahq/sonora",
+    "category": "Open Source",
+    "tags": [
+      "music",
+      "rust",
+      "streaming"
+    ],
+    "language": "Rust",
+    "stars": 2163,
+    "dateAdded": "2026-10-19",
+    "forks": 179,
+    "avatar": "https://avatars.githubusercontent.com/u/325815741?v=4",
+    "author": "sonorahq"
+  },
+  {
+    "slug": "storytold-artcraft",
+    "name": "storytold/ArtCraft",
+    "description": "An open-source suite of creative tools like PhotoCraft, VectorCraft, and FilmCraft, offering free alternatives to Photoshop, Illustrator, and Premiere Pro.",
+    "url": "https://github.com/storytold",
+    "category": "Design",
+    "tags": [
+      "design",
+      "creative-tools",
+      "open-source"
+    ],
+    "language": null,
+    "stars": null,
+    "dateAdded": "2026-10-19",
+    "forks": null,
+    "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+    "author": "storytold"
   }
 ]
